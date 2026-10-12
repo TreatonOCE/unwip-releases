@@ -1,0 +1,2 @@
+- Quieter top bar: Stuck?, Sprint and Revise are now plain buttons with small icons. Copy for Docs is the only coloured one.
+- Colour now means "on": Revise turns soft purple while its panel is open, and Sprint turns amber while a sprint is running.

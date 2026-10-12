@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.24.1",
-  "name": "Unwip 0.24.1",
-  "body": "- Manuscript style panel: tidier dropdowns and boxes that match the rest of Unwip, and font names get the full width so they're no longer cut off.\n- The font size in the top bar now updates straight away when you change the body size in the Style panel.\n\nsha256: ea0b3d8722db3e1bb3810ff76cbefcc0b34a15c2f319447aa8ed46e901e844db",
+  "tag_name": "v0.24.2",
+  "name": "Unwip 0.24.2",
+  "body": "- Quieter top bar: Stuck?, Sprint and Revise are now plain buttons with small icons. Copy for Docs is the only coloured one.\n- Colour now means \"on\": Revise turns soft purple while its panel is open, and Sprint turns amber while a sprint is running.\n\nsha256: 9d21e0e144abcb81e4fc68b1eabbb1c4944b39b2514e070dbcc89decab41b046",
   "assets": [
     {
-      "name": "unwip-app-0.24.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.1.zip"
+      "name": "unwip-app-0.24.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.2.zip"
     },
     {
-      "name": "unwip-app-0.24.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.1.zip.sha256"
+      "name": "unwip-app-0.24.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.2.zip.sha256"
     }
   ]
 }
