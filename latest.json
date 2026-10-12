@@ -1,0 +1,15 @@
+{
+  "tag_name": "v0.11.1",
+  "name": "Unwip 0.11.1",
+  "body": "## What's new in Unwip 0.11.1\n\n**Typing sounds, rebuilt.** Each one now sounds like the real thing:\n- **Typewriter:** a sharp clack, a deep thunk on Space, and the bell and carriage return on Enter\n- **Mechanical keyboard:** a crisp double click and a plastic thock\n- **Soft keys:** a quiet, muffled laptop tap\n- **Pencil:** graphite scratching on paper. Space taps the pencil, Enter draws a line, and Backspace rubs with an eraser\n\n**Bolder letter effects.** Fade, Rise, Drop, Pop, Ink and Typewriter strike are now easy to tell apart.\n\n**Hover for help.** Hover any option, or a little **?**, in Typewriter & animations to see what it does. A new **▶ Demo** button types a sentence for you with your chosen settings.\n\nThis is also the first update delivered automatically by Unwip itself.\n\nsha256: ea21829e2d742feb0b574e5e79603e14fd62efba4f55039041150c73efb6dce1",
+  "assets": [
+    {
+      "name": "unwip-app-0.11.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.1.zip"
+    },
+    {
+      "name": "unwip-app-0.11.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.1.zip.sha256"
+    }
+  ]
+}
