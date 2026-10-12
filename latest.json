@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.11.2",
-  "name": "Unwip 0.11.2",
-  "body": "## Unwip 0.11.2\n\n- Updates can now come from a private GitHub repo. Paste your read-only update key into **Settings → Updates**.\n\nsha256: 3ae1226d57f41227115aaf6eab631149661f8b2eb3a48b129fe3581addd73d7f",
+  "tag_name": "v0.11.3",
+  "name": "Unwip 0.11.3",
+  "body": "## Unwip 0.11.3\n\n- The **Demo** button now turns into **Stop** while it plays\n- New **Sample when I pick** switch: turn it off so choosing an effect or sound stays quiet\n\nsha256: 3690c10175e30836a9cb9fc2fac75a39e083d8790fa2e3e080aa80714d1c1736",
   "assets": [
     {
-      "name": "unwip-app-0.11.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.2.zip"
+      "name": "unwip-app-0.11.3.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.3.zip"
     },
     {
-      "name": "unwip-app-0.11.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.2.zip.sha256"
+      "name": "unwip-app-0.11.3.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.3.zip.sha256"
     }
   ]
 }
