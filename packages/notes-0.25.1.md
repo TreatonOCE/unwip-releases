@@ -1,0 +1,1 @@
+- Stuck? is now called Spark, with a flame icon. Same tools (Just 50 words, Messy draft, Make it smaller and the rest) for a blank page, a slow day or putting it off. It still glows teal when you've been quiet for a while.
