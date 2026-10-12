@@ -1,0 +1,1 @@
+- Phone and iPad: updates now arrive the next time you open Unwip, instead of up to ten minutes later.
