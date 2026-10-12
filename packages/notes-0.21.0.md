@@ -1,0 +1,3 @@
+- One big "+ New" button at the bottom of the binder: new document, folder, map, template section or bring in chapters, each with a little preview.
+- Template sections: ready-made sheets for factions, magic systems, creatures, monsters, classes, spells, religions, cultures, languages, history, quests, ships and worlds — with a preview of each before you add it, or make your own.
+- New Help area (the "?" button or F1): plain-English explanations of every feature, searchable, plus a full keyboard shortcut list.

@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.20.0",
-  "name": "Unwip 0.20.0",
-  "body": "## Unwip 0.20: better maps, and a toolbar that fits small screens\n\n**Maps**\n- **Sections:** one map can hold several, such as the whole world, a region close-up and a city. Use **+ Section** to start one empty or generated, and right-click a tab to rename, duplicate, reorder or delete it\n- **Generate › Add it to this map:** puts a new island, island chain or continent in the emptiest stretch of sea, keeping everything already there\n- **Clear** empties the current section (Undo brings it back)\n- **Border tool** (red dotted line) for borders between lands and kingdoms. The river tool is gone: paint waterways with the 🌊 water brush\n- **Map frame:** double line, single line, ornate corners with a scale bar, or no frame\n- **Brush size** now has a brush icon and shows the size\n- **Much smoother painting:** land and water show instantly while you paint, and the full coastline is drawn when you let go. Dragging things around is smoother too\n\n**Toolbar**\n- On smaller windows, tools that don't fit go into a **⋯** menu instead of hiding behind Stuck? and Sprint. \"Copy for Docs\" shortens to \"Copy\", and Stuck? to its icon, on narrow windows\n\nsha256: ab9c7265581c0d71f2504d8b8d0b93a9983c5c1a2788ed4e24954768d665eacb",
+  "tag_name": "v0.21.0",
+  "name": "Unwip 0.21.0",
+  "body": "- One big \"+ New\" button at the bottom of the binder: new document, folder, map, template section or bring in chapters, each with a little preview.\n- Template sections: ready-made sheets for factions, magic systems, creatures, monsters, classes, spells, religions, cultures, languages, history, quests, ships and worlds — with a preview of each before you add it, or make your own.\n- New Help area (the \"?\" button or F1): plain-English explanations of every feature, searchable, plus a full keyboard shortcut list.\n\nsha256: ea9a10c0e9bc722a9237ca927aaea62a204cc7f8cb2b77eb385b26f790aa37af",
   "assets": [
     {
-      "name": "unwip-app-0.20.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.20.0.zip"
+      "name": "unwip-app-0.21.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.21.0.zip"
     },
     {
-      "name": "unwip-app-0.20.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.20.0.zip.sha256"
+      "name": "unwip-app-0.21.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.21.0.zip.sha256"
     }
   ]
 }
