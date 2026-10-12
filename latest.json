@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.8",
-  "name": "Unwip 0.29.8",
-  "body": "- Phone and iPad: the Dropbox button now shows what it is doing and how much is left: \"Checking… 1,240\", then \"Syncing… 312 left\". Settings shows the same, with how many files are coming down and going up.\n\nsha256: 37b99d435b95093e72ea153dab294fa1781b3a2a0d3008a8bb7ad743aefb2f4e",
+  "tag_name": "v0.29.9",
+  "name": "Unwip 0.29.9",
+  "body": "- Phone and iPad Dropbox sync no longer gives up when Dropbox says \"slow down\" (common on the first sync of a whole book) or the signal drops: it waits and carries on.\n- A big first sync saves its progress as it goes, so closing the app or losing signal picks up where it stopped.\n- Books appear in your library as soon as they arrive, chapters first, instead of all at the end.\n\nsha256: 30448d504294a7d9008202d57b16a79ee408edfdc1163a9711486fe8a4750da0",
   "assets": [
     {
-      "name": "unwip-app-0.29.8.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.8.zip"
+      "name": "unwip-app-0.29.9.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.9.zip"
     },
     {
-      "name": "unwip-app-0.29.8.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.8.zip.sha256"
+      "name": "unwip-app-0.29.9.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.9.zip.sha256"
     }
   ]
 }

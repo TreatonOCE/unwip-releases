@@ -1,0 +1,3 @@
+- Phone and iPad Dropbox sync no longer gives up when Dropbox says "slow down" (common on the first sync of a whole book) or the signal drops: it waits and carries on.
+- A big first sync saves its progress as it goes, so closing the app or losing signal picks up where it stopped.
+- Books appear in your library as soon as they arrive, chapters first, instead of all at the end.
