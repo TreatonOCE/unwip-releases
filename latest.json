@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.11.3",
-  "name": "Unwip 0.11.3",
-  "body": "## Unwip 0.11.3\n\n- The **Demo** button now turns into **Stop** while it plays\n- New **Sample when I pick** switch: turn it off so choosing an effect or sound stays quiet\n\nsha256: 3690c10175e30836a9cb9fc2fac75a39e083d8790fa2e3e080aa80714d1c1736",
+  "tag_name": "v0.12.0",
+  "name": "Unwip 0.12.0",
+  "body": "## What's new in Unwip 0.12\n\n**Sync with Dropbox.** Settings → *Where your projects live* → **Sync with Dropbox** moves all your projects (and Play pieces) into your Dropbox folder, so every computer with Dropbox and Unwip sees the same books. OneDrive or any other folder works too. Your old folder is kept as a safety copy.\n- If a project is open on another device, Unwip tells you when you open it\n- When another device saves a chapter or changes the binder, Unwip loads the change straight away\n- If Dropbox ends up with two versions of a chapter, Unwip offers to keep both, side by side\n\n**Better backups**\n- Automatic backups now include your moodboard images\n- Project menu → **Backups…** lists the last 20, and any of them can be restored as a separate copy\n- Project menu → **Save a full backup file…** saves everything (chapters, images, snapshots) as one .unwip file. Restore it from Import…\n- Settings → **Extra backup copy**: once a day, a full backup goes to a second place, like a USB stick (last 10 kept)\n\n**Quotes** now rotate properly: 55 of them, and none repeats until you've seen them all.\n\nsha256: 564f8369c8a33349e0cc674aa72a7732b3a5f979e3ee54b84615fc5515c00dc1",
   "assets": [
     {
-      "name": "unwip-app-0.11.3.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.3.zip"
+      "name": "unwip-app-0.12.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.0.zip"
     },
     {
-      "name": "unwip-app-0.11.3.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.11.3.zip.sha256"
+      "name": "unwip-app-0.12.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.0.zip.sha256"
     }
   ]
 }
