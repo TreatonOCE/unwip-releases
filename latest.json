@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.17.0",
-  "name": "Unwip 0.17.0",
-  "body": "## Unwip 0.17: bring your book in from anywhere\n\n- **Import… now takes almost anything.** It reads Word (.docx), LibreOffice (.odt), RTF, plain text and Markdown files. You can pick one file or several at once\n- **A folder of chapter files.** Point Unwip at a folder like \"Chapter 1.docx, Chapter 2.docx … Chapter 10.docx\" and it brings them in in the right order\n- **Paste a whole book.** In Google Docs (or anywhere), select all and copy, then paste into Unwip. Italics and bold come with it\n- **Finds the chapters for you.** It looks for headings, \"Chapter 3\" lines, \"Prologue\", numbered chapters, page breaks, section breaks and bold or centred title lines. It also skips a table of contents, repeated page headers and page numbers from PDF conversions\n- **Check before importing.** A preview lists every chapter. Untick one to join it to the chapter above, rename any of them, or try another way of splitting. Parts become folders, and you can split chapters into scenes at * * *\n- Pictures in Word files now come across too\n- Right-click a folder › *Import files here…* or *Paste chapters here…* to add to a project you already have\n\nsha256: 02957d19f50d41902264144b3f997ff91d4b3ef92eba12e22f693111df6aca30",
+  "tag_name": "v0.17.1",
+  "name": "Unwip 0.17.1",
+  "body": "## Unwip 0.17.1\n\n- Tour: on smaller windows, where the toolbar is squeezed, each step now points at the right button. \"Comments & footnotes\" was pointing at Stuck?\n\nsha256: 1fa5d5edcc3815dbe80a6644c8fe97c54360132505a899756bd8faefa2c53582",
   "assets": [
     {
-      "name": "unwip-app-0.17.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.0.zip"
+      "name": "unwip-app-0.17.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.1.zip"
     },
     {
-      "name": "unwip-app-0.17.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.0.zip.sha256"
+      "name": "unwip-app-0.17.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.1.zip.sha256"
     }
   ]
 }
