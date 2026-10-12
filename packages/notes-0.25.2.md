@@ -1,0 +1,6 @@
+- Fixed: Find anything (Ctrl+K and the magnifier) stopped opening in 0.25.1. Sorry about that.
+- Find anything now searches your writing too: type a word and pick "Find in this chapter" or "Search the whole book".
+- Find in chapter works on iPhone and iPad, highlighting every match with the current one in orange.
+- Phone: the formatting row above the keyboard now scrolls sideways (swipe it), with a soft fade showing there's more.
+- Phone: writer mode no longer shows the quote on top of the chapter title.
+- Phone: the find bar fits the screen.

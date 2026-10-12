@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.25.1",
-  "name": "Unwip 0.25.1",
-  "body": "- Stuck? is now called Spark, with a flame icon. Same tools (Just 50 words, Messy draft, Make it smaller and the rest) for a blank page, a slow day or putting it off. It still glows teal when you've been quiet for a while.\n\nsha256: 215cba4e10dd604707fc015833d22b12527f9c28a7711d54273fbb0051ef3ef9",
+  "tag_name": "v0.25.2",
+  "name": "Unwip 0.25.2",
+  "body": "- Fixed: Find anything (Ctrl+K and the magnifier) stopped opening in 0.25.1. Sorry about that.\n- Find anything now searches your writing too: type a word and pick \"Find in this chapter\" or \"Search the whole book\".\n- Find in chapter works on iPhone and iPad, highlighting every match with the current one in orange.\n- Phone: the formatting row above the keyboard now scrolls sideways (swipe it), with a soft fade showing there's more.\n- Phone: writer mode no longer shows the quote on top of the chapter title.\n- Phone: the find bar fits the screen.\n\nsha256: 4eb6294e4cf75c47de029c1e7ec9a9b4e7a36de1c1909b0fe7f06ddbf634b1fc",
   "assets": [
     {
-      "name": "unwip-app-0.25.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.1.zip"
+      "name": "unwip-app-0.25.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.2.zip"
     },
     {
-      "name": "unwip-app-0.25.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.1.zip.sha256"
+      "name": "unwip-app-0.25.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.2.zip.sha256"
     }
   ]
 }
