@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.24.3",
-  "name": "Unwip 0.24.3",
-  "body": "- Stuck? now glows a calm teal (not red or blue) when you've been quiet for a while, so it reads as a friendly offer of help rather than a warning.\n\nsha256: b814ca33550c091c62455a6e3ba15050a0054a04e2084eaca77297cc685ce894",
+  "tag_name": "v0.25.0",
+  "name": "Unwip 0.25.0",
+  "body": "- Phones get a simpler Unwip, like Scrivener's iPhone app: your chapters, the page, Outline, Revise (the five big checks), comments, snapshots, Manuscript style, Stuck? and Copy for Docs.\n- Corkboard, Moodboard, Timeline, sprints, writing goals, split view and exporting stay on the iPad and computer. Nothing is lost; it's all there when you open the book on a bigger screen.\n- The phone's bottom bar now has Find anything (the magnifier) instead of Sprint, and Revise and Stuck? are plain like on the computer.\n- Dark themes checked across the new top bar, search, export menu, selection bar and side panel.\n- Help has a new \"On a phone\" topic.\n\nsha256: 35ee1ce5dadeecb4fe7db4bcb700c681150eca5ab7cff7a033d829c8f5c26971",
   "assets": [
     {
-      "name": "unwip-app-0.24.3.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.3.zip"
+      "name": "unwip-app-0.25.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.0.zip"
     },
     {
-      "name": "unwip-app-0.24.3.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.3.zip.sha256"
+      "name": "unwip-app-0.25.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.0.zip.sha256"
     }
   ]
 }

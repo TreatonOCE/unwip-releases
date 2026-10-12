@@ -1,0 +1,5 @@
+- Phones get a simpler Unwip, like Scrivener's iPhone app: your chapters, the page, Outline, Revise (the five big checks), comments, snapshots, Manuscript style, Stuck? and Copy for Docs.
+- Corkboard, Moodboard, Timeline, sprints, writing goals, split view and exporting stay on the iPad and computer. Nothing is lost; it's all there when you open the book on a bigger screen.
+- The phone's bottom bar now has Find anything (the magnifier) instead of Sprint, and Revise and Stuck? are plain like on the computer.
+- Dark themes checked across the new top bar, search, export menu, selection bar and side panel.
+- Help has a new "On a phone" topic.
