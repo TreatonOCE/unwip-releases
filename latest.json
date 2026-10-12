@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.12.0",
-  "name": "Unwip 0.12.0",
-  "body": "## What's new in Unwip 0.12\n\n**Sync with Dropbox.** Settings → *Where your projects live* → **Sync with Dropbox** moves all your projects (and Play pieces) into your Dropbox folder, so every computer with Dropbox and Unwip sees the same books. OneDrive or any other folder works too. Your old folder is kept as a safety copy.\n- If a project is open on another device, Unwip tells you when you open it\n- When another device saves a chapter or changes the binder, Unwip loads the change straight away\n- If Dropbox ends up with two versions of a chapter, Unwip offers to keep both, side by side\n\n**Better backups**\n- Automatic backups now include your moodboard images\n- Project menu → **Backups…** lists the last 20, and any of them can be restored as a separate copy\n- Project menu → **Save a full backup file…** saves everything (chapters, images, snapshots) as one .unwip file. Restore it from Import…\n- Settings → **Extra backup copy**: once a day, a full backup goes to a second place, like a USB stick (last 10 kept)\n\n**Quotes** now rotate properly: 55 of them, and none repeats until you've seen them all.\n\nsha256: 564f8369c8a33349e0cc674aa72a7732b3a5f979e3ee54b84615fc5515c00dc1",
+  "tag_name": "v0.12.1",
+  "name": "Unwip 0.12.1",
+  "body": "## Unwip 0.12.1\n\n- **Scrivener import fixed for Scrivener on Windows.** Chapters now come across with all their text (it was only finding the binder before)\n- Your own Scrivener **status labels** come across with their real names\n- Scrivener **emoji icons** come across\n- Your main **font and size** become the project's manuscript style\n- Windows Scrivener font names (like *TimesNewRomanPSMT*) are turned back into normal fonts, including bold and italic faces\n\nsha256: c4bfe23f36bd0b7a554634be0b71e71ca5beb78733a4ba6019a093a953351ab4",
   "assets": [
     {
-      "name": "unwip-app-0.12.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.0.zip"
+      "name": "unwip-app-0.12.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.1.zip"
     },
     {
-      "name": "unwip-app-0.12.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.0.zip.sha256"
+      "name": "unwip-app-0.12.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.1.zip.sha256"
     }
   ]
 }
