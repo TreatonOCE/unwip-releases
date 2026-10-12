@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.13.0",
-  "name": "Unwip 0.13.0",
-  "body": "## Unwip 0.13\n\n- **New logo**: the Fraunces wordmark with the three progress dots\n- **Chapter title look** in Preview & export: change the font, size, bold, italic and alignment of chapter titles and see the pages update as you go. The same style is used for titles in the editor and in every export\n- E-book and paperback titles now keep the size you chose, relative to your body text\n\nsha256: 116eb0c88b4b0101092c57eaf2939f00ba63858e1b872fb3fc164b5303fabbe7",
+  "tag_name": "v0.13.1",
+  "name": "Unwip 0.13.1",
+  "body": "## Unwip 0.13.1\n\n- **New app icon**: the three progress dots (started, in progress, finished) on navy. Small sizes use solid dots, pale to full coral, so they stay crisp on the taskbar\n\nsha256: 36943318daf58a970679fbe65eb5f6ca3b88cd96d08f630bed82602140f6532b",
   "assets": [
     {
-      "name": "unwip-app-0.13.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.0.zip"
+      "name": "unwip-app-0.13.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.1.zip"
     },
     {
-      "name": "unwip-app-0.13.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.0.zip.sha256"
+      "name": "unwip-app-0.13.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.1.zip.sha256"
     }
   ]
 }
