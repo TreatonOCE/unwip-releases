@@ -1,0 +1,2 @@
+- Manuscript style panel: tidier dropdowns and boxes that match the rest of Unwip, and font names get the full width so they're no longer cut off.
+- The font size in the top bar now updates straight away when you change the body size in the Style panel.

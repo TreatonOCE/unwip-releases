@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.24.0",
-  "name": "Unwip 0.24.0",
-  "body": "- Calmer top bar: just the everyday tools. Everything else is one click away, and nothing is gone.\n- Find anything (Ctrl+K, or the magnifier at the top): type a chapter name, a tool or a question and press Enter.\n- Select some text and a small bar appears with strikethrough, alignment, clear formatting, comment and footnote.\n- One side panel with tabs: Revise, Comments, Snapshots and Style all share the same spot on the right, so they never stack up.\n- Manuscript style now changes the page as you adjust it, with a \"Put it back how it was\" button.\n- Copy for Docs has a small arrow beside it with every export option in one place.\n- Detailed mode adds the comment and scene-break buttons back to the top bar.\n- Right-click › Insert picture… adds an image where your cursor is.\n- Split chapter here is now Ctrl+Shift+K (Ctrl+K opens Find anything).\n\nsha256: af3966ba741e48a5881fbb008eb81d4db5608a6e90740d2bf17e65d92a629af1",
+  "tag_name": "v0.24.1",
+  "name": "Unwip 0.24.1",
+  "body": "- Manuscript style panel: tidier dropdowns and boxes that match the rest of Unwip, and font names get the full width so they're no longer cut off.\n- The font size in the top bar now updates straight away when you change the body size in the Style panel.\n\nsha256: ea0b3d8722db3e1bb3810ff76cbefcc0b34a15c2f319447aa8ed46e901e844db",
   "assets": [
     {
-      "name": "unwip-app-0.24.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.0.zip"
+      "name": "unwip-app-0.24.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.1.zip"
     },
     {
-      "name": "unwip-app-0.24.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.0.zip.sha256"
+      "name": "unwip-app-0.24.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.1.zip.sha256"
     }
   ]
 }
