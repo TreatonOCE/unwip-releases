@@ -1,0 +1,1 @@
+- Stuck? now glows a calm teal (not red or blue) when you've been quiet for a while, so it reads as a friendly offer of help rather than a warning.

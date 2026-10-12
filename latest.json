@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.24.2",
-  "name": "Unwip 0.24.2",
-  "body": "- Quieter top bar: Stuck?, Sprint and Revise are now plain buttons with small icons. Copy for Docs is the only coloured one.\n- Colour now means \"on\": Revise turns soft purple while its panel is open, and Sprint turns amber while a sprint is running.\n\nsha256: 9d21e0e144abcb81e4fc68b1eabbb1c4944b39b2514e070dbcc89decab41b046",
+  "tag_name": "v0.24.3",
+  "name": "Unwip 0.24.3",
+  "body": "- Stuck? now glows a calm teal (not red or blue) when you've been quiet for a while, so it reads as a friendly offer of help rather than a warning.\n\nsha256: b814ca33550c091c62455a6e3ba15050a0054a04e2084eaca77297cc685ce894",
   "assets": [
     {
-      "name": "unwip-app-0.24.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.2.zip"
+      "name": "unwip-app-0.24.3.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.3.zip"
     },
     {
-      "name": "unwip-app-0.24.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.2.zip.sha256"
+      "name": "unwip-app-0.24.3.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.24.3.zip.sha256"
     }
   ]
 }
