@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.1",
-  "name": "Unwip 0.29.1",
-  "body": "- Maps: new Frame tool (the rectangle button under the dotted border). Drag out a box anywhere and pick its line style at the top: double line, single line, thick line or ornate corners. Use it for your own map edge, an inset or a title box. Click a frame's line to select it, drag to move it, drag its corner to resize, Delete removes it. The edge frame now has a \"Thick line\" style too.\n- The little formatting bar over selected text no longer sits on top of Spark, Find anything and other windows.\n- Read aloud now has its own button in the toolbar (the speaker), as well as F8.\n- The toolbar now tucks tools into ⋯ correctly at in-between window widths, instead of cutting off the paragraph style box.\n\nsha256: ff22559e6e557bf6708bbf10fe57c7aedee2a5e94e7f66fa8b28ba0b1eb0b0fc",
+  "tag_name": "v0.29.2",
+  "name": "Unwip 0.29.2",
+  "body": "- Insights: a new \"At a glance\" section that's always filled in: longest and shortest chapter, most and least dialogue, average scene length, and how dialogue-heavy the book is.\n- Empty chapters are pointed out, shown as a dashed outline, and no longer drag the average down.\n- Bars are numbered by their place in the manuscript, so chapters with repeated or missing numbers in their titles don't show confusing labels.\n\nsha256: 0588ffd5f88fef2a5d0a668528c34669ca367dec39553b40d3e1d0d4f2f0175e",
   "assets": [
     {
-      "name": "unwip-app-0.29.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.1.zip"
+      "name": "unwip-app-0.29.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.2.zip"
     },
     {
-      "name": "unwip-app-0.29.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.1.zip.sha256"
+      "name": "unwip-app-0.29.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.2.zip.sha256"
     }
   ]
 }

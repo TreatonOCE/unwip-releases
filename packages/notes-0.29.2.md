@@ -1,0 +1,3 @@
+- Insights: a new "At a glance" section that's always filled in: longest and shortest chapter, most and least dialogue, average scene length, and how dialogue-heavy the book is.
+- Empty chapters are pointed out, shown as a dashed outline, and no longer drag the average down.
+- Bars are numbered by their place in the manuscript, so chapters with repeated or missing numbers in their titles don't show confusing labels.
