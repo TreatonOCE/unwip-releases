@@ -1,0 +1,1 @@
+- Connecting Dropbox from a Home Screen app: an "Open Dropbox" button now opens the sign-in page (iPhone blocked it opening by itself).

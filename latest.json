@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.3",
-  "name": "Unwip 0.29.3",
-  "body": "- Dropbox for the phone and iPad version is switched on: Settings › Connect Dropbox. Each person signs in with their own Dropbox; Unwip only sees its own folder in it (Dropbox/Apps/Unwip).\n- On the PC, once that folder exists, Settings › Where your projects live offers \"Dropbox (shared with the phone and iPad)\" so the PC and phone use the same books.\n\nsha256: 3d1e57231feb2b6daa0d4711eb712e3446f6bb05ccbafe5b6b8542ad7c71380e",
+  "tag_name": "v0.29.4",
+  "name": "Unwip 0.29.4",
+  "body": "- Connecting Dropbox from a Home Screen app: an \"Open Dropbox\" button now opens the sign-in page (iPhone blocked it opening by itself).\n\nsha256: 77cb12de352faad3acc33796f92fb49cc0488d3d67bfa7c161cc18ff11fcd22d",
   "assets": [
     {
-      "name": "unwip-app-0.29.3.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.3.zip"
+      "name": "unwip-app-0.29.4.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.4.zip"
     },
     {
-      "name": "unwip-app-0.29.3.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.3.zip.sha256"
+      "name": "unwip-app-0.29.4.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.4.zip.sha256"
     }
   ]
 }
