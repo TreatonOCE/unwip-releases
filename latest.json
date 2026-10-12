@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.17.3",
-  "name": "Unwip 0.17.3",
-  "body": "## Unwip 0.17.3\n\n- **+ Map** button at the bottom of the binder. It makes a new map in Places, or in the folder you have selected. (Right-click a folder › New map here… still works too.)\n- The tour now shows where maps are\n\nsha256: ad74090c05831c73fb2c8cd9652ac7826009c8781bf46ec717c02a6989177f43",
+  "tag_name": "v0.18.0",
+  "name": "Unwip 0.18.0",
+  "body": "## Unwip 0.18: real book typesetting\n\nThe paperback preview and print PDF now set your book the way a printed novel is set, page by page.\n\n- **Six book designs:** Classic, Fantasy, Literary, Romance, Thriller and Modern. Each has its own chapter openings (\"Chapter One\" with an ornament, a big numeral, small capitals and so on), fonts, drop capitals and scene-break ornaments\n- **Proper book pages:** mirrored margins with an inside gutter sized for your page count (as KDP asks), chapters starting on a right-hand page, running heads (author on the left, title on the right), page numbers, and no heads on chapter-opening or blank pages\n- **Front and back matter:** half-title, title page (with subtitle and publisher), copyright page, dedication, epigraph, a contents page with real page numbers, acknowledgements, about the author and \"also by\". Fill them in under *Title page, copyright & more…*\n- **Parts** get their own page; \"Prologue\" and \"Epilogue\" aren't numbered as chapters\n- **Fine control:** trim size (including Royal and B-format), text size, line spacing, text and heading fonts, scene-break style, drop caps, small-caps first lines, justification, hyphenation, large print\n- **Print-ready PDF:** fonts fully embedded as printers require. What you see in the preview is exactly what prints, page for page\n- **The e-book matches:** the EPUB now has the same chapter headings, drop caps, scene breaks, title page, copyright page, dedication, epigraph and back matter\n- **Six book fonts included with Unwip** (EB Garamond, Libre Baskerville, Crimson Pro, Lora, Cinzel, Oswald). They also appear in your font lists\n\nsha256: dc6fd9249dfd90c933ba477a229cf9f1fd9ab7f941141dfca332def54d5bdb75",
   "assets": [
     {
-      "name": "unwip-app-0.17.3.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.3.zip"
+      "name": "unwip-app-0.18.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.18.0.zip"
     },
     {
-      "name": "unwip-app-0.17.3.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.3.zip.sha256"
+      "name": "unwip-app-0.18.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.18.0.zip.sha256"
     }
   ]
 }
