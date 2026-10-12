@@ -1,0 +1,2 @@
+- Dropbox for the phone and iPad version is switched on: Settings › Connect Dropbox. Each person signs in with their own Dropbox; Unwip only sees its own folder in it (Dropbox/Apps/Unwip).
+- On the PC, once that folder exists, Settings › Where your projects live offers "Dropbox (shared with the phone and iPad)" so the PC and phone use the same books.

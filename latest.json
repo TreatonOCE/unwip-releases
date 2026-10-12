@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.2",
-  "name": "Unwip 0.29.2",
-  "body": "- Insights: a new \"At a glance\" section that's always filled in: longest and shortest chapter, most and least dialogue, average scene length, and how dialogue-heavy the book is.\n- Empty chapters are pointed out, shown as a dashed outline, and no longer drag the average down.\n- Bars are numbered by their place in the manuscript, so chapters with repeated or missing numbers in their titles don't show confusing labels.\n\nsha256: 0588ffd5f88fef2a5d0a668528c34669ca367dec39553b40d3e1d0d4f2f0175e",
+  "tag_name": "v0.29.3",
+  "name": "Unwip 0.29.3",
+  "body": "- Dropbox for the phone and iPad version is switched on: Settings › Connect Dropbox. Each person signs in with their own Dropbox; Unwip only sees its own folder in it (Dropbox/Apps/Unwip).\n- On the PC, once that folder exists, Settings › Where your projects live offers \"Dropbox (shared with the phone and iPad)\" so the PC and phone use the same books.\n\nsha256: 3d1e57231feb2b6daa0d4711eb712e3446f6bb05ccbafe5b6b8542ad7c71380e",
   "assets": [
     {
-      "name": "unwip-app-0.29.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.2.zip"
+      "name": "unwip-app-0.29.3.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.3.zip"
     },
     {
-      "name": "unwip-app-0.29.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.2.zip.sha256"
+      "name": "unwip-app-0.29.3.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.3.zip.sha256"
     }
   ]
 }
