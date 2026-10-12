@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.17.1",
-  "name": "Unwip 0.17.1",
-  "body": "## Unwip 0.17.1\n\n- Tour: on smaller windows, where the toolbar is squeezed, each step now points at the right button. \"Comments & footnotes\" was pointing at Stuck?\n\nsha256: 1fa5d5edcc3815dbe80a6644c8fe97c54360132505a899756bd8faefa2c53582",
+  "tag_name": "v0.17.2",
+  "name": "Unwip 0.17.2",
+  "body": "## Unwip 0.17.2\n\n- **Chapter titles** now works for chapters made of scenes (folders): *Document names*, *First line* and *Don’t add titles* all change the book. With titles off, each chapter still starts on a new page (and a new section in e-books)\n- **Chapter title look:** the font list starts with the same publishing favourites as the main font list, and a **★ button** saves any font to *Your favourites*. Favourites appear at the top of every font list\n- In agent submission format the title look is dimmed, with a note saying why (agents expect plain Times New Roman 12)\n\nsha256: 8d6761722d7ecd792996c185c2c51f27018d2b1398a879c81c9f12cff1e3fce8",
   "assets": [
     {
-      "name": "unwip-app-0.17.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.1.zip"
+      "name": "unwip-app-0.17.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.2.zip"
     },
     {
-      "name": "unwip-app-0.17.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.1.zip.sha256"
+      "name": "unwip-app-0.17.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.17.2.zip.sha256"
     }
   ]
 }
