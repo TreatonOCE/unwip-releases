@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.0",
-  "name": "Unwip 0.29.0",
-  "body": "- Dialogue view (Ctrl+Shift+D, or search “Dialogue”): fades everything except the dialogue so you can read just the conversation. Switch to Narration to fade the dialogue instead. Pick a character to see only their lines (Unwip guesses who's speaking from the names on your Characters sheets, like “said Maz”, including first-person narrators). Tick “Only these paragraphs” to hide the rest. Shows how much of the chapter is dialogue. Nothing on the page changes.\n- Writing history (Goals › Full history, the main screen, or search “History”): a calendar of every day you wrote across all your books, with streaks, best day, average on a writing day, words per month and per book, time spent writing, and the times of day and days of the week your words come. Click a day to see what you wrote. Time of day and time spent are counted from this version on.\n- Series bible (search “Series bible”, or right-click Characters): books in the same series share their Characters, Places and Items sheets. A shared sheet is in every book of the series (marked with a little books icon) and changes in one book reach the others. If a sheet was changed in two books, the newer one wins and the other is kept as a snapshot. Sheets with the same name in two books are joined up, with the old text kept as a snapshot.\n\nsha256: 3644d2be57646fb3a44f1fc5003916b7f263b4510d4e78845d5633f1a696dbe7",
+  "tag_name": "v0.29.1",
+  "name": "Unwip 0.29.1",
+  "body": "- Maps: new Frame tool (the rectangle button under the dotted border). Drag out a box anywhere and pick its line style at the top: double line, single line, thick line or ornate corners. Use it for your own map edge, an inset or a title box. Click a frame's line to select it, drag to move it, drag its corner to resize, Delete removes it. The edge frame now has a \"Thick line\" style too.\n- The little formatting bar over selected text no longer sits on top of Spark, Find anything and other windows.\n- Read aloud now has its own button in the toolbar (the speaker), as well as F8.\n- The toolbar now tucks tools into ⋯ correctly at in-between window widths, instead of cutting off the paragraph style box.\n\nsha256: ff22559e6e557bf6708bbf10fe57c7aedee2a5e94e7f66fa8b28ba0b1eb0b0fc",
   "assets": [
     {
-      "name": "unwip-app-0.29.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.0.zip"
+      "name": "unwip-app-0.29.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.1.zip"
     },
     {
-      "name": "unwip-app-0.29.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.0.zip.sha256"
+      "name": "unwip-app-0.29.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.1.zip.sha256"
     }
   ]
 }

@@ -1,0 +1,4 @@
+- Maps: new Frame tool (the rectangle button under the dotted border). Drag out a box anywhere and pick its line style at the top: double line, single line, thick line or ornate corners. Use it for your own map edge, an inset or a title box. Click a frame's line to select it, drag to move it, drag its corner to resize, Delete removes it. The edge frame now has a "Thick line" style too.
+- The little formatting bar over selected text no longer sits on top of Spark, Find anything and other windows.
+- Read aloud now has its own button in the toolbar (the speaker), as well as F8.
+- The toolbar now tucks tools into ⋯ correctly at in-between window widths, instead of cutting off the paragraph style box.
