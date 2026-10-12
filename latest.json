@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.18.0",
-  "name": "Unwip 0.18.0",
-  "body": "## Unwip 0.18: real book typesetting\n\nThe paperback preview and print PDF now set your book the way a printed novel is set, page by page.\n\n- **Six book designs:** Classic, Fantasy, Literary, Romance, Thriller and Modern. Each has its own chapter openings (\"Chapter One\" with an ornament, a big numeral, small capitals and so on), fonts, drop capitals and scene-break ornaments\n- **Proper book pages:** mirrored margins with an inside gutter sized for your page count (as KDP asks), chapters starting on a right-hand page, running heads (author on the left, title on the right), page numbers, and no heads on chapter-opening or blank pages\n- **Front and back matter:** half-title, title page (with subtitle and publisher), copyright page, dedication, epigraph, a contents page with real page numbers, acknowledgements, about the author and \"also by\". Fill them in under *Title page, copyright & more…*\n- **Parts** get their own page; \"Prologue\" and \"Epilogue\" aren't numbered as chapters\n- **Fine control:** trim size (including Royal and B-format), text size, line spacing, text and heading fonts, scene-break style, drop caps, small-caps first lines, justification, hyphenation, large print\n- **Print-ready PDF:** fonts fully embedded as printers require. What you see in the preview is exactly what prints, page for page\n- **The e-book matches:** the EPUB now has the same chapter headings, drop caps, scene breaks, title page, copyright page, dedication, epigraph and back matter\n- **Six book fonts included with Unwip** (EB Garamond, Libre Baskerville, Crimson Pro, Lora, Cinzel, Oswald). They also appear in your font lists\n\nsha256: dc6fd9249dfd90c933ba477a229cf9f1fd9ab7f941141dfca332def54d5bdb75",
+  "tag_name": "v0.19.0",
+  "name": "Unwip 0.19.0",
+  "body": "## Unwip 0.19: grammar checking\n\nRevise has three new kinds of highlight. All of them are rule-based and work offline, with no AI, and each comes with a one-click fix.\n\n- **Grammar:** \"could of\" → could have, \"a apple\" → an apple, \"they was\" → they were, \"between you and I\", \"lets go\" → let's go, a lowercase \"i\", \"supposed to\" and \"used to\". It also checks dialogue punctuation (\"Stop.\" she said → \"Stop,\" she said) and questions in dialogue that are missing their question mark\n- **Commonly confused words:** its / it's, your / you're, their / there / they're, then / than, lose / loose, affect / effect, whose / who's, to / too, breath / breathe, peek / peak, past / passed, led / lead, advice / advise, accept / except, whether / weather, quiet / quite\n- **UK / US spelling mix:** flags a chapter that uses both \"colour\" and \"color\", \"grey\" and \"gray\", \"realise\" and \"realize\" and so on, and suggests your usual spelling\n\nCharacters' dialogue is left alone for grammar like \"he don't\" and \"we was\", because people talk that way on purpose. On a real 133,000-word novel, the checker raised about 25 highlights, nearly all of them genuine.\n\nsha256: 8bce2e08964bd38081134cfa54eea670a0be279620b38d16f5b60929ad977083",
   "assets": [
     {
-      "name": "unwip-app-0.18.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.18.0.zip"
+      "name": "unwip-app-0.19.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.19.0.zip"
     },
     {
-      "name": "unwip-app-0.18.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.18.0.zip.sha256"
+      "name": "unwip-app-0.19.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.19.0.zip.sha256"
     }
   ]
 }
