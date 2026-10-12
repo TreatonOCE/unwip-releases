@@ -1,0 +1,9 @@
+- Calmer top bar: just the everyday tools. Everything else is one click away, and nothing is gone.
+- Find anything (Ctrl+K, or the magnifier at the top): type a chapter name, a tool or a question and press Enter.
+- Select some text and a small bar appears with strikethrough, alignment, clear formatting, comment and footnote.
+- One side panel with tabs: Revise, Comments, Snapshots and Style all share the same spot on the right, so they never stack up.
+- Manuscript style now changes the page as you adjust it, with a "Put it back how it was" button.
+- Copy for Docs has a small arrow beside it with every export option in one place.
+- Detailed mode adds the comment and scene-break buttons back to the top bar.
+- Right-click › Insert picture… adds an image where your cursor is.
+- Split chapter here is now Ctrl+Shift+K (Ctrl+K opens Find anything).
