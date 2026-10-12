@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.12.1",
-  "name": "Unwip 0.12.1",
-  "body": "## Unwip 0.12.1\n\n- **Scrivener import fixed for Scrivener on Windows.** Chapters now come across with all their text (it was only finding the binder before)\n- Your own Scrivener **status labels** come across with their real names\n- Scrivener **emoji icons** come across\n- Your main **font and size** become the project's manuscript style\n- Windows Scrivener font names (like *TimesNewRomanPSMT*) are turned back into normal fonts, including bold and italic faces\n\nsha256: c4bfe23f36bd0b7a554634be0b71e71ca5beb78733a4ba6019a093a953351ab4",
+  "tag_name": "v0.12.2",
+  "name": "Unwip 0.12.2",
+  "body": "## Unwip 0.12.2\n\n- **Chapter titles are included in exports again** for books organised in folders. Unwip now works out whether a folder holds chapters (a book or part) or scenes (a \"Chapter 3\" folder). Right-click a folder → *Documents inside are…* to choose yourself\n- New **Chapter titles** choice in Preview & export (and Manuscript style): use the **document names**, the **first line of each chapter** (e.g. \"Chapter 2: Are You Talking to Me?\") as a proper heading, or add none\n- If your chapters already start with a \"Chapter…\" line, the preview tells you, so they don't show twice\n\nsha256: 6bc4e04993795f95374abfa189b1bbeb7c0f9a6dd6c20590ee9130324f52aae0",
   "assets": [
     {
-      "name": "unwip-app-0.12.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.1.zip"
+      "name": "unwip-app-0.12.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.2.zip"
     },
     {
-      "name": "unwip-app-0.12.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.1.zip.sha256"
+      "name": "unwip-app-0.12.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.2.zip.sha256"
     }
   ]
 }
