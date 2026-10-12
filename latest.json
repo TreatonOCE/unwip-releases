@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.27.0",
-  "name": "Unwip 0.27.0",
-  "body": "- Beta readers: export menu › Send to a beta reader makes one Word file of the chapters you pick (and keeps a snapshot of each as sent). Ask your reader to use Track Changes and comments.\n- Bring in a reader's feedback: their Word file goes back into the right chapters. Their edits become suggestions to accept or reject, and their comments show with their name. If you've changed a chapter since sending it, their version goes in a copy beside it, so nothing of yours is overwritten.\n- Read aloud (F8): your computer reads the chapter in its own voice from where your cursor is, highlighting each sentence. Change the speed and voice, skip back or forward, Esc to stop. Offline, no AI. Also in the Revise panel, and the ⋯ menu on a phone.\n\nsha256: 42fe5c31d34a34820b8ea19b25cd0104334a4b31a4f0973109384a6751bdfedc",
+  "tag_name": "v0.27.1",
+  "name": "Unwip 0.27.1",
+  "body": "- Beta readers on Google Docs: tested the full round trip through a real Google Doc. Suggestions and comments come back with the reader's name, in the right chapters.\n- Chapters are matched by title when Google Docs strips Unwip's hidden markers, even if the reader suggests a change to the heading itself, and by order as a last resort.\n- Send to a beta reader now shows the Google Docs steps (upload, share as Commenter, download as Word).\n\nsha256: dcf050afa43cc6fd6001c7c74b80d77eec5113c0d4deae80e37870bc80b3e575",
   "assets": [
     {
-      "name": "unwip-app-0.27.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.27.0.zip"
+      "name": "unwip-app-0.27.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.27.1.zip"
     },
     {
-      "name": "unwip-app-0.27.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.27.0.zip.sha256"
+      "name": "unwip-app-0.27.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.27.1.zip.sha256"
     }
   ]
 }

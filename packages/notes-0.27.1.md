@@ -1,0 +1,3 @@
+- Beta readers on Google Docs: tested the full round trip through a real Google Doc. Suggestions and comments come back with the reader's name, in the right chapters.
+- Chapters are matched by title when Google Docs strips Unwip's hidden markers, even if the reader suggests a change to the heading itself, and by order as a last resort.
+- Send to a beta reader now shows the Google Docs steps (upload, share as Commenter, download as Word).
