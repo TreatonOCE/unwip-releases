@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.12.2",
-  "name": "Unwip 0.12.2",
-  "body": "## Unwip 0.12.2\n\n- **Chapter titles are included in exports again** for books organised in folders. Unwip now works out whether a folder holds chapters (a book or part) or scenes (a \"Chapter 3\" folder). Right-click a folder → *Documents inside are…* to choose yourself\n- New **Chapter titles** choice in Preview & export (and Manuscript style): use the **document names**, the **first line of each chapter** (e.g. \"Chapter 2: Are You Talking to Me?\") as a proper heading, or add none\n- If your chapters already start with a \"Chapter…\" line, the preview tells you, so they don't show twice\n\nsha256: 6bc4e04993795f95374abfa189b1bbeb7c0f9a6dd6c20590ee9130324f52aae0",
+  "tag_name": "v0.13.0",
+  "name": "Unwip 0.13.0",
+  "body": "## Unwip 0.13\n\n- **New logo**: the Fraunces wordmark with the three progress dots\n- **Chapter title look** in Preview & export: change the font, size, bold, italic and alignment of chapter titles and see the pages update as you go. The same style is used for titles in the editor and in every export\n- E-book and paperback titles now keep the size you chose, relative to your body text\n\nsha256: 116eb0c88b4b0101092c57eaf2939f00ba63858e1b872fb3fc164b5303fabbe7",
   "assets": [
     {
-      "name": "unwip-app-0.12.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.2.zip"
+      "name": "unwip-app-0.13.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.0.zip"
     },
     {
-      "name": "unwip-app-0.12.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.12.2.zip.sha256"
+      "name": "unwip-app-0.13.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.0.zip.sha256"
     }
   ]
 }
