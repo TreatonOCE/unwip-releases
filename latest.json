@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.13.1",
-  "name": "Unwip 0.13.1",
-  "body": "## Unwip 0.13.1\n\n- **New app icon**: the three progress dots (started, in progress, finished) on navy. Small sizes use solid dots, pale to full coral, so they stay crisp on the taskbar\n\nsha256: 36943318daf58a970679fbe65eb5f6ca3b88cd96d08f630bed82602140f6532b",
+  "tag_name": "v0.14.0",
+  "name": "Unwip 0.14.0",
+  "body": "## Unwip 0.14\n\n**Pictures in your chapters.** Click the picture button in the toolbar, or just paste or drag a picture in. Click a picture to make it Small, Medium, Large or Full width, line it up left, centre or right, or remove it.\n- Big photos are shrunk to a sensible size as they go in, so projects stay light\n- Pictures come along in every export: paperback/PDF, Kindle/EPUB, Word and Google Docs\n- **Scrivener import** now brings pictures across too: ones inside your text, and picture items in the binder\n\nsha256: 2845337c8060e3c105913224d3c5a9531bc223919fa1aeb9792aa86b46da935d",
   "assets": [
     {
-      "name": "unwip-app-0.13.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.1.zip"
+      "name": "unwip-app-0.14.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.14.0.zip"
     },
     {
-      "name": "unwip-app-0.13.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.13.1.zip.sha256"
+      "name": "unwip-app-0.14.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.14.0.zip.sha256"
     }
   ]
 }
