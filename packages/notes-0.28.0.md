@@ -1,0 +1,4 @@
+- Insights (Detailed mode, under Timeline): the shape of your whole book.
+- Pacing: one bar per chapter showing length, dialogue versus narration, and scene count, with an average line. Unusually long, short, talky or quiet chapters are pointed out. Hover for details, click to open the chapter.
+- Characters: which chapters each character appears in (names and aliases from your Characters sheets), bigger dots for more mentions, and each character's longest absence shaded in their row. Set each chapter's point of view, or let Unwip guess (including first person). Click a dot to open that chapter with the name highlighted.
+- Tested on a 111,000-word, 40-chapter book: Insights loads in about a quarter of a second.
