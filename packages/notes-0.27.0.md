@@ -1,0 +1,3 @@
+- Beta readers: export menu › Send to a beta reader makes one Word file of the chapters you pick (and keeps a snapshot of each as sent). Ask your reader to use Track Changes and comments.
+- Bring in a reader's feedback: their Word file goes back into the right chapters. Their edits become suggestions to accept or reject, and their comments show with their name. If you've changed a chapter since sending it, their version goes in a copy beside it, so nothing of yours is overwritten.
+- Read aloud (F8): your computer reads the chapter in its own voice from where your cursor is, highlighting each sentence. Change the speed and voice, skip back or forward, Esc to stop. Offline, no AI. Also in the Revise panel, and the ⋯ menu on a phone.

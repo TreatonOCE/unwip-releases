@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.26.0",
-  "name": "Unwip 0.26.0",
-  "body": "- Track changes: turn it on (Ctrl+Shift+E, or the new Changes tab in the side panel) and your edits become suggestions. Added words are underlined in green, deleted ones crossed out in red, each with your name and the time.\n- Review suggestions in the Changes tab: accept or reject one at a time, or all at once. Click a change in the text to jump to it.\n- Word files keep them: exporting to Word gives real Word tracked changes, and a Word file with an editor's tracked changes comes in as suggestions to review.\n- Copies, exports and word counts treat suggestions as accepted.\n- Phone and iPad: Dropbox sync is built in, ready to switch on once Unwip is registered with Dropbox.\n- Messages about changes from elsewhere now say \"your other device\", since that might be your phone.\n\nsha256: b95510a6ac723dbe120115cf14618ac741277b7812c9166cf3c5666ff3cc1ab4",
+  "tag_name": "v0.27.0",
+  "name": "Unwip 0.27.0",
+  "body": "- Beta readers: export menu › Send to a beta reader makes one Word file of the chapters you pick (and keeps a snapshot of each as sent). Ask your reader to use Track Changes and comments.\n- Bring in a reader's feedback: their Word file goes back into the right chapters. Their edits become suggestions to accept or reject, and their comments show with their name. If you've changed a chapter since sending it, their version goes in a copy beside it, so nothing of yours is overwritten.\n- Read aloud (F8): your computer reads the chapter in its own voice from where your cursor is, highlighting each sentence. Change the speed and voice, skip back or forward, Esc to stop. Offline, no AI. Also in the Revise panel, and the ⋯ menu on a phone.\n\nsha256: 42fe5c31d34a34820b8ea19b25cd0104334a4b31a4f0973109384a6751bdfedc",
   "assets": [
     {
-      "name": "unwip-app-0.26.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.26.0.zip"
+      "name": "unwip-app-0.27.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.27.0.zip"
     },
     {
-      "name": "unwip-app-0.26.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.26.0.zip.sha256"
+      "name": "unwip-app-0.27.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.27.0.zip.sha256"
     }
   ]
 }
