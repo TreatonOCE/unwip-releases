@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.5",
-  "name": "Unwip 0.29.5",
-  "body": "- Phone and iPad: updates now arrive the next time you open Unwip, instead of up to ten minutes later.\n\nsha256: b0c6ace08d68f591ae554e042f04904efed03095d14ecfbe294679c2f8e7aa66",
+  "tag_name": "v0.29.6",
+  "name": "Unwip 0.29.6",
+  "body": "- Settings › Where your projects live: the green \"syncing\" label now reads \"✓ kept in sync by Dropbox\". It means the folder is looked after by the Dropbox app, not that something is still uploading.\n\nsha256: a4aa30ec4301650e66988353a989b8c85aa6f8eb091511fc23caad366e1dc54b",
   "assets": [
     {
-      "name": "unwip-app-0.29.5.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.5.zip"
+      "name": "unwip-app-0.29.6.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.6.zip"
     },
     {
-      "name": "unwip-app-0.29.5.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.5.zip.sha256"
+      "name": "unwip-app-0.29.6.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.6.zip.sha256"
     }
   ]
 }

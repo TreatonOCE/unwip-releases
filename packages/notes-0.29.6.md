@@ -1,0 +1,1 @@
+- Settings › Where your projects live: the green "syncing" label now reads "✓ kept in sync by Dropbox". It means the folder is looked after by the Dropbox app, not that something is still uploading.
