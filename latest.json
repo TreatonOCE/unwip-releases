@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.22.0",
-  "name": "Unwip 0.22.0",
-  "body": "- Much better grammar checking in Revise. About 60 new checks: had went / have saw, the orcs was, he's sword, more braver, me and him went, amount of people, less people, to Tom and I, double negatives, lie/lay, misheard phrases (baited breath, free reign, wreck havoc, nip it in the butt…) and more.\n- New \"More suggestions\" group: extra checks from Harper, a free open-source grammar engine that runs on your computer (no internet, no AI). Rules that gave bad advice on fiction are switched off.\n- Characters' dialogue, stutters (“W-Where”) and names are left alone.\n- Revise is much faster on long chapters: only the paragraph you changed is re-checked.\n\nsha256: 9bb71d45d92dbad6c586e305eca6ad6e1b23275dd7c9da751ca01b18ffc783f3",
+  "tag_name": "v0.23.0",
+  "name": "Unwip 0.23.0",
+  "body": "- Continue: the main screen has a Continue button that opens the exact spot you last wrote, cursor and all.\n- Even spacing: pasting or importing removes empty lines used as spacing, so the gap between paragraphs comes only from Manuscript style. Two or more empty lines in a row become a scene break (* * *). For chapters already in Unwip, right-click a document or folder › Remove empty lines (a snapshot is kept first).\n- Your own templates: template sections now have an icon picker and a live preview, and you can save one as your own template to reuse in any project.\n- Revise has Focused and Detailed, like the binder. Focused shows the five big things (like Hemingway); Detailed shows everything, including grammar.\n- Stuck? is now a soft red and Revise a soft purple, so the top bar is easier to scan.\n- Help: clicking a topic on the left jumps straight to it.\n\nsha256: fc68a55c208e345e981de8a485daa7b2179f93778b344dc8b87366f7c7af165e",
   "assets": [
     {
-      "name": "unwip-app-0.22.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.22.0.zip"
+      "name": "unwip-app-0.23.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.23.0.zip"
     },
     {
-      "name": "unwip-app-0.22.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.22.0.zip.sha256"
+      "name": "unwip-app-0.23.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.23.0.zip.sha256"
     }
   ]
 }

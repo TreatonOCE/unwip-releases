@@ -1,0 +1,6 @@
+- Continue: the main screen has a Continue button that opens the exact spot you last wrote, cursor and all.
+- Even spacing: pasting or importing removes empty lines used as spacing, so the gap between paragraphs comes only from Manuscript style. Two or more empty lines in a row become a scene break (* * *). For chapters already in Unwip, right-click a document or folder › Remove empty lines (a snapshot is kept first).
+- Your own templates: template sections now have an icon picker and a live preview, and you can save one as your own template to reuse in any project.
+- Revise has Focused and Detailed, like the binder. Focused shows the five big things (like Hemingway); Detailed shows everything, including grammar.
+- Stuck? is now a soft red and Revise a soft purple, so the top bar is easier to scan.
+- Help: clicking a topic on the left jumps straight to it.
