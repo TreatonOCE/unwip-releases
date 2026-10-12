@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.6",
-  "name": "Unwip 0.29.6",
-  "body": "- Settings › Where your projects live: the green \"syncing\" label now reads \"✓ kept in sync by Dropbox\". It means the folder is looked after by the Dropbox app, not that something is still uploading.\n\nsha256: a4aa30ec4301650e66988353a989b8c85aa6f8eb091511fc23caad366e1dc54b",
+  "tag_name": "v0.29.7",
+  "name": "Unwip 0.29.7",
+  "body": "- Dropbox: your books now sit straight in Dropbox/Apps/Unwip instead of Dropbox/Apps/Unwip/Unwip. The phone or iPad moves them up a level inside Dropbox the next time it syncs (nothing is downloaded or uploaded again), and the PC follows automatically once Dropbox has carried the move over.\n\nsha256: f9d01963fb5ee9a7fd86f51de97d3480ee48cda737f9a3c0b632bdd1038c6b75",
   "assets": [
     {
-      "name": "unwip-app-0.29.6.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.6.zip"
+      "name": "unwip-app-0.29.7.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.7.zip"
     },
     {
-      "name": "unwip-app-0.29.6.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.6.zip.sha256"
+      "name": "unwip-app-0.29.7.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.7.zip.sha256"
     }
   ]
 }

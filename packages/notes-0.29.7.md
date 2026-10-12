@@ -1,0 +1,1 @@
+- Dropbox: your books now sit straight in Dropbox/Apps/Unwip instead of Dropbox/Apps/Unwip/Unwip. The phone or iPad moves them up a level inside Dropbox the next time it syncs (nothing is downloaded or uploaded again), and the PC follows automatically once Dropbox has carried the move over.
