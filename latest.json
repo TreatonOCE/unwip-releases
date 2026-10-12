@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.25.2",
-  "name": "Unwip 0.25.2",
-  "body": "- Fixed: Find anything (Ctrl+K and the magnifier) stopped opening in 0.25.1. Sorry about that.\n- Find anything now searches your writing too: type a word and pick \"Find in this chapter\" or \"Search the whole book\".\n- Find in chapter works on iPhone and iPad, highlighting every match with the current one in orange.\n- Phone: the formatting row above the keyboard now scrolls sideways (swipe it), with a soft fade showing there's more.\n- Phone: writer mode no longer shows the quote on top of the chapter title.\n- Phone: the find bar fits the screen.\n\nsha256: 4eb6294e4cf75c47de029c1e7ec9a9b4e7a36de1c1909b0fe7f06ddbf634b1fc",
+  "tag_name": "v0.26.0",
+  "name": "Unwip 0.26.0",
+  "body": "- Track changes: turn it on (Ctrl+Shift+E, or the new Changes tab in the side panel) and your edits become suggestions. Added words are underlined in green, deleted ones crossed out in red, each with your name and the time.\n- Review suggestions in the Changes tab: accept or reject one at a time, or all at once. Click a change in the text to jump to it.\n- Word files keep them: exporting to Word gives real Word tracked changes, and a Word file with an editor's tracked changes comes in as suggestions to review.\n- Copies, exports and word counts treat suggestions as accepted.\n- Phone and iPad: Dropbox sync is built in, ready to switch on once Unwip is registered with Dropbox.\n- Messages about changes from elsewhere now say \"your other device\", since that might be your phone.\n\nsha256: b95510a6ac723dbe120115cf14618ac741277b7812c9166cf3c5666ff3cc1ab4",
   "assets": [
     {
-      "name": "unwip-app-0.25.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.2.zip"
+      "name": "unwip-app-0.26.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.26.0.zip"
     },
     {
-      "name": "unwip-app-0.25.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.25.2.zip.sha256"
+      "name": "unwip-app-0.26.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.26.0.zip.sha256"
     }
   ]
 }

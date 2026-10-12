@@ -1,0 +1,6 @@
+- Track changes: turn it on (Ctrl+Shift+E, or the new Changes tab in the side panel) and your edits become suggestions. Added words are underlined in green, deleted ones crossed out in red, each with your name and the time.
+- Review suggestions in the Changes tab: accept or reject one at a time, or all at once. Click a change in the text to jump to it.
+- Word files keep them: exporting to Word gives real Word tracked changes, and a Word file with an editor's tracked changes comes in as suggestions to review.
+- Copies, exports and word counts treat suggestions as accepted.
+- Phone and iPad: Dropbox sync is built in, ready to switch on once Unwip is registered with Dropbox.
+- Messages about changes from elsewhere now say "your other device", since that might be your phone.
