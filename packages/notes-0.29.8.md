@@ -1,0 +1,1 @@
+- Phone and iPad: the Dropbox button now shows what it is doing and how much is left: "Checking… 1,240", then "Syncing… 312 left". Settings shows the same, with how many files are coming down and going up.

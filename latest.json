@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.7",
-  "name": "Unwip 0.29.7",
-  "body": "- Dropbox: your books now sit straight in Dropbox/Apps/Unwip instead of Dropbox/Apps/Unwip/Unwip. The phone or iPad moves them up a level inside Dropbox the next time it syncs (nothing is downloaded or uploaded again), and the PC follows automatically once Dropbox has carried the move over.\n\nsha256: f9d01963fb5ee9a7fd86f51de97d3480ee48cda737f9a3c0b632bdd1038c6b75",
+  "tag_name": "v0.29.8",
+  "name": "Unwip 0.29.8",
+  "body": "- Phone and iPad: the Dropbox button now shows what it is doing and how much is left: \"Checking… 1,240\", then \"Syncing… 312 left\". Settings shows the same, with how many files are coming down and going up.\n\nsha256: 37b99d435b95093e72ea153dab294fa1781b3a2a0d3008a8bb7ad743aefb2f4e",
   "assets": [
     {
-      "name": "unwip-app-0.29.7.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.7.zip"
+      "name": "unwip-app-0.29.8.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.8.zip"
     },
     {
-      "name": "unwip-app-0.29.7.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.7.zip.sha256"
+      "name": "unwip-app-0.29.8.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.8.zip.sha256"
     }
   ]
 }
