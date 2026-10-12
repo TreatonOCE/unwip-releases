@@ -1,0 +1,4 @@
+- Much better grammar checking in Revise. About 60 new checks: had went / have saw, the orcs was, he's sword, more braver, me and him went, amount of people, less people, to Tom and I, double negatives, lie/lay, misheard phrases (baited breath, free reign, wreck havoc, nip it in the butt…) and more.
+- New "More suggestions" group: extra checks from Harper, a free open-source grammar engine that runs on your computer (no internet, no AI). Rules that gave bad advice on fiction are switched off.
+- Characters' dialogue, stutters (“W-Where”) and names are left alone.
+- Revise is much faster on long chapters: only the paragraph you changed is re-checked.
