@@ -1,0 +1,1 @@
+- Fixed: double-clicking a section (Characters, Places and so on) now really does rename it. The first click redrew the binder, so the double-click was missed; Unwip now counts the two clicks itself.

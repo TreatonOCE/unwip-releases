@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.40.3",
-  "name": "Unwip 0.40.3",
-  "body": "- Double-click a section in the binder (Manuscript, Characters, Places and so on) to rename it, or right-click \u203a Rename section. The Trash keeps its name.\n- Double-clicking a folder to rename it no longer folds it closed at the same time.\n- Fixed: a rename or move made just before leaving a book is now always saved.\n\nsha256: b3a58332850c498522db09c13848101f974d9bf292a1c098f35b63d0f2734157",
+  "tag_name": "v0.40.4",
+  "name": "Unwip 0.40.4",
+  "body": "- Fixed: double-clicking a section (Characters, Places and so on) now really does rename it. The first click redrew the binder, so the double-click was missed; Unwip now counts the two clicks itself.\n\nsha256: b83b062a42df0c217e85b6d114df3aa4b009670fe8e22bbfa16a0991679fbe2e",
   "assets": [
     {
-      "name": "unwip-app-0.40.3.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.3.zip"
+      "name": "unwip-app-0.40.4.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.4.zip"
     },
     {
-      "name": "unwip-app-0.40.3.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.3.zip.sha256"
+      "name": "unwip-app-0.40.4.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.4.zip.sha256"
     }
   ]
 }
