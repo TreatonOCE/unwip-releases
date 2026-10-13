@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.40.4",
-  "name": "Unwip 0.40.4",
-  "body": "- Fixed: double-clicking a section (Characters, Places and so on) now really does rename it. The first click redrew the binder, so the double-click was missed; Unwip now counts the two clicks itself.\n\nsha256: b83b062a42df0c217e85b6d114df3aa4b009670fe8e22bbfa16a0991679fbe2e",
+  "tag_name": "v0.40.5",
+  "name": "Unwip 0.40.5",
+  "body": "Found by testing every Scrivener project in your Dropbox (9 books, 203 chapters) and an awkward test book:\n- Taking a book back to Scrivener no longer types each chapter's name into its text when the chapters never had typed titles. Scrivener adds titles itself when it compiles. (You can still tick the box if you want them.)\n- Scrivener for Windows' hidden style marks (like <$Scr_Ps::0>) no longer show up as text after importing or pasting.\n- Footnotes now come across when importing from Scrivener or other RTF files (they were left out before).\n- Fixed: words straight after a picture or footnote in the same paragraph could be lost when importing from Scrivener.\n- Bulleted and numbered lists keep their bullets and numbers (\"\u2022 \", \"1. \") when you paste them or import a Word file. Unwip has no list formatting of its own, so before they turned into plain lines.\n- On phones and tablets, press and hold a chapter or section in the binder for the same menu as a right-click, including Rename. iPhones and iPads have no right-click.\n- Double-clicking the + beside a section now adds one chapter, not two.\n- A book whose title has a slash or other awkward character no longer gets extra spaces in its exported Scrivener project name.\nTested: all 9 of your projects round-trip to Scrivener and back with every chapter identical; Word, Markdown and backup exports checked for each, and every backup restored without losing a file.\n\nsha256: 958fd80cd54fd078b40e11d7502e135fc481571329bed1d920d4bd1eacfcd1f4",
   "assets": [
     {
-      "name": "unwip-app-0.40.4.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.4.zip"
+      "name": "unwip-app-0.40.5.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.5.zip"
     },
     {
-      "name": "unwip-app-0.40.4.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.4.zip.sha256"
+      "name": "unwip-app-0.40.5.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.5.zip.sha256"
     }
   ]
 }
