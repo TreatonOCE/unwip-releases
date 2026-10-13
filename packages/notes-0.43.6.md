@@ -1,0 +1,1 @@
+- iPhone/iPad: Import › Scrivener now opens your Dropbox (starting in Apps › Scrivener) and imports the project you tap. No zip, no Files app, nothing in Dropbox changed. The first time, Dropbox asks you to allow Unwip to read it (a separate, read-only permission used only for importing).
