@@ -1,0 +1,3 @@
+- Double-click a section in the binder (Manuscript, Characters, Places and so on) to rename it, or right-click › Rename section. The Trash keeps its name.
+- Double-clicking a folder to rename it no longer folds it closed at the same time.
+- Fixed: a rename or move made just before leaving a book is now always saved.
