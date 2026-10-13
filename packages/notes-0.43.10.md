@@ -1,0 +1,3 @@
+- PC: "Sync now" on the main screen now visibly does something: it shows Checking…, reads your books again, then says "✓ Up to date" and which book another device changed last.
+- iPhone/iPad: a book deleted on the PC no longer lingers on the phone's main screen as a book that won't open. After the sync it's gone from the list and shows in Deleted books straight away.
+- Opening a book that has meanwhile been deleted or moved on another device now says so and refreshes the list, instead of doing nothing.

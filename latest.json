@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.9",
-  "name": "Unwip 0.43.9",
-  "body": "- PC: the sync button stands out now: on the main screen it reads \"Dropbox \u00b7 in step\" with a blue \"\u21bb Sync now\" button beside it (amber when something needs a look), and while writing there's a \"Sync\" button next to the book's name.\n\nsha256: 129086826a28cadb46a5c03ee478377022b5879a761f7721282d9e182ad0844e",
+  "tag_name": "v0.43.10",
+  "name": "Unwip 0.43.10",
+  "body": "- PC: \"Sync now\" on the main screen now visibly does something: it shows Checking\u2026, reads your books again, then says \"\u2713 Up to date\" and which book another device changed last.\n- iPhone/iPad: a book deleted on the PC no longer lingers on the phone's main screen as a book that won't open. After the sync it's gone from the list and shows in Deleted books straight away.\n- Opening a book that has meanwhile been deleted or moved on another device now says so and refreshes the list, instead of doing nothing.\n\nsha256: 6f76add7504e1ece7cbc3eb8cc74bbfd5b537dfbf99a65edb72700fe95b90627",
   "assets": [
     {
-      "name": "unwip-app-0.43.9.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.9.zip"
+      "name": "unwip-app-0.43.10.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.10.zip"
     },
     {
-      "name": "unwip-app-0.43.9.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.9.zip.sha256"
+      "name": "unwip-app-0.43.10.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.10.zip.sha256"
     }
   ]
 }
