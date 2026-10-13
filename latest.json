@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.34.0",
-  "name": "Unwip 0.34.0",
-  "body": "- Your own calendar: in the Timeline (Story days), \ud83c\udf19 Your own calendar\u2026 lets you name your world's months and set their lengths, add a week, a year with an era (like \u201c1204 AR\u201d), seasons, and as many moons as you like, each with its own cycle. Start from the Fantasy, Earth or Two moons calendar and rename everything.\n- With a calendar on, the timeline shows world dates (\u201c4 Thawmonth 1204 AR\u201d) with each new month in bold and full and new moons marked. Each event card shows its world date, and the event editor lets you pick a day, month and year in your calendar, along with the season and moon phase.\n- Events stay on their story days, so changing the calendar never moves anything. Ctrl+K \u203a Your world's calendar opens it too.\n\nsha256: ffc5cd48235271ec4564fa0eb83574072491ac24b89c89c6c998978aab76b4a6",
+  "tag_name": "v0.35.0",
+  "name": "Unwip 0.35.0",
+  "body": "- Lists into sheets: a document that lists several characters (a bold name, then a description, for each) can now become one sheet per character. Right-click it \u203a Turn into separate sheets\u2026. Names, aliases (\u201caka\u201d, or a nickname in brackets) and ages are filled in, the description goes underneath, and headings like \u201cDwarves:\u201d become folders. You see everything first and can untick anything. Undo puts it all back.\n- It works for places, items, races and factions too. A list that isn't characters, places or items (like Races) can get its own new section.\n- After a Scrivener import, Unwip spots cast lists like these and offers to turn them into sheets. To do it for a project you've already imported, right-click the Characters folder \u203a Turn lists in here into sheets\u2026.\n- Fixed: a space between two differently formatted words (bold then plain, or italic then plain) could be lost when importing from Scrivener or pasting from Google Docs or Word, joining the words together.\n\nsha256: 2317e7a94c92f5547188c0541dfc16776c400300fc5cbbeab4907dd6396bceff",
   "assets": [
     {
-      "name": "unwip-app-0.34.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.34.0.zip"
+      "name": "unwip-app-0.35.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.0.zip"
     },
     {
-      "name": "unwip-app-0.34.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.34.0.zip.sha256"
+      "name": "unwip-app-0.35.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.0.zip.sha256"
     }
   ]
 }

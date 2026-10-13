@@ -1,0 +1,4 @@
+- Lists into sheets: a document that lists several characters (a bold name, then a description, for each) can now become one sheet per character. Right-click it › Turn into separate sheets…. Names, aliases (“aka”, or a nickname in brackets) and ages are filled in, the description goes underneath, and headings like “Dwarves:” become folders. You see everything first and can untick anything. Undo puts it all back.
+- It works for places, items, races and factions too. A list that isn't characters, places or items (like Races) can get its own new section.
+- After a Scrivener import, Unwip spots cast lists like these and offers to turn them into sheets. To do it for a project you've already imported, right-click the Characters folder › Turn lists in here into sheets….
+- Fixed: a space between two differently formatted words (bold then plain, or italic then plain) could be lost when importing from Scrivener or pasting from Google Docs or Word, joining the words together.
