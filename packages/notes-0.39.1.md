@@ -1,0 +1,6 @@
+- Print preview explains the opening pages. Under each one it says what it is (half-title page, its blank back, title page, copyright page) and why some pages are left blank, as in printed books.
+- Importing from Scrivener takes the book's title and author from the project itself (shown on the title page) instead of the folder name.
+- Title pages keep their own spacing when imported, instead of their empty lines turning into a scene break.
+- Books imported before the typed-title fix offer it once when they open, if many chapters have their title typed into the text.
+- Insights moved into the side panel, next to Revise: the book at a glance, a strip of chapter lengths you can click, and what's worth a look, with Open the full charts for the big view. That leaves five views on the left. Title pages are no longer counted as chapters.
+- The side panel's tabs wrap onto two lines when there isn't room, so none are hidden.
