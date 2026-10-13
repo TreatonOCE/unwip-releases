@@ -1,0 +1,3 @@
+- Your own calendar: in the Timeline (Story days), 🌙 Your own calendar… lets you name your world's months and set their lengths, add a week, a year with an era (like “1204 AR”), seasons, and as many moons as you like, each with its own cycle. Start from the Fantasy, Earth or Two moons calendar and rename everything.
+- With a calendar on, the timeline shows world dates (“4 Thawmonth 1204 AR”) with each new month in bold and full and new moons marked. Each event card shows its world date, and the event editor lets you pick a day, month and year in your calendar, along with the season and moon phase.
+- Events stay on their story days, so changing the calendar never moves anything. Ctrl+K › Your world's calendar opens it too.
