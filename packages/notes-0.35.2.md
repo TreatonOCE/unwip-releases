@@ -1,0 +1,3 @@
+- Split view shows maps as pictures (every section, with its name) instead of their raw data, with a button to open the map for editing.
+- The split view list now follows your binder: folders appear as headings with their documents indented under them, in the same order, and maps are marked 🗺️.
+- Remove empty lines can be undone: press Ctrl+Z straight afterwards, or click Undo on the message that appears. (A snapshot is still saved first, as before.)

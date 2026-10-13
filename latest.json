@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.35.1",
-  "name": "Unwip 0.35.1",
-  "body": "- Fixed: right-clicking a section like Characters didn't offer \u201cTurn lists in here into sheets\u2026\u201d.\n\nsha256: 221e0a9c718e88d65d7f43659c6f20f2455b22ef9c6b7753b5f1e43b93173c8d",
+  "tag_name": "v0.35.2",
+  "name": "Unwip 0.35.2",
+  "body": "- Split view shows maps as pictures (every section, with its name) instead of their raw data, with a button to open the map for editing.\n- The split view list now follows your binder: folders appear as headings with their documents indented under them, in the same order, and maps are marked \ud83d\uddfa\ufe0f.\n- Remove empty lines can be undone: press Ctrl+Z straight afterwards, or click Undo on the message that appears. (A snapshot is still saved first, as before.)\n\nsha256: 3dcb739033e041ab56c7ff02cfd1be4cc0c32b3bd63865e9f4fcb420891b336f",
   "assets": [
     {
-      "name": "unwip-app-0.35.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.1.zip"
+      "name": "unwip-app-0.35.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.2.zip"
     },
     {
-      "name": "unwip-app-0.35.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.1.zip.sha256"
+      "name": "unwip-app-0.35.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.2.zip.sha256"
     }
   ]
 }
