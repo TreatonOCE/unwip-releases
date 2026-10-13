@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.29.9",
-  "name": "Unwip 0.29.9",
-  "body": "- Phone and iPad Dropbox sync no longer gives up when Dropbox says \"slow down\" (common on the first sync of a whole book) or the signal drops: it waits and carries on.\n- A big first sync saves its progress as it goes, so closing the app or losing signal picks up where it stopped.\n- Books appear in your library as soon as they arrive, chapters first, instead of all at the end.\n\nsha256: 30448d504294a7d9008202d57b16a79ee408edfdc1163a9711486fe8a4750da0",
+  "tag_name": "v0.30.0",
+  "name": "Unwip 0.30.0",
+  "body": "- Sprint history: every writing sprint from all your books in one place, with the date, book, chapter, minutes, words and words per minute. Shows your average and best speed and a chart of recent sprints, and you can filter by book.\n- Delete a sprint you don't want counted (a test run, one you abandoned) with ×; Undo brings it back. Averages update straight away.\n- Open it from Goals (click the best sprint card), the \"All sprints\" button when a sprint finishes, or search for \"Sprints\". Sprints now also remember which chapter they were in.\n\nsha256: ab26d43e0be015257e8c85da47a8e110195944bc8acb6976be390749966d8649",
   "assets": [
     {
-      "name": "unwip-app-0.29.9.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.9.zip"
+      "name": "unwip-app-0.30.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.30.0.zip"
     },
     {
-      "name": "unwip-app-0.29.9.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.29.9.zip.sha256"
+      "name": "unwip-app-0.30.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.30.0.zip.sha256"
     }
   ]
 }

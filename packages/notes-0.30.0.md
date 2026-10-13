@@ -1,0 +1,3 @@
+- Sprint history: every writing sprint from all your books in one place, with the date, book, chapter, minutes, words and words per minute. Shows your average and best speed and a chart of recent sprints, and you can filter by book.
+- Delete a sprint you don't want counted (a test run, one you abandoned) with ×; Undo brings it back. Averages update straight away.
+- Open it from Goals (click the best sprint card), the "All sprints" button when a sprint finishes, or search for "Sprints". Sprints now also remember which chapter they were in.
