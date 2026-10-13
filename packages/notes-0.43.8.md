@@ -1,0 +1,3 @@
+- PC: a cloud on the main screen and next to the book's name shows where the book is kept and how it stands: "Dropbox · in step", "⚠ Updated from another device", "⚠ Dropbox app isn't running" (so changes aren't travelling), or "This PC only". Click it to look for changes from your other devices straight away.
+- iPhone/iPad: Import from Dropbox is now a tidy list: the whole row is the button, with "Import" set apart from the name.
+- iPhone/iPad: the Scrivener "Before and after" panes are shorter, so there's room to scroll the window.

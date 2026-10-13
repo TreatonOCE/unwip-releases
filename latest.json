@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.7",
-  "name": "Unwip 0.43.7",
-  "body": "- iPhone/iPad: if Dropbox turns down the Scrivener import, Unwip now shows what Dropbox actually said (and asks you to sign in again when that's the fix), instead of just a number.\n- The \"goal\" label on the main screen's 14-day chart no longer covers the \"Full history\" link.\n\nsha256: 76829aac4f86760cdb25bb847512b9be8652fec91f647fda68c90af10733fa36",
+  "tag_name": "v0.43.8",
+  "name": "Unwip 0.43.8",
+  "body": "- PC: a cloud on the main screen and next to the book's name shows where the book is kept and how it stands: \"Dropbox \u00b7 in step\", \"\u26a0 Updated from another device\", \"\u26a0 Dropbox app isn't running\" (so changes aren't travelling), or \"This PC only\". Click it to look for changes from your other devices straight away.\n- iPhone/iPad: Import from Dropbox is now a tidy list: the whole row is the button, with \"Import\" set apart from the name.\n- iPhone/iPad: the Scrivener \"Before and after\" panes are shorter, so there's room to scroll the window.\n\nsha256: 4cacad94942589f21a78fce47a88077d850faf07d944d3319258596683421b30",
   "assets": [
     {
-      "name": "unwip-app-0.43.7.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.7.zip"
+      "name": "unwip-app-0.43.8.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.8.zip"
     },
     {
-      "name": "unwip-app-0.43.7.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.7.zip.sha256"
+      "name": "unwip-app-0.43.8.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.8.zip.sha256"
     }
   ]
 }
