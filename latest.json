@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.13",
-  "name": "Unwip 0.43.13",
-  "body": "A small fix:\n- Pressing Sync (or anything else that refreshes the main screen) no longer swaps the inspiration quote. It stays the same while Unwip is open. Press \u21bb on the quote for a new one, and you get a fresh one each time you open Unwip.\n\nsha256: 2b8c1d3d2f7d0762cc21570321e042bea64b07725583aba898eccf6dd6dc2ea7",
+  "tag_name": "v0.43.14",
+  "name": "Unwip 0.43.14",
+  "body": "Font and size on the iPhone and iPad:\n- New Aa button on the row above the keyboard (next to Body, Title, H2). It opens a list of fonts, each shown in its own lettering, and a size control (A\u2212 / A+). Pick one and it applies to the words you have selected, or to what you type next. Your selection and the keyboard stay put. Tap Done or Aa to close it.\n- The list only shows fonts this device can display. If the text is in a font that is only on your PC, it stays at the top, marked \"on your PC\".\n- Also: pressing Sync no longer swaps the inspiration quote (from 0.43.13).\n\nsha256: 64664043956fa87fa71bfe8677dbd94e3112cdc421a36d3eb6e8ff5f3969111e",
   "assets": [
     {
-      "name": "unwip-app-0.43.13.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.13.zip"
+      "name": "unwip-app-0.43.14.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.14.zip"
     },
     {
-      "name": "unwip-app-0.43.13.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.13.zip.sha256"
+      "name": "unwip-app-0.43.14.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.14.zip.sha256"
     }
   ]
 }
