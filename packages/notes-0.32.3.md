@@ -1,0 +1,1 @@
+- Open-source licences now list every library built into the Harper grammar checker (252 of them, plus the Rust standard library), each with its version, licence, source and authors, followed by the full licence texts. Open it from About Unwip › Open-source licences › Libraries inside Harper.
