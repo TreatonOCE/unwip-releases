@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.8",
-  "name": "Unwip 0.43.8",
-  "body": "- PC: a cloud on the main screen and next to the book's name shows where the book is kept and how it stands: \"Dropbox \u00b7 in step\", \"\u26a0 Updated from another device\", \"\u26a0 Dropbox app isn't running\" (so changes aren't travelling), or \"This PC only\". Click it to look for changes from your other devices straight away.\n- iPhone/iPad: Import from Dropbox is now a tidy list: the whole row is the button, with \"Import\" set apart from the name.\n- iPhone/iPad: the Scrivener \"Before and after\" panes are shorter, so there's room to scroll the window.\n\nsha256: 4cacad94942589f21a78fce47a88077d850faf07d944d3319258596683421b30",
+  "tag_name": "v0.43.9",
+  "name": "Unwip 0.43.9",
+  "body": "- PC: the sync button stands out now: on the main screen it reads \"Dropbox \u00b7 in step\" with a blue \"\u21bb Sync now\" button beside it (amber when something needs a look), and while writing there's a \"Sync\" button next to the book's name.\n\nsha256: 129086826a28cadb46a5c03ee478377022b5879a761f7721282d9e182ad0844e",
   "assets": [
     {
-      "name": "unwip-app-0.43.8.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.8.zip"
+      "name": "unwip-app-0.43.9.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.9.zip"
     },
     {
-      "name": "unwip-app-0.43.8.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.8.zip.sha256"
+      "name": "unwip-app-0.43.9.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.9.zip.sha256"
     }
   ]
 }

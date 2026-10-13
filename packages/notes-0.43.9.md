@@ -1,0 +1,1 @@
+- PC: the sync button stands out now: on the main screen it reads "Dropbox · in step" with a blue "↻ Sync now" button beside it (amber when something needs a look), and while writing there's a "Sync" button next to the book's name.
