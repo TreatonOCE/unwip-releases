@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.35.0",
-  "name": "Unwip 0.35.0",
-  "body": "- Lists into sheets: a document that lists several characters (a bold name, then a description, for each) can now become one sheet per character. Right-click it \u203a Turn into separate sheets\u2026. Names, aliases (\u201caka\u201d, or a nickname in brackets) and ages are filled in, the description goes underneath, and headings like \u201cDwarves:\u201d become folders. You see everything first and can untick anything. Undo puts it all back.\n- It works for places, items, races and factions too. A list that isn't characters, places or items (like Races) can get its own new section.\n- After a Scrivener import, Unwip spots cast lists like these and offers to turn them into sheets. To do it for a project you've already imported, right-click the Characters folder \u203a Turn lists in here into sheets\u2026.\n- Fixed: a space between two differently formatted words (bold then plain, or italic then plain) could be lost when importing from Scrivener or pasting from Google Docs or Word, joining the words together.\n\nsha256: 2317e7a94c92f5547188c0541dfc16776c400300fc5cbbeab4907dd6396bceff",
+  "tag_name": "v0.35.1",
+  "name": "Unwip 0.35.1",
+  "body": "- Fixed: right-clicking a section like Characters didn't offer \u201cTurn lists in here into sheets\u2026\u201d.\n\nsha256: 221e0a9c718e88d65d7f43659c6f20f2455b22ef9c6b7753b5f1e43b93173c8d",
   "assets": [
     {
-      "name": "unwip-app-0.35.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.0.zip"
+      "name": "unwip-app-0.35.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.1.zip"
     },
     {
-      "name": "unwip-app-0.35.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.0.zip.sha256"
+      "name": "unwip-app-0.35.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.1.zip.sha256"
     }
   ]
 }

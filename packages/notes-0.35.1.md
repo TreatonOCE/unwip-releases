@@ -1,0 +1,1 @@
+- Fixed: right-clicking a section like Characters didn't offer “Turn lists in here into sheets…”.
