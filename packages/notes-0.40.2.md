@@ -1,0 +1,1 @@
+- Scrivener import: when no chapter starts with its title typed into the text, the import window now says so (there's nothing to tidy), instead of leaving the title choice out without a word.

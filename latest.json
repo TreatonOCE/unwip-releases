@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.40.1",
-  "name": "Unwip 0.40.1",
-  "body": "- Scrivener import: \"Show a chapter before and after\" now follows the choices on the list. You see the chapter with the typed title used as its name, taken out with the binder name kept, or left as it is, and with empty lines kept or taken out. A line under the preview says what happens to the title.\n\nsha256: 9a5d62109922d748876dc474f5486f808ecae4040dc38ceb7fa8515da3c73c39",
+  "tag_name": "v0.40.2",
+  "name": "Unwip 0.40.2",
+  "body": "- Scrivener import: when no chapter starts with its title typed into the text, the import window now says so (there's nothing to tidy), instead of leaving the title choice out without a word.\n\nsha256: 1b23b232def24dea69e196c13d7d1ea3e473eb0c0560968dfefecb9fff84aa0c",
   "assets": [
     {
-      "name": "unwip-app-0.40.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.1.zip"
+      "name": "unwip-app-0.40.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.2.zip"
     },
     {
-      "name": "unwip-app-0.40.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.1.zip.sha256"
+      "name": "unwip-app-0.40.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.2.zip.sha256"
     }
   ]
 }
