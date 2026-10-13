@@ -1,0 +1,3 @@
+- New: Move to… on a book's ⋯ menu moves it to Dropbox, OneDrive, this PC or another folder. It's copied and checked file by file before the old copy goes to the Recycle Bin. On the iPhone/iPad: move a book into Dropbox, or keep it on that device only.
+- Safer saving: every save is now flushed to the disk before it replaces the old file, so even a power cut can't leave an empty chapter behind. (Tested by force-closing Unwip at random moments while writing: nothing damaged.)
+- Book names: a book called "CON" or one starting with "_" or "@" no longer goes missing from the main screen or stops syncing to the phone.
