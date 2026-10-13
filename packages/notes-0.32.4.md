@@ -1,0 +1,1 @@
+- Play’s daily writing prompt is now called a story starter (Today’s story starter, Another story starter), so nothing in Unwip sounds like an AI tool.
