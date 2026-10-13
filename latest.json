@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.4",
-  "name": "Unwip 0.43.4",
-  "body": "- iPhone/iPad: importing from Scrivener now works with a zip of the project. Apple doesn't let web apps open a .scriv folder (which is why the picker kept downloading the project, making a numbered copy, and still wouldn't let you choose it). In the Files app, press and hold the .scriv project \u203a Compress, then in Unwip choose Import \u203a Scrivener \u203a Choose the zip. Unwip explains the steps when you start.\n\nsha256: 7811a956543e06e62b268a07587bc9730d3342164a81f1c244b33b4d7eea49a1",
+  "tag_name": "v0.43.5",
+  "name": "Unwip 0.43.5",
+  "body": "- iPhone/iPad: groundwork for importing Scrivener projects straight from Dropbox, with no zip: Import \u203a Scrivener \u203a Choose from Dropbox shows your Dropbox (starting in Apps \u203a Scrivener) and imports the project you tap. It uses a separate, read-only Dropbox permission, asked for the first time only. It switches on once Unwip's read-only Dropbox key is added; until then the zip way still works.\n\nsha256: f337202567b6e2803e2ef7afe3ade25ed6e46a9129df933d3c5f4a3f4fa4d793",
   "assets": [
     {
-      "name": "unwip-app-0.43.4.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.4.zip"
+      "name": "unwip-app-0.43.5.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.5.zip"
     },
     {
-      "name": "unwip-app-0.43.4.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.4.zip.sha256"
+      "name": "unwip-app-0.43.5.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.5.zip.sha256"
     }
   ]
 }
