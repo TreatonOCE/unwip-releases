@@ -1,0 +1,5 @@
+- Report a problem: at the bottom of the main screen (or search "Report"). Say what happened and Unwip adds the version, your device and recent errors, never any writing. You can see exactly what's sent, then copy it or email it.
+- About Unwip: version, credits for the fonts and tools Unwip uses, and how your writing stays yours.
+- A "No AI" note on the main screen: nothing in Unwip writes, edits, suggests or draws for you, maps included.
+- Maps: "Generate…" is now "🎲 Random map…", made by fixed rules and random numbers, like rolling dice.
+- Dropbox safety: Unwip leaves a small note in your Dropbox saying how the books are laid out. A version of Unwip too old to understand it stops syncing and asks to be updated, instead of guessing.

@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.30.0",
-  "name": "Unwip 0.30.0",
-  "body": "- Sprint history: every writing sprint from all your books in one place, with the date, book, chapter, minutes, words and words per minute. Shows your average and best speed and a chart of recent sprints, and you can filter by book.\n- Delete a sprint you don't want counted (a test run, one you abandoned) with ×; Undo brings it back. Averages update straight away.\n- Open it from Goals (click the best sprint card), the \"All sprints\" button when a sprint finishes, or search for \"Sprints\". Sprints now also remember which chapter they were in.\n\nsha256: ab26d43e0be015257e8c85da47a8e110195944bc8acb6976be390749966d8649",
+  "tag_name": "v0.31.0",
+  "name": "Unwip 0.31.0",
+  "body": "- Report a problem: at the bottom of the main screen (or search \"Report\"). Say what happened and Unwip adds the version, your device and recent errors, never any writing. You can see exactly what's sent, then copy it or email it.\n- About Unwip: version, credits for the fonts and tools Unwip uses, and how your writing stays yours.\n- A \"No AI\" note on the main screen: nothing in Unwip writes, edits, suggests or draws for you, maps included.\n- Maps: \"Generate…\" is now \"🎲 Random map…\", made by fixed rules and random numbers, like rolling dice.\n- Dropbox safety: Unwip leaves a small note in your Dropbox saying how the books are laid out. A version of Unwip too old to understand it stops syncing and asks to be updated, instead of guessing.\n\nsha256: 866f98a8cb2a977ab0cdbff3678c6483275cd7ea4f67449130ed2b648d59e53c",
   "assets": [
     {
-      "name": "unwip-app-0.30.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.30.0.zip"
+      "name": "unwip-app-0.31.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.31.0.zip"
     },
     {
-      "name": "unwip-app-0.30.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.30.0.zip.sha256"
+      "name": "unwip-app-0.31.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.31.0.zip.sha256"
     }
   ]
 }
