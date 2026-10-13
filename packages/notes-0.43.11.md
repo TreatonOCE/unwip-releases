@@ -1,0 +1,1 @@
+- 141 more quotes from writers on the main screen, 196 in all: Tolkien, Vonnegut, Didion, Bradbury, Dillard, Pratchett, Gaiman, Steinbeck, Atwood and many more, on drafting, finishing, rewriting and keeping going. Each one comes up once before any repeats.

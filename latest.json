@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.10",
-  "name": "Unwip 0.43.10",
-  "body": "- PC: \"Sync now\" on the main screen now visibly does something: it shows Checking\u2026, reads your books again, then says \"\u2713 Up to date\" and which book another device changed last.\n- iPhone/iPad: a book deleted on the PC no longer lingers on the phone's main screen as a book that won't open. After the sync it's gone from the list and shows in Deleted books straight away.\n- Opening a book that has meanwhile been deleted or moved on another device now says so and refreshes the list, instead of doing nothing.\n\nsha256: 6f76add7504e1ece7cbc3eb8cc74bbfd5b537dfbf99a65edb72700fe95b90627",
+  "tag_name": "v0.43.11",
+  "name": "Unwip 0.43.11",
+  "body": "- 141 more quotes from writers on the main screen, 196 in all: Tolkien, Vonnegut, Didion, Bradbury, Dillard, Pratchett, Gaiman, Steinbeck, Atwood and many more, on drafting, finishing, rewriting and keeping going. Each one comes up once before any repeats.\n\nsha256: 37b18ecb3ece740969de2dcc65356595ce900e68aa9cde93b5c8bae1d06161ad",
   "assets": [
     {
-      "name": "unwip-app-0.43.10.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.10.zip"
+      "name": "unwip-app-0.43.11.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.11.zip"
     },
     {
-      "name": "unwip-app-0.43.10.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.10.zip.sha256"
+      "name": "unwip-app-0.43.11.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.11.zip.sha256"
     }
   ]
 }
