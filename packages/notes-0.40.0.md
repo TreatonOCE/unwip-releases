@@ -1,0 +1,12 @@
+- Scrivener projects made on an iPhone or iPad (and not yet opened in Scrivener on a computer) now import. Unwip reads them from their "Mobile" folder. If a project has phone or iPad edits that Scrivener on your computer hasn't taken in yet, Unwip tells you.
+- Importing from Scrivener now keeps your empty lines between paragraphs by default (there's a choice in the import window), and no longer turns several empty lines in a row into a scene break unless you ask it to.
+- Pasting: empty lines are still tidied away by default, but a "Keep them as they were" button puts them back and remembers that for the book. You can also set it in Manuscript style.
+- Fixed: a space between two words could vanish on import or paste when the space itself was formatted differently (for example a bold space between two plain words).
+- Scrivener import now brings in your line spacing and first-line indent, and gives top-level folders it doesn't recognise (like "Skills & Abilities") their own section instead of putting them in Notes.
+- Taking a book back to Scrivener (No hard feelings) can now put back how it looked there: typed title lines at their original size, empty lines where you had them, and Scrivener's line spacing. Tested on a 57-chapter book: every chapter came back the same.
+- Before anything is exported, a short summary shows what's going and what isn't (comments, maps and so on). If chapters still have suggested changes, you choose to accept them all in the copy, leave them out, or (for Word) keep them as tracked changes.
+- New: One Word file for Vellum or Atticus, with each chapter a Heading 1, scene breaks as *** and no stray empty lines. It should work, but hasn't been tested by beta testers yet.
+- Folder exports name files "01 - Chapter One" so they sort in order everywhere. Markdown exports now include footnotes, and put pictures in a Pictures folder.
+- Full backups now include fonts you've imported, and restoring puts them back. Tested by backing up, wiping and restoring a whole book: nothing was lost.
+- Fixed: double-clicking a chapter in the binder to rename it no longer flickers and closes straight away.
+- Fixed: Manuscript style no longer resets an imported line spacing like 1.3 to single.
