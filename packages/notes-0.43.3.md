@@ -1,0 +1,4 @@
+- iPhone/iPad: Dropbox now syncs when you tap Sync (the cloud on the main screen, or the small cloud next to the book's name while writing). A ⚠ shows when another device has changed something, and a dot when this device has changes not in Dropbox yet. Leaving a book with unsynced changes says so. Prefer it automatic? Settings › Where your projects live › "Sync by itself while I write".
+- iPhone/iPad: no more "Checking… 2,000" every time you come back to the app. After the first sync, Unwip only asks Dropbox what changed since last time, which is much quicker.
+- iPhone/iPad: Settings no longer shows a one-item spelling language list. It explains that spelling follows your keyboard languages, and how to add one.
+- PC: exporting to Scrivener into a folder that already has that project now asks to replace it (the old one goes to the Recycle Bin) or keep both, instead of piling up numbered copies.

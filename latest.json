@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.2",
-  "name": "Unwip 0.43.2",
-  "body": "- New: Move to\u2026 on a book's \u22ef menu moves it to Dropbox, OneDrive, this PC or another folder. It's copied and checked file by file before the old copy goes to the Recycle Bin. On the iPhone/iPad: move a book into Dropbox, or keep it on that device only.\n- Safer saving: every save is now flushed to the disk before it replaces the old file, so even a power cut can't leave an empty chapter behind. (Tested by force-closing Unwip at random moments while writing: nothing damaged.)\n- Book names: a book called \"CON\" or one starting with \"_\" or \"@\" no longer goes missing from the main screen or stops syncing to the phone.\n\nsha256: 7f3f4049ccefe8ef599086eebda374a4be6c7a8c2784782a0ca85921ee7d40ba",
+  "tag_name": "v0.43.3",
+  "name": "Unwip 0.43.3",
+  "body": "- iPhone/iPad: Dropbox now syncs when you tap Sync (the cloud on the main screen, or the small cloud next to the book's name while writing). A \u26a0 shows when another device has changed something, and a dot when this device has changes not in Dropbox yet. Leaving a book with unsynced changes says so. Prefer it automatic? Settings \u203a Where your projects live \u203a \"Sync by itself while I write\".\n- iPhone/iPad: no more \"Checking\u2026 2,000\" every time you come back to the app. After the first sync, Unwip only asks Dropbox what changed since last time, which is much quicker.\n- iPhone/iPad: Settings no longer shows a one-item spelling language list. It explains that spelling follows your keyboard languages, and how to add one.\n- PC: exporting to Scrivener into a folder that already has that project now asks to replace it (the old one goes to the Recycle Bin) or keep both, instead of piling up numbered copies.\n\nsha256: 4f0619d72ed65901a65e1f2d4623ffb8300b0c22cda0f52cad5ef304877d9621",
   "assets": [
     {
-      "name": "unwip-app-0.43.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.2.zip"
+      "name": "unwip-app-0.43.3.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.3.zip"
     },
     {
-      "name": "unwip-app-0.43.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.2.zip.sha256"
+      "name": "unwip-app-0.43.3.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.3.zip.sha256"
     }
   ]
 }
