@@ -1,0 +1,2 @@
+- iPhone/iPad: if Dropbox turns down the Scrivener import, Unwip now shows what Dropbox actually said (and asks you to sign in again when that's the fix), instead of just a number.
+- The "goal" label on the main screen's 14-day chart no longer covers the "Full history" link.
