@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.36.0",
-  "name": "Unwip 0.36.0",
-  "body": "- Natural voice for Read aloud (optional): in Read aloud's voice list, pick \u201cNatural voice\u2026 (optional download)\u201d. It's Kokoro, a small speech model that only reads your words aloud and can't write, change or suggest anything. It isn't part of Unwip and isn't downloaded unless you ask. It's a one-off download of about 120 MB from its own public sources, each file checked against a known fingerprint, and after that it works offline with nothing you write sent anywhere. There are eight English voices, British and American. The window explains exactly what it is before you download, and you can remove it from the same window. About Unwip, Help and Open-source licences say the same.\n- Read aloud prepares the next sentences while it reads. On the PC the voice runs in its own background window and can use several processor cores.\n- Find anything (Ctrl+K, the magnifying glass at the top) now puts \u201cFind in this chapter\u201d and \u201cSearch the whole book\u201d first when what you type isn't the name of an action or chapter, so you can look for any word there.\n\nsha256: e14ef55d178f2f796fec4deaebde114dc9d817e261dbf78d01487508ea319d0c",
+  "tag_name": "v0.37.0",
+  "name": "Unwip 0.37.0",
+  "body": "- Font for the whole book: change the font of everything in a book at once (chapters, character and place sheets, notes, template entries, titles and headings, and if you like synopses, index cards and split view). It can also clear the fonts and sizes that came in with pasted or imported text, so nothing is left in the old font. Use it for one book, make it the default for new books, or apply it to every book you have. Undo puts the book back. Find it in Manuscript style, Settings, or Ctrl+K \u203a Font for the whole book.\n- Split view's document list now works like the binder: folders open and close, and you can type to find a document.\n\nsha256: ac4f86030f94925f930ab8522ade7cae9b705c59b5fb22212b5c7b08a662120c",
   "assets": [
     {
-      "name": "unwip-app-0.36.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.36.0.zip"
+      "name": "unwip-app-0.37.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.37.0.zip"
     },
     {
-      "name": "unwip-app-0.36.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.36.0.zip.sha256"
+      "name": "unwip-app-0.37.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.37.0.zip.sha256"
     }
   ]
 }
