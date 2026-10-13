@@ -1,0 +1,1 @@
+- Scrivener import: "Show a chapter before and after" now follows the choices on the list. You see the chapter with the typed title used as its name, taken out with the binder name kept, or left as it is, and with empty lines kept or taken out. A line under the preview says what happens to the title.
