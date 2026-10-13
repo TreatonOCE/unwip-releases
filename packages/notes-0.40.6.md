@@ -1,0 +1,6 @@
+Working on two computers (or a computer and Dropbox), tested by simulating a second computer changing the same book:
+- If Unwip is about to save a chapter or the binder over a version it hasn't seen yet (another computer's change that arrived a moment earlier), it now keeps that version as a "conflicted copy" first, and the "Two versions found" window offers it. Before, the other computer's change could be overwritten without a trace.
+- When a chapter you've been typing in is updated from another computer, your version always goes to Snapshots first, even if it was already saved. If you have unsaved words, the other computer's version goes to Snapshots straight away and you choose which to use, so neither is ever lost.
+- Fixed: "Use that version" could save your words over the other computer's version before loading it, so you got your own text back and theirs was lost.
+- When the binder clashes, "Compare and bring in" now also lists chapter names and synopses that differ between the two computers, and you tick which to take from the other one.
+Also checked: the web version's full backup and restore into a brand-new browser (all chapters, snapshots and imported fonts came back).
