@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.40.6",
-  "name": "Unwip 0.40.6",
-  "body": "Working on two computers (or a computer and Dropbox), tested by simulating a second computer changing the same book:\n- If Unwip is about to save a chapter or the binder over a version it hasn't seen yet (another computer's change that arrived a moment earlier), it now keeps that version as a \"conflicted copy\" first, and the \"Two versions found\" window offers it. Before, the other computer's change could be overwritten without a trace.\n- When a chapter you've been typing in is updated from another computer, your version always goes to Snapshots first, even if it was already saved. If you have unsaved words, the other computer's version goes to Snapshots straight away and you choose which to use, so neither is ever lost.\n- Fixed: \"Use that version\" could save your words over the other computer's version before loading it, so you got your own text back and theirs was lost.\n- When the binder clashes, \"Compare and bring in\" now also lists chapter names and synopses that differ between the two computers, and you tick which to take from the other one.\nAlso checked: the web version's full backup and restore into a brand-new browser (all chapters, snapshots and imported fonts came back).\n\nsha256: 62e1e9110709bf9547627a718cf760dad4c9983b68f2d79ac1fceb22ee53aa40",
+  "tag_name": "v0.41.0",
+  "name": "Unwip 0.41.0",
+  "body": "Safety for the things most likely to go wrong:\n- Books now record which version of Unwip stored them. An older Unwip won't open a book saved by a newer one (it asks you to update instead), and if another computer saves a book in a newer way while it's open here, this one stops saving the binder rather than damage it. Your chapters keep saving.\n- If a future update ever changes how books are stored, each book is backed up before it's changed. Installing an update also backs up the book that's open first.\n- If saving fails (a full disk, a folder Unwip isn't allowed to write to, a file locked by another program), a warning stays at the top until it works again, saying why. Your words stay on screen and are saved by themselves once the problem is fixed, even if you've moved to another chapter. Leaving the book or closing the window asks first.\n- Very long folder paths on Windows (a deep binder exported into a deep Dropbox folder) are handled, and book names Windows can't use as folder names (like \"CON\" or a name ending in a full stop) are made safe.\n- Scrivener import: if the project's main file is damaged, Unwip uses Scrivener's own spare copy of the binder and tells you. Missing or damaged chapter files are named in the import report instead of quietly coming in empty. If an import stops partway (a full disk, say), the half-made book is removed.\n- New: What I've used (About \u203a What I've used, or search \"used\"). A private tally of which buttons, menus, settings and shortcuts you use, and which are on screen but never used, to help decide what to tuck away later. It stays on this device, keeps no writing or names, and changes nothing.\n\nsha256: 56668e52d233d19092eef45a4456875bbb89e063db6f0d13015b0d68973628e3",
   "assets": [
     {
-      "name": "unwip-app-0.40.6.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.6.zip"
+      "name": "unwip-app-0.41.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.41.0.zip"
     },
     {
-      "name": "unwip-app-0.40.6.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.40.6.zip.sha256"
+      "name": "unwip-app-0.41.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.41.0.zip.sha256"
     }
   ]
 }
