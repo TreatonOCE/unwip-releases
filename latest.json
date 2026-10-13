@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.32.0",
-  "name": "Unwip 0.32.0",
-  "body": "- Town and city maps. When you make a new map (or add a section), choose World or Town or city. Town maps have their own short set of tools: streets (alley, street, main road; they join up where they meet), buildings (drag one, or click between streets to fill the block with rows of buildings), walls with towers and gates, water, areas (park, market square, fields, graveyard) and landmarks (castle, temple, tower, gate, well, market stalls, statue, bridge).\n- Each tool's choices appear above the map only while that tool is picked, so the tool column stays short.\n- 🎲 Random town rolls a village, town or city: streets, a market square, buildings, walls, a river or harbour, fields and a name. Fixed rules and random numbers, no AI. Everything can be edited after.\n- On a world map, double-click a town or city to make its town map; double-click it again later to go there.\n- Works with all four map styles (Parchment, Atlas, Night, Ink sketch).\n\nsha256: e6b2808f078f2779b4add7c88b9943e0711f95924bb26ca8d1b6961529b4f989",
+  "tag_name": "v0.32.1",
+  "name": "Unwip 0.32.1",
+  "body": "- Licences: About Unwip › Open-source licences shows the full licence text for every font and tool Unwip includes (the SIL Open Font License for the fonts, Apache 2.0 for the Harper grammar checker, and MIT for Electron, with a link to Chromium's licences on the PC).\n- Two fonts have new names: Lora is now Larkspur and Libre Baskerville is now Bookhaven. Unwip ships its own trimmed copies of them, and their licence only lets untouched originals use those names. They look exactly the same, and books already set in them switch over by themselves. Word and Google Docs exports still ask for Lora and Libre Baskerville by name.\n- About now has a trademarks note, and Unwip no longer compares itself to other named apps.\n\nsha256: 0b350f13ec88b9906c7b39248948842fb84df353799bf23b99d8ef8381a1be02",
   "assets": [
     {
-      "name": "unwip-app-0.32.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.0.zip"
+      "name": "unwip-app-0.32.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.1.zip"
     },
     {
-      "name": "unwip-app-0.32.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.0.zip.sha256"
+      "name": "unwip-app-0.32.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.1.zip.sha256"
     }
   ]
 }

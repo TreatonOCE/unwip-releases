@@ -1,0 +1,3 @@
+- Licences: About Unwip › Open-source licences shows the full licence text for every font and tool Unwip includes (the SIL Open Font License for the fonts, Apache 2.0 for the Harper grammar checker, and MIT for Electron, with a link to Chromium's licences on the PC).
+- Two fonts have new names: Lora is now Larkspur and Libre Baskerville is now Bookhaven. Unwip ships its own trimmed copies of them, and their licence only lets untouched originals use those names. They look exactly the same, and books already set in them switch over by themselves. Word and Google Docs exports still ask for Lora and Libre Baskerville by name.
+- About now has a trademarks note, and Unwip no longer compares itself to other named apps.
