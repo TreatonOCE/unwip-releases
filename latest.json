@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.0",
-  "name": "Unwip 0.43.0",
-  "body": "Deleted books, choosing where a book lives, and chapters in their own window:\n- Deleted books: deleting a book now puts it in Unwip's own Deleted books (a link at the bottom of the main screen), on the PC, iPhone and iPad alike, instead of the Windows Recycle Bin. Open it to bring a book back just as it was, or delete it forever. Books in Dropbox go to a Deleted books folder inside Dropbox, so your other PCs see them there too.\n- On the iPhone and iPad with Dropbox connected, deleting a book asks: this device only (it stays in Dropbox and on your PC), or everywhere. A book deleted on another device is kept in this device's Deleted books as well, so nothing vanishes without a copy.\n- New project (and Scrivener import) now asks where to keep the book: where your books are now, Dropbox, OneDrive, This PC only, or another folder you pick. On the iPhone and iPad: Dropbox, or this device only. Books kept in different places all show on the main screen, each marked with where it is.\n- A chapter in its own window, for a second screen: right-click a document in the binder \u203a Open in its own window, or use the \u29c9 button at the top of split view. It opens on your other screen if you have one. It saves as you type, and the main window shows its word count, marks it in the binder, and brings that window forward if you click it. \"Back to the main window\" (or closing it) saves and carries on in the main window. Closing the book or Unwip saves and closes it too.\n\nsha256: d9c8cacda477343245b911489f8fcf1050730ff326e7d605f979f60a56fb08b1",
+  "tag_name": "v0.43.1",
+  "name": "Unwip 0.43.1",
+  "body": "- Open in a new window (PC only): the chapter now stays open in the main window as well, and both windows keep each other up to date as you write in either one. New windows open as ordinary windows on the same screen, each one a little further along, so you can have several side by side on one monitor (or drag one to another screen).\n- The main screen now groups your books by where they're saved: Dropbox first, then other synced folders (OneDrive and so on), then books kept only on this PC (or, on the iPhone/iPad, only on that device). With everything in one place, there are no headings.\n\nsha256: 3f8cac2218c3bc674b13fcf9e80363c9e4fb51cf32499ddb4954d87858f6523e",
   "assets": [
     {
-      "name": "unwip-app-0.43.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.0.zip"
+      "name": "unwip-app-0.43.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.1.zip"
     },
     {
-      "name": "unwip-app-0.43.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.0.zip.sha256"
+      "name": "unwip-app-0.43.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.1.zip.sha256"
     }
   ]
 }
