@@ -1,0 +1,2 @@
+- Agent submission format (standard manuscript format) now writes one standard font through the whole Word file and Google Docs copy: Times New Roman, or Courier New if you pick it. Odd fonts, sizes and colours on pasted words are left out, as agents expect.
+- Word exports name the standard fonts instead of their free look-alikes: Tinos and Liberation Serif become Times New Roman, Cousine becomes Courier New, Arimo becomes Arial, Carlito becomes Calibri and Caladea becomes Cambria. The person opening the file has the real fonts.
