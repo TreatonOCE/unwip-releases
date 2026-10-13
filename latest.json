@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.15",
-  "name": "Unwip 0.43.15",
-  "body": "iPhone and iPad:\n- Unwip now tells you when a new version is out. When you come back to it, or every hour, it checks, and if there is one you get \"A new version of Unwip is ready\" with an Update now button. That saves your writing and reloads. (A Home Screen app is usually woken up rather than restarted, so before this it could keep running an old version.)\n- The formatting row above the keyboard no longer hides behind the iPhone's ^ v \u2713 bar the first time you tap into the page. It now re-measures for a moment while the keyboard opens.\n- The Aa font and size button (from 0.43.14) is on that row, just after H2.\n\nsha256: 85bbcf089a1528fb23d1592d5aa1316573a64a92bb37806d79babf9f068ceeba",
+  "tag_name": "v0.43.16",
+  "name": "Unwip 0.43.16",
+  "body": "Fonts on the iPhone and iPad:\n- The Aa font list now shows the fonts your iPhone or iPad actually has (Palatino, Baskerville, Hoefler Text, Didot, Optima, Snell Roundhand, Zapfino, Avenir and more), grouped as Your favourites, Unwip's book fonts, Imported and On this device. Windows-only fonts it can't show are left out.\n- Palatino works across devices: Windows calls it Palatino Linotype and Apple calls it Palatino. Text set in it on the PC now shows in Palatino on the iPhone, and the other way round, and Word files get the name Windows knows.\n- A font only your iPhone has (Snell Roundhand, say) shows as a stand-in on the PC, since Windows doesn't come with it.\n\nsha256: 47858812a5231b9d75eeff76691011573ea62e8b6a3adba82b0951ad83adb818",
   "assets": [
     {
-      "name": "unwip-app-0.43.15.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.15.zip"
+      "name": "unwip-app-0.43.16.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.16.zip"
     },
     {
-      "name": "unwip-app-0.43.15.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.15.zip.sha256"
+      "name": "unwip-app-0.43.16.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.16.zip.sha256"
     }
   ]
 }
