@@ -1,0 +1,5 @@
+- Town and city maps. When you make a new map (or add a section), choose World or Town or city. Town maps have their own short set of tools: streets (alley, street, main road; they join up where they meet), buildings (drag one, or click between streets to fill the block with rows of buildings), walls with towers and gates, water, areas (park, market square, fields, graveyard) and landmarks (castle, temple, tower, gate, well, market stalls, statue, bridge).
+- Each tool's choices appear above the map only while that tool is picked, so the tool column stays short.
+- 🎲 Random town rolls a village, town or city: streets, a market square, buildings, walls, a river or harbour, fields and a name. Fixed rules and random numbers, no AI. Everything can be edited after.
+- On a world map, double-click a town or city to make its town map; double-click it again later to go there.
+- Works with all four map styles (Parchment, Atlas, Night, Ink sketch).
