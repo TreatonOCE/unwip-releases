@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.32.5",
-  "name": "Unwip 0.32.5",
-  "body": "- About Unwip now opens with a note from the developer on why Unwip exists. The old \u201cMade without AI\u201d heading is now \u201cNo AI inside\u201d: AI coding tools helped build Unwip, but nothing in the app uses AI on your writing.\n\nsha256: 64fa888cc8bd1735d0e7447cc5a5b93174da94cd544c908235028b3449a176bc",
+  "tag_name": "v0.33.0",
+  "name": "Unwip 0.33.0",
+  "body": "- Connections: every character, place, item and template sheet now has a strip at the top. Use + Connect to link it to another sheet (rival of, sibling of, member of, born in, owns, and more, or your own words). The other sheet shows the connection from its side, so \u201cparent of\u201d on one reads \u201cchild of\u201d on the other.\n- See the web shows everything that's connected in one picture. Hover a name to see only its connections, and click one to open its sheet. You can also find it with Ctrl+K \u203a Connections web.\n- Appears in: each sheet lists the chapters that mention it, with how many times. Click a chapter to open it with the name found.\n- Characters are now also found by first name (\u201cMara\u201d for Mara Vell, unless another sheet shares it), and \u201cthe Ash Witch\u201d also counts as \u201cThe Ash Witch\u201d. Insights\u2019 character chart counts the same way.\n\nsha256: 7adff35d13aff12c2a7a82da1393963bff73637bfc114c2000e7740806a1d9da",
   "assets": [
     {
-      "name": "unwip-app-0.32.5.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.5.zip"
+      "name": "unwip-app-0.33.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.33.0.zip"
     },
     {
-      "name": "unwip-app-0.32.5.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.5.zip.sha256"
+      "name": "unwip-app-0.33.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.33.0.zip.sha256"
     }
   ]
 }

@@ -1,0 +1,4 @@
+- Connections: every character, place, item and template sheet now has a strip at the top. Use + Connect to link it to another sheet (rival of, sibling of, member of, born in, owns, and more, or your own words). The other sheet shows the connection from its side, so “parent of” on one reads “child of” on the other.
+- See the web shows everything that's connected in one picture. Hover a name to see only its connections, and click one to open its sheet. You can also find it with Ctrl+K › Connections web.
+- Appears in: each sheet lists the chapters that mention it, with how many times. Click a chapter to open it with the name found.
+- Characters are now also found by first name (“Mara” for Mara Vell, unless another sheet shares it), and “the Ash Witch” also counts as “The Ash Witch”. Insights’ character chart counts the same way.
