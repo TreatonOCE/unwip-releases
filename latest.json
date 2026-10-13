@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.39.2",
-  "name": "Unwip 0.39.2",
-  "body": "- Fixed: Scrivener projects made by No hard feelings wouldn't open (\u201cthe Settings folder is missing\u201d). They now include everything Scrivener expects: its Settings folder, a Snapshots folder, a styles file and the fingerprint list of every document.\n\nsha256: a1d29e6655fe3d8161aa24cb4c607211452ad1e0c009f17896636d92ef3c1013",
+  "tag_name": "v0.39.3",
+  "name": "Unwip 0.39.3",
+  "body": "- Split view now works in every view, not just Write: keep a character sheet or your notes beside the Timeline, Outline, Corkboard or Moodboard. Before, the button stayed lit but nothing showed.\n- \u201cOpen this one in the main editor\u201d from split view switches you back to Write.\n- The timeline's \u201cNo events yet\u201d note no longer gets cut off when the timeline is narrow.\n\nsha256: e7d487697a12cd76d13840c02e3ab1730b77c9d2f38ebba7af2b80092f1cb7c2",
   "assets": [
     {
-      "name": "unwip-app-0.39.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.2.zip"
+      "name": "unwip-app-0.39.3.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.3.zip"
     },
     {
-      "name": "unwip-app-0.39.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.2.zip.sha256"
+      "name": "unwip-app-0.39.3.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.3.zip.sha256"
     }
   ]
 }

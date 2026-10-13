@@ -1,0 +1,3 @@
+- Split view now works in every view, not just Write: keep a character sheet or your notes beside the Timeline, Outline, Corkboard or Moodboard. Before, the button stayed lit but nothing showed.
+- “Open this one in the main editor” from split view switches you back to Write.
+- The timeline's “No events yet” note no longer gets cut off when the timeline is narrow.
