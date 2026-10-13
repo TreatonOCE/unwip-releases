@@ -1,0 +1,5 @@
+- A new way to import from Scrivener, in three steps. Unwip reads your project without changing anything, then shows its folders on the left and where each will land on the right. Change where any of them goes (including into a new section of its own), or untick what you don't want. “Show a chapter before and after” puts a chapter as Scrivener had it next to how it will look in Unwip. It always makes a new project, then reports what came across and what was left out.
+- Your choices are remembered for folders with the same names, so writers with their own folder names don't have to redo them.
+- Scrivener labels now come across too, shown as coloured tags in the Outline and on index cards, along with status, synopses, notes, icons and pictures.
+- Scrivener import also works in a browser on a computer: choose the .scriv folder.
+- Export as a folder of chapter files (in the Export menu, or Ctrl+K): one Word, Markdown or text file per chapter, in folders that match your binder and numbered in order. Scrivener (File › Import › Files), Word, Google Docs and most writing apps can open them, so your work is never locked in. Choose the manuscript only, or everything.

@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.37.0",
-  "name": "Unwip 0.37.0",
-  "body": "- Font for the whole book: change the font of everything in a book at once (chapters, character and place sheets, notes, template entries, titles and headings, and if you like synopses, index cards and split view). It can also clear the fonts and sizes that came in with pasted or imported text, so nothing is left in the old font. Use it for one book, make it the default for new books, or apply it to every book you have. Undo puts the book back. Find it in Manuscript style, Settings, or Ctrl+K \u203a Font for the whole book.\n- Split view's document list now works like the binder: folders open and close, and you can type to find a document.\n\nsha256: ac4f86030f94925f930ab8522ade7cae9b705c59b5fb22212b5c7b08a662120c",
+  "tag_name": "v0.38.0",
+  "name": "Unwip 0.38.0",
+  "body": "- A new way to import from Scrivener, in three steps. Unwip reads your project without changing anything, then shows its folders on the left and where each will land on the right. Change where any of them goes (including into a new section of its own), or untick what you don't want. \u201cShow a chapter before and after\u201d puts a chapter as Scrivener had it next to how it will look in Unwip. It always makes a new project, then reports what came across and what was left out.\n- Your choices are remembered for folders with the same names, so writers with their own folder names don't have to redo them.\n- Scrivener labels now come across too, shown as coloured tags in the Outline and on index cards, along with status, synopses, notes, icons and pictures.\n- Scrivener import also works in a browser on a computer: choose the .scriv folder.\n- Export as a folder of chapter files (in the Export menu, or Ctrl+K): one Word, Markdown or text file per chapter, in folders that match your binder and numbered in order. Scrivener (File \u203a Import \u203a Files), Word, Google Docs and most writing apps can open them, so your work is never locked in. Choose the manuscript only, or everything.\n\nsha256: a6636b622a17d43ebf188d60e40d777749a3f2bfbe24c0b5dec4ebe701c5e263",
   "assets": [
     {
-      "name": "unwip-app-0.37.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.37.0.zip"
+      "name": "unwip-app-0.38.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.38.0.zip"
     },
     {
-      "name": "unwip-app-0.37.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.37.0.zip.sha256"
+      "name": "unwip-app-0.38.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.38.0.zip.sha256"
     }
   ]
 }
