@@ -1,0 +1,1 @@
+- About Unwip now opens with a note from the developer on why Unwip exists. The old “Made without AI” heading is now “No AI inside”: AI coding tools helped build Unwip, but nothing in the app uses AI on your writing.

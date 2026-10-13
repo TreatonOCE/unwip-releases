@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.32.4",
-  "name": "Unwip 0.32.4",
-  "body": "- Play\u2019s daily writing prompt is now called a story starter (Today\u2019s story starter, Another story starter), so nothing in Unwip sounds like an AI tool.\n\nsha256: a54e6efa9bd9cea1a654d18f53feb7a8426cef5e0ba907594e43104654aedba2",
+  "tag_name": "v0.32.5",
+  "name": "Unwip 0.32.5",
+  "body": "- About Unwip now opens with a note from the developer on why Unwip exists. The old \u201cMade without AI\u201d heading is now \u201cNo AI inside\u201d: AI coding tools helped build Unwip, but nothing in the app uses AI on your writing.\n\nsha256: 64fa888cc8bd1735d0e7447cc5a5b93174da94cd544c908235028b3449a176bc",
   "assets": [
     {
-      "name": "unwip-app-0.32.4.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.4.zip"
+      "name": "unwip-app-0.32.5.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.5.zip"
     },
     {
-      "name": "unwip-app-0.32.4.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.4.zip.sha256"
+      "name": "unwip-app-0.32.5.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.32.5.zip.sha256"
     }
   ]
 }
