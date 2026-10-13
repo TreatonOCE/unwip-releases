@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.38.1",
-  "name": "Unwip 0.38.1",
-  "body": "- Read aloud now opens paused at your cursor, so you can pick a voice and speed before anything plays. Press \u25b6 (or F8 again) to start. With the natural voice, the first sentences are prepared while you choose, so \u25b6 starts straight away.\n- Faster speeds: 1.75\u00d7 and 2\u00d7.\n- The natural voice uses more of your computer's processor cores (up to 8 on bigger computers) and prepares three sentences ahead, so there are fewer pauses.\n- The natural voice window stays open after downloading, so you can read it and try each voice with \u25b6 Hear before closing it yourself.\n- Chapter titles typed into the text: if your chapters start with a typed title (\u201cChapter 1: My House, My Rules\u201d) as well as a name in the binder, importing from Scrivener now offers to fix it so the title doesn't show twice. Use the typed title as the chapter's name, or keep the binder names. For a book you've already imported, right-click the Manuscript \u203a Tidy chapter titles typed into the text\u2026. Snapshots are saved first, and Undo puts it back.\n\nsha256: b52955f790cecc9e61c6048c4289d52ece700b6dca4538dfcbf6565807a2de57",
+  "tag_name": "v0.39.0",
+  "name": "Unwip 0.39.0",
+  "body": "- No hard feelings: Export menu \u203a No hard feelings\u2026 packs your book up to take anywhere. Choose a Scrivener project (opens in Scrivener 3 on Windows and Mac: the manuscript becomes the Draft, other sections become folders, with formatting, footnotes, pictures, synopses, status, labels, icons, and maps as pictures), a folder of Word files, a folder of Markdown files, or a full Unwip backup. Nothing in Unwip is changed.\n- Name check: Ignore on each suggestion, and Ignore all for the whole list (with Undo, and \u201cshow them again\u201d). Ignored suggestions are kept with the book.\n- Name check is much smarter about ordinary words: a word you also use in lowercase (cost, last, pain, cast, side) is no longer treated as a name or as a misspelled name.\n\nsha256: f23ce551362a0f07f7a202c5070d9a4b15cf93abdbccbf82ba7d596e68e3e545",
   "assets": [
     {
-      "name": "unwip-app-0.38.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.38.1.zip"
+      "name": "unwip-app-0.39.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.0.zip"
     },
     {
-      "name": "unwip-app-0.38.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.38.1.zip.sha256"
+      "name": "unwip-app-0.39.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.0.zip.sha256"
     }
   ]
 }

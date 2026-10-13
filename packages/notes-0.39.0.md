@@ -1,0 +1,3 @@
+- No hard feelings: Export menu › No hard feelings… packs your book up to take anywhere. Choose a Scrivener project (opens in Scrivener 3 on Windows and Mac: the manuscript becomes the Draft, other sections become folders, with formatting, footnotes, pictures, synopses, status, labels, icons, and maps as pictures), a folder of Word files, a folder of Markdown files, or a full Unwip backup. Nothing in Unwip is changed.
+- Name check: Ignore on each suggestion, and Ignore all for the whole list (with Undo, and “show them again”). Ignored suggestions are kept with the book.
+- Name check is much smarter about ordinary words: a word you also use in lowercase (cost, last, pain, cast, side) is no longer treated as a name or as a misspelled name.
