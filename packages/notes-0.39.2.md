@@ -1,0 +1,1 @@
+- Fixed: Scrivener projects made by No hard feelings wouldn't open (“the Settings folder is missing”). They now include everything Scrivener expects: its Settings folder, a Snapshots folder, a styles file and the fingerprint list of every document.

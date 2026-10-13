@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.39.1",
-  "name": "Unwip 0.39.1",
-  "body": "- Print preview explains the opening pages. Under each one it says what it is (half-title page, its blank back, title page, copyright page) and why some pages are left blank, as in printed books.\n- Importing from Scrivener takes the book's title and author from the project itself (shown on the title page) instead of the folder name.\n- Title pages keep their own spacing when imported, instead of their empty lines turning into a scene break.\n- Books imported before the typed-title fix offer it once when they open, if many chapters have their title typed into the text.\n- Insights moved into the side panel, next to Revise: the book at a glance, a strip of chapter lengths you can click, and what's worth a look, with Open the full charts for the big view. That leaves five views on the left. Title pages are no longer counted as chapters.\n- The side panel's tabs wrap onto two lines when there isn't room, so none are hidden.\n\nsha256: 5a72d87619faede5c581e71c27317e7f16c7408d1ecf160a915b0855e56607a1",
+  "tag_name": "v0.39.2",
+  "name": "Unwip 0.39.2",
+  "body": "- Fixed: Scrivener projects made by No hard feelings wouldn't open (\u201cthe Settings folder is missing\u201d). They now include everything Scrivener expects: its Settings folder, a Snapshots folder, a styles file and the fingerprint list of every document.\n\nsha256: a1d29e6655fe3d8161aa24cb4c607211452ad1e0c009f17896636d92ef3c1013",
   "assets": [
     {
-      "name": "unwip-app-0.39.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.1.zip"
+      "name": "unwip-app-0.39.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.2.zip"
     },
     {
-      "name": "unwip-app-0.39.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.1.zip.sha256"
+      "name": "unwip-app-0.39.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.2.zip.sha256"
     }
   ]
 }
