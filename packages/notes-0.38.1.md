@@ -1,0 +1,5 @@
+- Read aloud now opens paused at your cursor, so you can pick a voice and speed before anything plays. Press ▶ (or F8 again) to start. With the natural voice, the first sentences are prepared while you choose, so ▶ starts straight away.
+- Faster speeds: 1.75× and 2×.
+- The natural voice uses more of your computer's processor cores (up to 8 on bigger computers) and prepares three sentences ahead, so there are fewer pauses.
+- The natural voice window stays open after downloading, so you can read it and try each voice with ▶ Hear before closing it yourself.
+- Chapter titles typed into the text: if your chapters start with a typed title (“Chapter 1: My House, My Rules”) as well as a name in the binder, importing from Scrivener now offers to fix it so the title doesn't show twice. Use the typed title as the chapter's name, or keep the binder names. For a book you've already imported, right-click the Manuscript › Tidy chapter titles typed into the text…. Snapshots are saved first, and Undo puts it back.
