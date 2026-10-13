@@ -1,0 +1,3 @@
+- No hard feelings now writes Scrivener 3's current project format, so Scrivener opens it straight away without asking to update it.
+- Chapter titles go back into the text for Scrivener. Where Unwip had tidied a typed title (“Chapter 1: My House, My Rules”), the original line goes back at the top of the chapter and the chapter's old binder name (“1 - My House, My Rules”) comes back too. Books that never had typed titles get each chapter's name typed in, since Scrivener needs titles in the text. You can turn this off in the window.
+- Unwip now remembers a chapter's original typed title and binder name when it tidies them, so it can put them back.

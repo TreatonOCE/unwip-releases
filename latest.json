@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.39.3",
-  "name": "Unwip 0.39.3",
-  "body": "- Split view now works in every view, not just Write: keep a character sheet or your notes beside the Timeline, Outline, Corkboard or Moodboard. Before, the button stayed lit but nothing showed.\n- \u201cOpen this one in the main editor\u201d from split view switches you back to Write.\n- The timeline's \u201cNo events yet\u201d note no longer gets cut off when the timeline is narrow.\n\nsha256: e7d487697a12cd76d13840c02e3ab1730b77c9d2f38ebba7af2b80092f1cb7c2",
+  "tag_name": "v0.39.4",
+  "name": "Unwip 0.39.4",
+  "body": "- No hard feelings now writes Scrivener 3's current project format, so Scrivener opens it straight away without asking to update it.\n- Chapter titles go back into the text for Scrivener. Where Unwip had tidied a typed title (\u201cChapter 1: My House, My Rules\u201d), the original line goes back at the top of the chapter and the chapter's old binder name (\u201c1 - My House, My Rules\u201d) comes back too. Books that never had typed titles get each chapter's name typed in, since Scrivener needs titles in the text. You can turn this off in the window.\n- Unwip now remembers a chapter's original typed title and binder name when it tidies them, so it can put them back.\n\nsha256: ac7489105e237ada4cb8a19d74c060fb6a5441f1bf6b966f6016c3ea3f3c2f4d",
   "assets": [
     {
-      "name": "unwip-app-0.39.3.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.3.zip"
+      "name": "unwip-app-0.39.4.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.4.zip"
     },
     {
-      "name": "unwip-app-0.39.3.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.3.zip.sha256"
+      "name": "unwip-app-0.39.4.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.39.4.zip.sha256"
     }
   ]
 }
