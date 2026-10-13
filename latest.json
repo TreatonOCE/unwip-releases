@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.12",
-  "name": "Unwip 0.43.12",
-  "body": "A tidy-up pass, mostly for the iPhone and iPad:\n- Main screen on a phone: the header no longer crowds. The name and the sync and settings buttons sit on one line, with Write and Play full width underneath.\n- Friendlier empty screens: a new book now says \"your first page is waiting\" instead of \"0 pages\", the streak says \"write today to start one\", and the writing chart explains itself until there's something to show.\n- \"Projects\" is now \"books\" in the places you see most: \"Your books\", \"New book\", and \"Find in the whole book\".\n- Settings fit on a phone screen, with no more sideways scrolling.\n- Search on a phone: the find box is full width instead of squashed, and the Manuscript/Everything choice no longer runs off the screen.\n- Preview on a phone shows one page at a time, full size and centred (it used to squeeze in a two-page spread with page 1 off to the side). The page counter at the bottom fits now too. On the PC you still get two-page spreads.\n- The inspiration quote no longer slides under its refresh button on small screens.\n- The writing toolbar hasn't changed. That's waiting for your tally.\n\nsha256: f3feac307b1fe704f2cbed88b46529e2d0d7830f409f60637e442458c68d0908",
+  "tag_name": "v0.43.13",
+  "name": "Unwip 0.43.13",
+  "body": "A small fix:\n- Pressing Sync (or anything else that refreshes the main screen) no longer swaps the inspiration quote. It stays the same while Unwip is open. Press \u21bb on the quote for a new one, and you get a fresh one each time you open Unwip.\n\nsha256: 2b8c1d3d2f7d0762cc21570321e042bea64b07725583aba898eccf6dd6dc2ea7",
   "assets": [
     {
-      "name": "unwip-app-0.43.12.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.12.zip"
+      "name": "unwip-app-0.43.13.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.13.zip"
     },
     {
-      "name": "unwip-app-0.43.12.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.12.zip.sha256"
+      "name": "unwip-app-0.43.13.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.13.zip.sha256"
     }
   ]
 }
