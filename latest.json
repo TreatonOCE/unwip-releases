@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.35.2",
-  "name": "Unwip 0.35.2",
-  "body": "- Split view shows maps as pictures (every section, with its name) instead of their raw data, with a button to open the map for editing.\n- The split view list now follows your binder: folders appear as headings with their documents indented under them, in the same order, and maps are marked \ud83d\uddfa\ufe0f.\n- Remove empty lines can be undone: press Ctrl+Z straight afterwards, or click Undo on the message that appears. (A snapshot is still saved first, as before.)\n\nsha256: 3dcb739033e041ab56c7ff02cfd1be4cc0c32b3bd63865e9f4fcb420891b336f",
+  "tag_name": "v0.36.0",
+  "name": "Unwip 0.36.0",
+  "body": "- Natural voice for Read aloud (optional): in Read aloud's voice list, pick \u201cNatural voice\u2026 (optional download)\u201d. It's Kokoro, a small speech model that only reads your words aloud and can't write, change or suggest anything. It isn't part of Unwip and isn't downloaded unless you ask. It's a one-off download of about 120 MB from its own public sources, each file checked against a known fingerprint, and after that it works offline with nothing you write sent anywhere. There are eight English voices, British and American. The window explains exactly what it is before you download, and you can remove it from the same window. About Unwip, Help and Open-source licences say the same.\n- Read aloud prepares the next sentences while it reads. On the PC the voice runs in its own background window and can use several processor cores.\n- Find anything (Ctrl+K, the magnifying glass at the top) now puts \u201cFind in this chapter\u201d and \u201cSearch the whole book\u201d first when what you type isn't the name of an action or chapter, so you can look for any word there.\n\nsha256: e14ef55d178f2f796fec4deaebde114dc9d817e261dbf78d01487508ea319d0c",
   "assets": [
     {
-      "name": "unwip-app-0.35.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.2.zip"
+      "name": "unwip-app-0.36.0.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.36.0.zip"
     },
     {
-      "name": "unwip-app-0.35.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.35.2.zip.sha256"
+      "name": "unwip-app-0.36.0.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.36.0.zip.sha256"
     }
   ]
 }
