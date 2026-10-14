@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.21",
-  "name": "Unwip 0.43.21",
-  "body": "Fix:\n- Screen videos and timelapse videos can now be skipped through. Video players show their length and let you drag to any point. (Browsers record video without a length or an index, so players could only play it straight through. When you press stop, Unwip now adds both, without changing the video itself. A long recording takes a moment to finish.)\n- Videos recorded before this update stay as they were.\n\nsha256: 8c6c6f9e3af249924d800f104cd1698fc378201824ede47b69900a502c97a357",
+  "tag_name": "v0.43.22",
+  "name": "Unwip 0.43.22",
+  "body": "Small fix:\n- Typing feel: picking a new effect, cursor or sound now starts the \"Try it here\" sample fresh, instead of adding another \"Hello there.\" each time.\n\nsha256: 41e1017a1d0375cd91cb0cc1af507ea18f5f00b0a63731692106ecfb3b0f7287",
   "assets": [
     {
-      "name": "unwip-app-0.43.21.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.21.zip"
+      "name": "unwip-app-0.43.22.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.22.zip"
     },
     {
-      "name": "unwip-app-0.43.21.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.21.zip.sha256"
+      "name": "unwip-app-0.43.22.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.22.zip.sha256"
     }
   ]
 }
