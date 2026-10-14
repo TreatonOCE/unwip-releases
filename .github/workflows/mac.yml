@@ -1,0 +1,28 @@
+# Builds Unwip for Mac (Apple chip and Intel) from the newest update package and puts it on the "Unwip for Mac"
+# release. Runs when anything in mac/ changes, or by hand (Actions › Mac app › Run workflow).
+# The Mac app updates itself from the normal packages, so it only needs rebuilding when the engine or starter changes.
+name: Mac app
+on:
+  push:
+    branches: [main]
+    paths: ['mac/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  mac:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        run: |
+          pip install --quiet pillow
+          VER=$(jq -r .tag_name latest.json); VER=${VER#v}
+          python3 mac/mac-build.py "packages/unwip-app-$VER.zip" --icon mac/icon.png --out out --cache /tmp/maccache
+          cd out && sha256sum Unwip-Mac-*.zip > Unwip-Mac-SHA256.txt && ls -la
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view mac-app >/dev/null 2>&1 || gh release create mac-app --title "Unwip for Mac" --latest=false --notes "Unwip for Mac. Choose the one for your Mac: Apple chip (M1 and later) or Intel. After that it updates itself. Step-by-step instructions: https://treatonoce.github.io/unwip-web/get/"
+          gh release upload mac-app out/Unwip-Mac-AppleSilicon.zip out/Unwip-Mac-Intel.zip out/Unwip-Mac-SHA256.txt --clobber
