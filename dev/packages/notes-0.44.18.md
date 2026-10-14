@@ -1,0 +1,2 @@
+- Maps: painting water where it's already sea now says so, and explains that 🌊 makes lakes, bays and rivers by painting over land (the sea around your land is already water). The same for painting land on land.
+- Town maps: parks, fields, squares and graveyards you paint in several strokes join into one shape: one outline round the outside, and no trees cut in half where strokes overlap.
