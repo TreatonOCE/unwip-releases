@@ -1,0 +1,4 @@
+Getting started:
+- A "Getting started" card on the main screen with five things that make Unwip feel like home: write your first words, keep your books safe, try Detailed, take a snapshot, export your book. Each ticks itself off when you've done it. Click × to hide it whenever you like; it goes away by itself once everything's ticked.
+- After bringing a book in (Word, Markdown, Obsidian, text or a pasted book), a "Your book is in" summary: how many chapters and words arrived, the formatting that came with them (italics, bold, footnotes, pictures…), a reminder that your original files weren't changed, and anything that was left out, such as Obsidian embedded notes. The Scrivener import report now shows words and formatting too.
+- On a phone or iPad, Unwip asks once to keep your writing safe: add it to the Home Screen (so Safari never clears it) and connect Dropbox. Until Dropbox is connected, a small reminder sits on the main screen; × hides it for two weeks.
