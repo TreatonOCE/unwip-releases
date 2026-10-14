@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.7",
-  "commit": "f1dc889b5fa01ba8caa41859ab3c12ee4201dc62",
-  "name": "Unwip Dev 0.44.7",
-  "body": "Behind the scenes: Unwip's home on GitHub is now called UnwipOfficial.\n- The PC and Mac apps now look for updates at unwip.app first, with GitHub as a backup, so they keep updating whatever happens to the GitHub account.\n- Download links point to the new GitHub name, and the old web address forwards to unwip.app.\n\nsha256: 2230ae7cbf48d5c6c3cd1065b378dce7d7728216135a0af038757e50cf1a1c6e",
+  "tag_name": "v0.44.8",
+  "commit": "2df1a8bc149c0167fedc1c233b1d968892148af4",
+  "name": "Unwip Dev 0.44.8",
+  "body": "Safer updates.\n- The PC and Mac apps now only take updates from Unwip's own places (unwip.app and the UnwipOfficial account on GitHub), and refuse an update package from anywhere else.\n\nsha256: a1d8de4a20244fcfb32fcd37f504551da5e774a00e6d90d6c7c2086c0fdee8ae",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.7.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.7.zip"
+      "name": "unwip-dev-app-0.44.8.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.8.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.7.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.7.zip.sha256"
+      "name": "unwip-dev-app-0.44.8.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.8.zip.sha256"
     }
   ]
 }
