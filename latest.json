@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.44.9",
-  "name": "Unwip 0.44.9",
-  "body": "Fixed: books made on a Mac or PC not showing on the phone or iPad.\n- Dropbox only lets the phone and iPad use the folder Dropbox \u203a Apps \u203a Unwip. If your computer keeps its books in Dropbox \u203a Unwip instead, Unwip now says so when it opens and offers to move them, in one click (nothing is deleted).\n- Settings \u203a Where your projects live now shows the folder your books are really in, with the button to move them to the shared folder.\n- On the phone and iPad, Settings says \"connected\" instead of \"syncing\", and explains where to look if Dropbox has no books yet.\n\nsha256: 218cf6b91dc62ea93f7d29de1e0c9b8170512bd1ebefd4015f7f457c6158e547",
+  "tag_name": "v0.44.10",
+  "name": "Unwip 0.44.10",
+  "body": "Fixed: underline wouldn't turn off on a new line.\n- After pressing Enter at the end of underlined words, Cmd+U (Ctrl+U on Windows) or the underline button now turns underline off straight away, before you type anything.\n\nsha256: a090e8f47db748013e92e607c65ebb3469fe181d43e9fd8e4fc60dddc31436b1",
   "assets": [
     {
-      "name": "unwip-app-0.44.9.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.9.zip"
+      "name": "unwip-app-0.44.10.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.10.zip"
     },
     {
-      "name": "unwip-app-0.44.9.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.9.zip.sha256"
+      "name": "unwip-app-0.44.10.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.10.zip.sha256"
     }
   ]
 }
