@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.44.10",
-  "name": "Unwip 0.44.10",
-  "body": "Fixed: underline wouldn't turn off on a new line.\n- After pressing Enter at the end of underlined words, Cmd+U (Ctrl+U on Windows) or the underline button now turns underline off straight away, before you type anything.\n\nsha256: a090e8f47db748013e92e607c65ebb3469fe181d43e9fd8e4fc60dddc31436b1",
+  "tag_name": "v0.44.16",
+  "name": "Unwip 0.44.16",
+  "body": "New: Build from inside a book, and lots of fixes.\n- Build without leaving your chapter: a Build button at the top of a book (Build on phones, or Ctrl/Cmd+K) opens your maps, magic systems, runes, sigils and coats of arms, or starts a new one. On a PC or Mac each opens in its own window to keep beside your chapter; on phones and iPads it opens over the chapter with \"Back to the book\".\n- Coats of arms: symbols always fit inside the shield (no more cut-off stars on diamond or round shields). Choose an arrangement (in a row, in a column, slanting, one then two, around the edge), change their size, or pick \"Where I put them\" and drag them anywhere.\n- Magic system: a short plain-words guide at the top explains what the page is for and each part, which are now numbered and explained more simply.\n- Typing effects now show in the \"Try it here\" box, each one looks clearly different, and there are three new ones: Glow, Spin and Scatter.\n- The Record button is plain until something is actually recording (red only while recording), so it doesn't look like it's already on.\n- iPhone and iPad: settings windows no longer pop a drop-down open by themselves, and the keyboard stays down unless there's just one box to type in.\n\nsha256: fb67f092967a3bbb78556d8bc02ef46ff43e2472ea314b0f994cb8a5a3ea76a3",
   "assets": [
     {
-      "name": "unwip-app-0.44.10.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.10.zip"
+      "name": "unwip-app-0.44.16.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.16.zip"
     },
     {
-      "name": "unwip-app-0.44.10.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.10.zip.sha256"
+      "name": "unwip-app-0.44.16.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.16.zip.sha256"
     }
   ]
 }
