@@ -1,0 +1,1 @@
+- iPhone and iPad: opening Themes & colours (and other settings windows) no longer pops a drop-down list open by itself, and the keyboard only comes up when a window is just one box to type in.

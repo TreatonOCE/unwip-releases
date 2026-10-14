@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.15",
-  "commit": "c0f02e7a925553aeef9d97e9f08292c4a5863d7e",
-  "name": "Unwip Dev 0.44.15",
-  "body": "- Build from a book, on a PC or Mac: picking a piece (or starting a new one) opens it in its own window, to keep beside your chapter. \u21a9 opens it over the chapter instead. On phones and iPads it opens over the chapter, with \"Back to the book\".\n\nsha256: 8296d1e2f008e7e35c1d5b9c273afe1709b57ca3c2abcd80e49ce76884a0dae6",
+  "tag_name": "v0.44.16",
+  "commit": "29b298ba9adf633fa330257535d0889e3f0bdb92",
+  "name": "Unwip Dev 0.44.16",
+  "body": "- iPhone and iPad: opening Themes & colours (and other settings windows) no longer pops a drop-down list open by itself, and the keyboard only comes up when a window is just one box to type in.\n\nsha256: c7d0b17e56ce04f5da0405615aada65c494f2a3500917015aae80ae7b0027e6a",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.15.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.15.zip"
+      "name": "unwip-dev-app-0.44.16.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.16.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.15.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.15.zip.sha256"
+      "name": "unwip-dev-app-0.44.16.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.16.zip.sha256"
     }
   ]
 }
