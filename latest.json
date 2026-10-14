@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.30",
-  "name": "Unwip 0.43.30",
-  "body": "Updates:\n- \"Check for updates now\" finds a new version straight away. Before, it could miss one for a few minutes after it came out.\n\nsha256: 9abee13ad8b7f6766a1c7be84820c07ad4d63c42ee847c07e2130adc7a4e6f34",
+  "tag_name": "v0.43.31",
+  "name": "Unwip 0.43.31",
+  "body": "New example book:\n- The example book is now the opening of Bram Stoker's Dracula (1897, long out of copyright) instead of The Lighthouse Keeper. Stoker told it in dated diary entries, letters and a newspaper cutting, so each one is its own scene, every scene has a card on the corkboard, and the dates are already on the Timeline. It comes with character sheets for Jonathan, Mina, Lucy and the Count, places, and an unwritten scene to try Record on. Make it from Settings \u203a Help \u203a Welcome setup. Your existing books aren't touched.\n\nWelcome setup and tour:\n- \"What have you written with before?\" now includes Obsidian or Markdown, with a \"Bring in my Obsidian vault\" option at the end.\n- The tour is updated: it now covers Read aloud and the Record button, puts Spark and Sprints together, and gives tips that point at the example book when you're in it. 15 stops instead of 16.\n\nsha256: cc1281bd8412075a8b4f07e65d846eef9d4ab8cbd0e8fe491af7ed9a8af4c3c8",
   "assets": [
     {
-      "name": "unwip-app-0.43.30.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.30.zip"
+      "name": "unwip-app-0.43.31.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.31.zip"
     },
     {
-      "name": "unwip-app-0.43.30.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.30.zip.sha256"
+      "name": "unwip-app-0.43.31.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.31.zip.sha256"
     }
   ]
 }
