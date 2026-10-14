@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.44.0",
-  "name": "Unwip 0.44.0",
-  "body": "New: Build, a third tab next to Write and Play, for the pieces of your world that belong to no single book.\n- Maps: the map maker now works on its own. Put a map into any book, linked (fix it once and every book that links it sees the change) or as a separate copy.\n- Magic systems: a guided sheet with the questions writers often forget (where the power comes from, what it costs, what it can never do, how the world treats it). Add costs, elements and spells, and set rules like \"every spell that uses Mind must pay Memory\" or \"costs must add up to at least the power\". Unwip checks every spell against your rules, and can look through a book for every place a spell, cost or element is mentioned.\n- Rune alphabets: draw runes on a dot grid so the whole set looks like one script. Give each one a letter or sound, then type names, mottos and inscriptions and see them written in your runes. Fill A\u2013Z in one go, with random runes to edit if you like.\n- Sigils: draw in one slice and it repeats around the circle, mirrored if you like, with rings and an optional ring of your own runes around the edge.\n- Coats of arms: shield shapes, divided fields, bands, 19 symbols (or your own runes and sigils), and a motto ribbon. Unwip writes the herald's description as you go and points out where the heralds' rule of colour is broken.\n- Copy any of them as a picture, save a PNG, or add it to a book (it goes into Notes or Places).\n- On the phone and iPad, Build syncs through Dropbox with everything else.\nAs always, nothing here is AI: drawing tools, dice and plain rules.\n\nsha256: 2a8c254c1516a31557b6f2b55d0ee1823be5143f1a4ebe3da743cc78297a9a92",
+  "tag_name": "v0.44.1",
+  "name": "Unwip 0.44.1",
+  "body": "Build:\n- Magic systems now use a scroll icon instead of sparkles.\n- If the same piece is changed on two devices before they sync, both versions are kept in Build (\"\u2026 (iPad\u2019s version)\") instead of one being tucked away out of sight. On the PC, Dropbox's own \"conflicted copy\" files show up as their own piece too.\n- A piece that's open on screen reloads when another device changes it, so an older copy is never saved over the newer one.\n- Coat of arms: long mottos go on two lines and always fit the ribbon.\n- Rune writing: a very long word wraps instead of shrinking the whole picture.\n- Phones: tidier magic system rows and spells, the coat of arms title is no longer covered, bigger buttons to tap.\n\nPrivacy (Report a problem):\n- Reports now remove file paths entirely (they can name you, your computer and your books), keeping only Unwip's own file names, plus email addresses and any bit of writing an error message happens to quote.\n- Errors are cleaned when they're noted, so nothing personal is kept on the device either, and Dropbox problems no longer log the name of the file.\n\nEverywhere:\n- A very long book title no longer stretches every book card off the side of a phone.\n- iPad and iPhone: no more hover bubbles popping up after a tap, the map's \u2715 no longer covers its toolbar, the main screen header keeps clear of the notch, and the \"blank map\" hint goes away when you leave the map.\n- Play: the stats wrap on small phones instead of being cut off.\n\nsha256: 38428c812efe7edcbd06ffec782c87b4daf108388a6036001724c7a6310c8646",
   "assets": [
     {
-      "name": "unwip-app-0.44.0.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.0.zip"
+      "name": "unwip-app-0.44.1.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.1.zip"
     },
     {
-      "name": "unwip-app-0.44.0.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.0.zip.sha256"
+      "name": "unwip-app-0.44.1.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.1.zip.sha256"
     }
   ]
 }
