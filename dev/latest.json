@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.21",
-  "commit": "21a5105b56f5226abcaa132aec563043f638285c",
-  "name": "Unwip Dev 0.44.21",
-  "body": "- Turning on Revise closes the split view, so your chapter isn't squeezed into a thin strip (a chapter popped out into its own window stays open). Other side panels close the split view only if the chapter would get too narrow. Open it again with the split button or Ctrl+\\.\n- Record is now in the main menu, Build and Play too, so you can start a screen video from anywhere. A screen video keeps recording as you move between books, Build and Play; the button shows the timer, and clicking it pauses or stops. (Replay, which records the writing in one book, is still switched on inside that book.)\n\nsha256: 7d56572c14a2a09289b75f0ee24b4fde8d0498a69b959b0c0910392804f070d7",
+  "tag_name": "v0.44.22",
+  "commit": "e26c5db24423d79a5fe82028052074d29a533bf8",
+  "name": "Unwip Dev 0.44.22",
+  "body": "- Maps in Build now have the Record button too, like the other Build pages, so you can see when a screen video is recording.\n\nsha256: f657505ead14e652c76835103132ee59b7678cedac3d703df98d28dd6e5c75b1",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.21.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.21.zip"
+      "name": "unwip-dev-app-0.44.22.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.22.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.21.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.21.zip.sha256"
+      "name": "unwip-dev-app-0.44.22.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.22.zip.sha256"
     }
   ]
 }

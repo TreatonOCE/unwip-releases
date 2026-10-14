@@ -1,0 +1,1 @@
+- Maps in Build now have the Record button too, like the other Build pages, so you can see when a screen video is recording.
