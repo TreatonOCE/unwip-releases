@@ -11,4 +11,6 @@ The friendliest way in: **[treatonoce.github.io/unwip-web/get](https://treatonoc
 
 Windows may say "Windows protected your PC", because Unwip isn't paid-for signed. Click **More info**, then **Run anyway**.
 
+**Mac:** [Apple chip](https://github.com/TreatonOCE/unwip-releases/releases/download/mac-app/Unwip-Mac-AppleSilicon.zip) or [Intel](https://github.com/TreatonOCE/unwip-releases/releases/download/mac-app/Unwip-Mac-Intel.zip). The first time, macOS asks you to allow it: System Settings › Privacy & Security › Open Anyway.
+
 On an iPhone, iPad or any other computer, use Unwip in the browser: **[treatonoce.github.io/unwip-web](https://treatonoce.github.io/unwip-web)**. On an iPhone or iPad, open it in Safari, tap Share, then **Add to Home Screen**.
