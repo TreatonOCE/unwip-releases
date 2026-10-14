@@ -22,7 +22,7 @@ ELECTRON = '33.2.1'
 pkg_zip = sys.argv[1]
 arg = lambda k, d: sys.argv[sys.argv.index(k) + 1] if k in sys.argv else d
 cache = arg('--cache', os.path.join(ROOT, 'dist', 'mac-cache'))
-OUT = arg('--out', os.path.join(ROOT, 'dist', 'mac'))
+OUT = os.path.abspath(arg('--out', os.path.join(ROOT, 'dist', 'mac')))
 ICON_SRC = arg('--icon', os.path.join(ROOT, 'brand', 'icon-detailed-1024.png'))
 os.makedirs(cache, exist_ok=True); os.makedirs(OUT, exist_ok=True)
 
