@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.29",
-  "name": "Unwip 0.43.29",
-  "body": "Help:\n- Report a problem \u203a Email it\u2026 now asks how you'd like to send it: Gmail or Outlook.com in your browser, or the email app on your device. Unwip remembers your choice for next time, and Back takes you to the report with what you typed still there.\n\nsha256: dbbc6165e4cb34c5023208cd66ce4da0c17d2766d75f474b1fb1a955f41e1027",
+  "tag_name": "v0.43.30",
+  "name": "Unwip 0.43.30",
+  "body": "Updates:\n- \"Check for updates now\" finds a new version straight away. Before, it could miss one for a few minutes after it came out.\n\nsha256: 9abee13ad8b7f6766a1c7be84820c07ad4d63c42ee847c07e2130adc7a4e6f34",
   "assets": [
     {
-      "name": "unwip-app-0.43.29.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.29.zip"
+      "name": "unwip-app-0.43.30.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.30.zip"
     },
     {
-      "name": "unwip-app-0.43.29.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.29.zip.sha256"
+      "name": "unwip-app-0.43.30.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.30.zip.sha256"
     }
   ]
 }
