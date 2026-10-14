@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.43",
-  "name": "Unwip 0.43.43",
-  "body": "Main screen:\n- Unwip opens on the main screen on every device instead of jumping straight into your last book. \"Continue\" takes you back to where you left off.\n- Phone and iPad: a book with changes that aren't in Dropbox yet shows \"\u25cf Not synced yet\" on its card until you sync.\n\nsha256: 3e715db3da82342b9323958f3793c45ad3e19a40df90f86e8e85a32d72140da9",
+  "tag_name": "v0.43.44",
+  "name": "Unwip 0.43.44",
+  "body": "Deleting books across devices:\n- PC and Mac: if a book is deleted on another device while it's open here, Unwip now notices within a few seconds, saves your latest changes into its copy in Deleted books, closes it, and tells you. Before, it kept saving into the old place, which could bring the book back, half-empty, on every device.\n\nsha256: 88dc0e3893191a03d00f80ee64a9f702166a07ebb5eff003f385205cd53f83f5",
   "assets": [
     {
-      "name": "unwip-app-0.43.43.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.43.zip"
+      "name": "unwip-app-0.43.44.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.44.zip"
     },
     {
-      "name": "unwip-app-0.43.43.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.43.zip.sha256"
+      "name": "unwip-app-0.43.44.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.44.zip.sha256"
     }
   ]
 }
