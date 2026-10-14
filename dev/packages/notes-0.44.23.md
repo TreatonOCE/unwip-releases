@@ -1,0 +1,1 @@
+- Website: pricing wording (free in beta, one-time purchase at launch, beta testers keep it free), Mac moved to Partly tested, Spark and Build explained, Proof of writing privacy line, Windows warning note on every download tile.

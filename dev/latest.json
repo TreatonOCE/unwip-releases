@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.22",
-  "commit": "e26c5db24423d79a5fe82028052074d29a533bf8",
-  "name": "Unwip Dev 0.44.22",
-  "body": "- Maps in Build now have the Record button too, like the other Build pages, so you can see when a screen video is recording.\n\nsha256: f657505ead14e652c76835103132ee59b7678cedac3d703df98d28dd6e5c75b1",
+  "tag_name": "v0.44.23",
+  "commit": "0e0f7b9a4018d2e908b1b809b230b451b2e91cd9",
+  "name": "Unwip Dev 0.44.23",
+  "body": "- Website: pricing wording (free in beta, one-time purchase at launch, beta testers keep it free), Mac moved to Partly tested, Spark and Build explained, Proof of writing privacy line, Windows warning note on every download tile.\n\nsha256: 70c6ae75dda3c2e6ef02141e0ddd1b7323093488b8e1039b994d2957ca5eae99",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.22.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.22.zip"
+      "name": "unwip-dev-app-0.44.23.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.23.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.22.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.22.zip.sha256"
+      "name": "unwip-dev-app-0.44.23.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.23.zip.sha256"
     }
   ]
 }
