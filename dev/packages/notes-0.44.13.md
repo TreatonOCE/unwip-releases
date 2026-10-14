@@ -1,0 +1,1 @@
+- Typing effects: the animations now show in the "Try it here" box (before, you only saw a pause). Each effect is clearly different now, and there are three new ones: Glow, Spin and Scatter.

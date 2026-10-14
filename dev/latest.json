@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.12",
-  "commit": "7aaabbe819c0af06687334aaeb58665a0dcd99d2",
-  "name": "Unwip Dev 0.44.12",
-  "body": "- Coats of arms: choose how the symbols are arranged (in a row, in a column, slanting, one then two, around the edge), make them bigger or smaller, or pick \"Where I put them\" and drag them anywhere on the shield. The herald's description follows the arrangement.\n- Magic system: a short guide at the top explains what the page is for and what each part does, in plain words (hide it once you've read it). Each part is numbered and explained more simply.\n- The Record button in the bottom bar is plain until you're actually recording, so it no longer looks like it's already recording. It turns red only while a replay or screen video is recording.\n\nsha256: cfc49b9c9d8a7326f096888e9a395dd909208d29dd24e73ce3c65f9bf3133da7",
+  "tag_name": "v0.44.13",
+  "commit": "6aa099942f2612b377e8338d3f39569b74381f7a",
+  "name": "Unwip Dev 0.44.13",
+  "body": "- Typing effects: the animations now show in the \"Try it here\" box (before, you only saw a pause). Each effect is clearly different now, and there are three new ones: Glow, Spin and Scatter.\n\nsha256: d5a8edfe79e4abd9596ec13b1f26a94a453f65a69214f76f9932a892a9d3a328",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.12.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.12.zip"
+      "name": "unwip-dev-app-0.44.13.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.13.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.12.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.12.zip.sha256"
+      "name": "unwip-dev-app-0.44.13.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.13.zip.sha256"
     }
   ]
 }
