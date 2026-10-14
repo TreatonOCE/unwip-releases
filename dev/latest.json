@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.14",
-  "commit": "a5692378483676c05ed6a9489581d123f83d8bbe",
-  "name": "Unwip Dev 0.44.14",
-  "body": "- Build from inside a book: a new Build button at the top (and Build on phones, and in Ctrl/Cmd+K) opens your maps, magic systems, runes, sigils and coats of arms without leaving the chapter, or starts a new one. \"Back to the book\" returns you to the same place. On a PC or Mac, \u29c9 opens a piece in its own window to keep beside your chapter.\n- Adding a Build piece to the book you have open now updates its binder straight away.\n\nsha256: b659c0bfe719af92f62da33dc201fe512770e5bc2bcfaee44240edfcabc9f075",
+  "tag_name": "v0.44.15",
+  "commit": "c0f02e7a925553aeef9d97e9f08292c4a5863d7e",
+  "name": "Unwip Dev 0.44.15",
+  "body": "- Build from a book, on a PC or Mac: picking a piece (or starting a new one) opens it in its own window, to keep beside your chapter. \u21a9 opens it over the chapter instead. On phones and iPads it opens over the chapter, with \"Back to the book\".\n\nsha256: 8296d1e2f008e7e35c1d5b9c273afe1709b57ca3c2abcd80e49ce76884a0dae6",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.14.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.14.zip"
+      "name": "unwip-dev-app-0.44.15.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.15.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.14.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.14.zip.sha256"
+      "name": "unwip-dev-app-0.44.15.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.15.zip.sha256"
     }
   ]
 }

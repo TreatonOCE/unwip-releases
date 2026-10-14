@@ -1,0 +1,1 @@
+- Build from a book, on a PC or Mac: picking a piece (or starting a new one) opens it in its own window, to keep beside your chapter. ↩ opens it over the chapter instead. On phones and iPads it opens over the chapter, with "Back to the book".
