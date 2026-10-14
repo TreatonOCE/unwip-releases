@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.16",
-  "name": "Unwip 0.43.16",
-  "body": "Fonts on the iPhone and iPad:\n- The Aa font list now shows the fonts your iPhone or iPad actually has (Palatino, Baskerville, Hoefler Text, Didot, Optima, Snell Roundhand, Zapfino, Avenir and more), grouped as Your favourites, Unwip's book fonts, Imported and On this device. Windows-only fonts it can't show are left out.\n- Palatino works across devices: Windows calls it Palatino Linotype and Apple calls it Palatino. Text set in it on the PC now shows in Palatino on the iPhone, and the other way round, and Word files get the name Windows knows.\n- A font only your iPhone has (Snell Roundhand, say) shows as a stand-in on the PC, since Windows doesn't come with it.\n\nsha256: 47858812a5231b9d75eeff76691011573ea62e8b6a3adba82b0951ad83adb818",
+  "tag_name": "v0.43.17",
+  "name": "Unwip 0.43.17",
+  "body": "Bringing in an Obsidian vault (or any folder of folders):\n- Import \u203a \"A folder of chapter files\u2026\" now reads the sub-folders too, and keeps them as folders in the binder: Book \u203a Part 1 \u203a chapters, Characters, and so on. There is a tick box to bring everything in as one flat list instead. Files are kept in order, with chapter 2 before chapter 10.\n- Obsidian's own folders (.obsidian, .trash) and Excalidraw drawings are left out.\n- Obsidian notes come in clean: the properties block at the top, %%hidden comments%%, embedded pictures (![[\u2026]]) and callout labels ([!note]) are removed, ==highlights== keep their words, and [[links]] become plain words.\n- The import screen says \"As a new book\" (it said \"project\").\n\nsha256: 37021bf6d3b0f16d5897a55b45f8c046591b2c0c75634c476de4e4fc5ee5ec69",
   "assets": [
     {
-      "name": "unwip-app-0.43.16.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.16.zip"
+      "name": "unwip-app-0.43.17.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.17.zip"
     },
     {
-      "name": "unwip-app-0.43.16.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.16.zip.sha256"
+      "name": "unwip-app-0.43.17.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.17.zip.sha256"
     }
   ]
 }
