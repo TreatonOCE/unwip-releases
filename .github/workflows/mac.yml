@@ -28,5 +28,5 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release view mac-app >/dev/null 2>&1 || gh release create mac-app --title "Unwip for Mac" --latest=false --notes "Unwip for Mac. Choose the one for your Mac: Apple chip (M1 and later) or Intel. After that it updates itself. Step-by-step instructions: https://treatonoce.github.io/unwip-web/get/"
+          gh release view mac-app >/dev/null 2>&1 || gh release create mac-app --title "Unwip for Mac" --latest=false --notes "Unwip for Mac. Choose the one for your Mac: Apple chip (M1 and later) or Intel. After that it updates itself. Step-by-step instructions: https://unwip.app/get/"
           gh release upload mac-app out/Unwip-Mac-AppleSilicon.zip out/Unwip-Mac-Intel.zip out/Unwip-Mac-SHA256.txt --clobber
