@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.26",
-  "name": "Unwip 0.43.26",
-  "body": "Updates:\n- No update key needed any more. Unwip now updates straight from the public download page, the same way for everyone. If you once typed a key into Settings, Unwip forgets it on its next start.\n\nsha256: 9d0043ec5551079a4fbce23b076b4eecdfe9af5fff8b6191ddf8ce3930b84a53",
+  "tag_name": "v0.43.27",
+  "name": "Unwip 0.43.27",
+  "body": "Help:\n- Report a problem \u203a Email it now goes straight to UnwipSupport@gmail.com, with the report filled in. You can still read it before you send it.\n\nsha256: 918ec452f421f03680e38f444be10d137a854d787ea9de386b2c34ae6585c6ab",
   "assets": [
     {
-      "name": "unwip-app-0.43.26.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.26.zip"
+      "name": "unwip-app-0.43.27.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.27.zip"
     },
     {
-      "name": "unwip-app-0.43.26.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.26.zip.sha256"
+      "name": "unwip-app-0.43.27.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.27.zip.sha256"
     }
   ]
 }
