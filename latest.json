@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.44.22",
-  "name": "Unwip 0.44.22",
-  "body": "- Record is now in the main menu, Build (maps included) and Play, so you can start a screen video from anywhere. A screen video keeps recording as you move between books, Build and Play; the button shows the timer, and clicking it pauses or stops. (Replay, which records the writing in one book, is still switched on inside that book.)\n- Turning on Revise closes the split view, so your chapter isn't squeezed into a thin strip (a chapter popped out into its own window stays open). Other side panels close the split view only if the chapter would get too narrow. Open it again with the split button or Ctrl+\\.\n- Maps: move things in front of or behind each other. Select something and use the bar at the top of the map (Front, Forward, Backward, Back, or delete), right-click it, or press ] and [ (with Shift for all the way).\n- Maps: landmarks, symbols (towers, towns, castles\u2026) and labels can be made bigger or smaller: select one and drag the square handle at its corner, or press + and \u2212.\n- Maps: painting water where it's already sea now says so, and explains that \ud83c\udf0a makes lakes, bays and rivers by painting over land. The same for painting land on land.\n- Town maps: parks, fields, squares and graveyards painted in several strokes join into one shape, with one outline round the outside and trees spread evenly over it.\n\nsha256: cde37573e72cee078a81a73d5d95401f50185643056b8e24a85a4ed7abac2874",
+  "tag_name": "v0.44.25",
+  "name": "Unwip 0.44.25",
+  "body": "- Proof of writing: save any replay as a video at real speed (1\u00d7), or 2\u00d7, 4\u00d7 or 16\u00d7, as well as the squeezed timelapse. Each session in the Replays list has its own \ud83c\udfac Video button, and the dialog shows how long each video will be. Long pauses are cut to 3 seconds, as in the player, and for long videos you can stop part-way and keep what's made so far.\n- Runes: many more dot grids to draw on, from 2 \u00d7 4 up to 7 \u00d7 7 (49 dots), plus \"Other size\u2026\" for anything up to 9 \u00d7 9. Making the grid bigger keeps every rune as it is.\n- Build: the \"Saving\u2026\" label no longer slides under the Record button.\n- Website: launch pricing wording (free in beta, a one-time purchase at launch, beta testers keep it free), the Mac app moved to \"Partly tested\", and short explanations of Spark and Build.\n\nsha256: f18c45256f887470ce9d5588d554afc5b2d50ea87a40c091626a8fa439dfd2dd",
   "assets": [
     {
-      "name": "unwip-app-0.44.22.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.22.zip"
+      "name": "unwip-app-0.44.25.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.25.zip"
     },
     {
-      "name": "unwip-app-0.44.22.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.22.zip.sha256"
+      "name": "unwip-app-0.44.25.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.25.zip.sha256"
     }
   ]
 }

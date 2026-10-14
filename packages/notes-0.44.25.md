@@ -1,0 +1,4 @@
+- Proof of writing: save any replay as a video at real speed (1×), or 2×, 4× or 16×, as well as the squeezed timelapse. Each session in the Replays list has its own 🎬 Video button, and the dialog shows how long each video will be. Long pauses are cut to 3 seconds, as in the player, and for long videos you can stop part-way and keep what's made so far.
+- Runes: many more dot grids to draw on, from 2 × 4 up to 7 × 7 (49 dots), plus "Other size…" for anything up to 9 × 9. Making the grid bigger keeps every rune as it is.
+- Build: the "Saving…" label no longer slides under the Record button.
+- Website: launch pricing wording (free in beta, a one-time purchase at launch, beta testers keep it free), the Mac app moved to "Partly tested", and short explanations of Spark and Build.
