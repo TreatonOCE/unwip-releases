@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.3",
-  "commit": "3d14a085bb1daaf6ebaf832f8d092b156b458cfc",
-  "name": "Unwip Dev 0.44.3",
-  "body": "Behind the scenes: Unwip Dev, a separate test copy for trying new versions before everyone gets them.\n- Unwip Dev installs next to the normal Unwip with an orange DEV icon and label, its own books (Documents\\Unwip Dev), its own settings, and its own updates. It can't see or change your real books, and the two never take each other's updates.\n- On the web, Unwip Dev is at /unwip-web/dev/ with its own storage. Dropbox stays off in Dev until it has its own Dropbox app.\n- The offline copy of the web app no longer clears out other copies' offline files.\n\nsha256: 935aafa8bc31a15c06a7a2a01d2ca05a9258aae506172587963d50e42ec9e5e9",
+  "tag_name": "v0.44.4",
+  "commit": "f7b978cf757b90359febf09e35cdb86c01bb60d6",
+  "name": "Unwip Dev 0.44.4",
+  "body": "Fixes from beta testing.\n- Writer mode: the page no longer jumps while you type. The line you're on stays put on blank lines and after Enter, and when the window changes size (like a Mac sliding into full screen).\n- A synopsis written in the outline now shows on the chapter when you go back to it.\n- Settings \u203a Sync: iCloud and Google Drive folders show their name instead of \"undefined\".\n- Obsidian and Markdown imports keep single line breaks (each line stays its own line), but still join text that was hard-wrapped.\n- Timeline: characters are added as chips with suggestions; an event can link to several chapters; the filter picks several characters (Together or Any); \"Add events from chapters\" never adds the same one twice, and can be undone.\n- Revise: Undo straight after accepting a suggestion.\n- Track changes: once tracking is off, new typing (and a new line) is plain text, not part of the old tracked change.\n- A copy button next to Today's word count.\n- Timelapse videos come out at the length you chose, even for long chapters.\n- Screen video: Pause and Resume (click the timer in the bottom bar). New per-book setting in Proof of writing: a red \"Not recording\" sign that stays on screen until you start or resume a screen video.\n- Maps: landmarks, symbols and labels can be turned (drag the round handle, or press R). Drag a bridge's end to turn and stretch it.\n- Corkboard: drag a card from anywhere on it, and drop it anywhere, gaps included.\n- New template section: hovering no longer changes your choice; click to choose.\n- Characters, Places and Items: right-click \u203a Edit the sheet to add fields like Class or Role. Unwip offers to add them to the entries you already have.\n\nsha256: 594f15c7288a0d3536bc005a07646c410e5249064985c95d8151165c12b8f736",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.3.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.3.zip"
+      "name": "unwip-dev-app-0.44.4.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.4.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.3.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.3.zip.sha256"
+      "name": "unwip-dev-app-0.44.4.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.4.zip.sha256"
     }
   ]
 }

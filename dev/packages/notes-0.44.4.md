@@ -1,0 +1,15 @@
+Fixes from beta testing.
+- Writer mode: the page no longer jumps while you type. The line you're on stays put on blank lines and after Enter, and when the window changes size (like a Mac sliding into full screen).
+- A synopsis written in the outline now shows on the chapter when you go back to it.
+- Settings › Sync: iCloud and Google Drive folders show their name instead of "undefined".
+- Obsidian and Markdown imports keep single line breaks (each line stays its own line), but still join text that was hard-wrapped.
+- Timeline: characters are added as chips with suggestions; an event can link to several chapters; the filter picks several characters (Together or Any); "Add events from chapters" never adds the same one twice, and can be undone.
+- Revise: Undo straight after accepting a suggestion.
+- Track changes: once tracking is off, new typing (and a new line) is plain text, not part of the old tracked change.
+- A copy button next to Today's word count.
+- Timelapse videos come out at the length you chose, even for long chapters.
+- Screen video: Pause and Resume (click the timer in the bottom bar). New per-book setting in Proof of writing: a red "Not recording" sign that stays on screen until you start or resume a screen video.
+- Maps: landmarks, symbols and labels can be turned (drag the round handle, or press R). Drag a bridge's end to turn and stretch it.
+- Corkboard: drag a card from anywhere on it, and drop it anywhere, gaps included.
+- New template section: hovering no longer changes your choice; click to choose.
+- Characters, Places and Items: right-click › Edit the sheet to add fields like Class or Role. Unwip offers to add them to the entries you already have.
