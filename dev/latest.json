@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.16",
-  "commit": "29b298ba9adf633fa330257535d0889e3f0bdb92",
-  "name": "Unwip Dev 0.44.16",
-  "body": "- iPhone and iPad: opening Themes & colours (and other settings windows) no longer pops a drop-down list open by itself, and the keyboard only comes up when a window is just one box to type in.\n\nsha256: c7d0b17e56ce04f5da0405615aada65c494f2a3500917015aae80ae7b0027e6a",
+  "tag_name": "v0.44.17",
+  "commit": "bdba52bc27542e8d3b29013c6a037eafc210d484",
+  "name": "Unwip Dev 0.44.17",
+  "body": "- The menu beside Copy for Docs (and right-click menus) now scroll in a short window instead of running off the bottom of the screen.\n- The Build button at the top of a book has an icon and matches Spark, Sprint and Revise.\n- The download page shows the app as it looks now, and mentions Build and the screen video's pause and \"Not recording\" reminder.\n\nsha256: 112797816592fb7f416448527c6eadb4c28015f6fdd4c5159d9096c4f1cc0fac",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.16.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.16.zip"
+      "name": "unwip-dev-app-0.44.17.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.17.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.16.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.16.zip.sha256"
+      "name": "unwip-dev-app-0.44.17.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.17.zip.sha256"
     }
   ]
 }

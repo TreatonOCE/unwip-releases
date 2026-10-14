@@ -1,0 +1,3 @@
+- The menu beside Copy for Docs (and right-click menus) now scroll in a short window instead of running off the bottom of the screen.
+- The Build button at the top of a book has an icon and matches Spark, Sprint and Revise.
+- The download page shows the app as it looks now, and mentions Build and the screen video's pause and "Not recording" reminder.
