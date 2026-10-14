@@ -1,0 +1,1 @@
+- Maps: move things in front of or behind each other. Select something and use the bar that appears at the top of the map (Front, Forward, Backward, Back, or delete), right-click it, or press ] and [ (with Shift for all the way).
