@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.27",
-  "name": "Unwip 0.43.27",
-  "body": "Help:\n- Report a problem \u203a Email it now goes straight to UnwipSupport@gmail.com, with the report filled in. You can still read it before you send it.\n\nsha256: 918ec452f421f03680e38f444be10d137a854d787ea9de386b2c34ae6585c6ab",
+  "tag_name": "v0.43.28",
+  "name": "Unwip 0.43.28",
+  "body": "Windows:\n- The installer now asks Windows to refresh its saved icons when it finishes, so Unwip's new icon shows straight away instead of the old one.\n\nsha256: 6a6b2a060628eb4c0a00a0214d6b2f25a9919e342aa060b3340c725af8d20192",
   "assets": [
     {
-      "name": "unwip-app-0.43.27.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.27.zip"
+      "name": "unwip-app-0.43.28.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.28.zip"
     },
     {
-      "name": "unwip-app-0.43.27.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.27.zip.sha256"
+      "name": "unwip-app-0.43.28.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.28.zip.sha256"
     }
   ]
 }
