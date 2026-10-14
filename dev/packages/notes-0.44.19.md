@@ -1,0 +1,2 @@
+- Maps: landmarks, symbols (towers, towns, castles…) and labels can be made bigger or smaller: select one and drag the square handle at its corner, or press + and −.
+- Town maps: a park, square or graveyard painted in several strokes has its trees spread evenly over the whole shape (overlaps no longer get twice as many).

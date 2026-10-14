@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.18",
-  "commit": "44e47f90a57c718c56e9c34e7034a40c21081b3a",
-  "name": "Unwip Dev 0.44.18",
-  "body": "- Maps: painting water where it's already sea now says so, and explains that \ud83c\udf0a makes lakes, bays and rivers by painting over land (the sea around your land is already water). The same for painting land on land.\n- Town maps: parks, fields, squares and graveyards you paint in several strokes join into one shape: one outline round the outside, and no trees cut in half where strokes overlap.\n\nsha256: 49b951f917d278dd18843197758dec3ce551ea980b018fbe1663394403f08d05",
+  "tag_name": "v0.44.19",
+  "commit": "1488e2557429e1c2d8068b24cf9873cf10fd81a6",
+  "name": "Unwip Dev 0.44.19",
+  "body": "- Maps: landmarks, symbols (towers, towns, castles\u2026) and labels can be made bigger or smaller: select one and drag the square handle at its corner, or press + and \u2212.\n- Town maps: a park, square or graveyard painted in several strokes has its trees spread evenly over the whole shape (overlaps no longer get twice as many).\n\nsha256: cc01370dc50c67e4bb2e39a8a0a5dbdae6095847c459fd03f83c778e9500ec8d",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.18.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.18.zip"
+      "name": "unwip-dev-app-0.44.19.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.19.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.18.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.18.zip.sha256"
+      "name": "unwip-dev-app-0.44.19.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.19.zip.sha256"
     }
   ]
 }
