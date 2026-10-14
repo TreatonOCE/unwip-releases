@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.23",
-  "name": "Unwip 0.43.23",
-  "body": "New icon:\n- One Unwip icon everywhere, matching the logo: three coral dots (an empty ring, a half and a full dot) on soft blue. It replaces the dark navy icon, and the small version whose first dot looked white.\n- Every size is drawn for its size, so it stays crisp from the taskbar to the Home Screen.\n- Windows may take a little while (or a restart) to show the new icon on shortcuts, because it keeps old icons in a cache.\n\nsha256: 819af6ba3543a2ad083a0bc759c30f9b2c68c12c039ba0530dbeee0d66369878",
+  "tag_name": "v0.43.24",
+  "name": "Unwip 0.43.24",
+  "body": "Fixes (Windows):\n- The taskbar now calls Unwip \"Unwip\", with its icon, instead of \"Electron\" (the name of the engine Unwip runs on).\n- Opening Unwip when it's already open (from the taskbar, the Start menu or a shortcut) now brings back the window you have, instead of starting a second, empty-looking copy. Two copies working on the same books could have saved over each other.\n- To have a chapter in a window of its own, right-click it in the binder \u203a Open in its own window.\n\nsha256: a076323931a1e9b85d9e9c93706a650d836127b93672528f36a6431371d83a3b",
   "assets": [
     {
-      "name": "unwip-app-0.43.23.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.23.zip"
+      "name": "unwip-app-0.43.24.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.24.zip"
     },
     {
-      "name": "unwip-app-0.43.23.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.23.zip.sha256"
+      "name": "unwip-app-0.43.24.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.24.zip.sha256"
     }
   ]
 }
