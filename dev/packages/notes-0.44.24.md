@@ -1,0 +1,2 @@
+- Runes: many more dot grids to draw on, from 2 × 4 up to 7 × 7 (49 dots), plus "Other size…" for anything up to 9 × 9. Making the grid bigger keeps every rune as it is; 🎲 Random makes busier runes on big grids.
+- Build: the "Saving…" label no longer slides under the Record button.

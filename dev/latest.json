@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.23",
-  "commit": "0e0f7b9a4018d2e908b1b809b230b451b2e91cd9",
-  "name": "Unwip Dev 0.44.23",
-  "body": "- Website: pricing wording (free in beta, one-time purchase at launch, beta testers keep it free), Mac moved to Partly tested, Spark and Build explained, Proof of writing privacy line, Windows warning note on every download tile.\n\nsha256: 70c6ae75dda3c2e6ef02141e0ddd1b7323093488b8e1039b994d2957ca5eae99",
+  "tag_name": "v0.44.24",
+  "commit": "4230189690f0b6a38ca3e5417445ca1c72fab1e9",
+  "name": "Unwip Dev 0.44.24",
+  "body": "- Runes: many more dot grids to draw on, from 2 \u00d7 4 up to 7 \u00d7 7 (49 dots), plus \"Other size\u2026\" for anything up to 9 \u00d7 9. Making the grid bigger keeps every rune as it is; \ud83c\udfb2 Random makes busier runes on big grids.\n- Build: the \"Saving\u2026\" label no longer slides under the Record button.\n\nsha256: e4dfa86306abf16286b1308201719bb7195b9ac143365d32b46fda0dcb7e7873",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.23.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.23.zip"
+      "name": "unwip-dev-app-0.44.24.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.24.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.23.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.23.zip.sha256"
+      "name": "unwip-dev-app-0.44.24.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.24.zip.sha256"
     }
   ]
 }
