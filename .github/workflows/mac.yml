@@ -16,9 +16,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Build
         run: |
-          pip install --quiet pillow
+          set -o pipefail
+          python3 -c "import PIL" 2>/dev/null || pip install --quiet --break-system-packages pillow
           VER=$(jq -r .tag_name latest.json); VER=${VER#v}
-          python3 mac/mac-build.py "packages/unwip-app-$VER.zip" --icon mac/icon.png --out out --cache /tmp/maccache
+          if ! python3 mac/mac-build.py "packages/unwip-app-$VER.zip" --icon mac/icon.png --out out --cache /tmp/maccache 2>&1 | tail -n 40 > build.log; then
+            echo "::error::$(grep -v '^\s*$' build.log | tail -n 6 | tr '\n' ' ')"; exit 1
+          fi
+          tail -n 3 build.log
           cd out && sha256sum Unwip-Mac-*.zip > Unwip-Mac-SHA256.txt && ls -la
       - name: Publish
         env:
