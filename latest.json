@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.34",
-  "name": "Unwip 0.43.34",
-  "body": "Getting started:\n- The main screen has a \"Let's get you settled in\" button until you've been through the welcome setup once. After that it becomes \"Take a tour\".\n- The tour always has a book to walk round: if no book is open, it opens the Dracula example, and if you deleted that, Unwip makes it again (Unwip keeps its own copy).\n\nsha256: 4857dc0f62e48c77a57e2386e68011069c7429d16a54ff76d16e77207e18d214",
+  "tag_name": "v0.43.35",
+  "name": "Unwip 0.43.35",
+  "body": "Getting started:\n- Picking \"Distraction-free\" in the welcome setup now actually opens the page in Writer mode, instead of just mentioning it.\n- The \"Pick a look\" step says what it changes: colours everywhere, and the font and paragraph style for new books and the example. Books you already have keep their own look.\n- The tour closes properly if you go back to all your books part-way through, instead of leaving its highlight on the main screen.\n\nsha256: a0c865e0a70877a3c4114fe4ab657a9ac71d8745817fe7bf5f51d78008772e7f",
   "assets": [
     {
-      "name": "unwip-app-0.43.34.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.34.zip"
+      "name": "unwip-app-0.43.35.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.35.zip"
     },
     {
-      "name": "unwip-app-0.43.34.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.34.zip.sha256"
+      "name": "unwip-app-0.43.35.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.35.zip.sha256"
     }
   ]
 }
