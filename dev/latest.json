@@ -1,5 +1,6 @@
 {
   "tag_name": "v0.44.3",
+  "commit": "3d14a085bb1daaf6ebaf832f8d092b156b458cfc",
   "name": "Unwip Dev 0.44.3",
   "body": "Behind the scenes: Unwip Dev, a separate test copy for trying new versions before everyone gets them.\n- Unwip Dev installs next to the normal Unwip with an orange DEV icon and label, its own books (Documents\\Unwip Dev), its own settings, and its own updates. It can't see or change your real books, and the two never take each other's updates.\n- On the web, Unwip Dev is at /unwip-web/dev/ with its own storage. Dropbox stays off in Dev until it has its own Dropbox app.\n- The offline copy of the web app no longer clears out other copies' offline files.\n\nsha256: 935aafa8bc31a15c06a7a2a01d2ca05a9258aae506172587963d50e42ec9e5e9",
   "assets": [
