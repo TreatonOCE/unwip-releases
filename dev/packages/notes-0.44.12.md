@@ -1,0 +1,3 @@
+- Coats of arms: choose how the symbols are arranged (in a row, in a column, slanting, one then two, around the edge), make them bigger or smaller, or pick "Where I put them" and drag them anywhere on the shield. The herald's description follows the arrangement.
+- Magic system: a short guide at the top explains what the page is for and what each part does, in plain words (hide it once you've read it). Each part is numbered and explained more simply.
+- The Record button in the bottom bar is plain until you're actually recording, so it no longer looks like it's already recording. It turns red only while a replay or screen video is recording.

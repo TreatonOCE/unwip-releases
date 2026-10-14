@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.11",
-  "commit": "1bf1213d8be817e20a9fd97903dc915215d64448",
-  "name": "Unwip Dev 0.44.11",
-  "body": "- Coats of arms: stars, crowns and other symbols always fit inside the shield. On a diamond, round, kite or banner shield they move in from the edges and shrink a little instead of being cut off.\n\nsha256: 833f6dc431de4939edd14e3ec19d9de6205344bb3b6f9148aaf258dc0d692807",
+  "tag_name": "v0.44.12",
+  "commit": "7aaabbe819c0af06687334aaeb58665a0dcd99d2",
+  "name": "Unwip Dev 0.44.12",
+  "body": "- Coats of arms: choose how the symbols are arranged (in a row, in a column, slanting, one then two, around the edge), make them bigger or smaller, or pick \"Where I put them\" and drag them anywhere on the shield. The herald's description follows the arrangement.\n- Magic system: a short guide at the top explains what the page is for and what each part does, in plain words (hide it once you've read it). Each part is numbered and explained more simply.\n- The Record button in the bottom bar is plain until you're actually recording, so it no longer looks like it's already recording. It turns red only while a replay or screen video is recording.\n\nsha256: cfc49b9c9d8a7326f096888e9a395dd909208d29dd24e73ce3c65f9bf3133da7",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.11.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.11.zip"
+      "name": "unwip-dev-app-0.44.12.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.12.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.11.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.11.zip.sha256"
+      "name": "unwip-dev-app-0.44.12.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.12.zip.sha256"
     }
   ]
 }
