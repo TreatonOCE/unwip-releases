@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.4",
-  "commit": "f7b978cf757b90359febf09e35cdb86c01bb60d6",
-  "name": "Unwip Dev 0.44.4",
-  "body": "Fixes from beta testing.\n- Writer mode: the page no longer jumps while you type. The line you're on stays put on blank lines and after Enter, and when the window changes size (like a Mac sliding into full screen).\n- A synopsis written in the outline now shows on the chapter when you go back to it.\n- Settings \u203a Sync: iCloud and Google Drive folders show their name instead of \"undefined\".\n- Obsidian and Markdown imports keep single line breaks (each line stays its own line), but still join text that was hard-wrapped.\n- Timeline: characters are added as chips with suggestions; an event can link to several chapters; the filter picks several characters (Together or Any); \"Add events from chapters\" never adds the same one twice, and can be undone.\n- Revise: Undo straight after accepting a suggestion.\n- Track changes: once tracking is off, new typing (and a new line) is plain text, not part of the old tracked change.\n- A copy button next to Today's word count.\n- Timelapse videos come out at the length you chose, even for long chapters.\n- Screen video: Pause and Resume (click the timer in the bottom bar). New per-book setting in Proof of writing: a red \"Not recording\" sign that stays on screen until you start or resume a screen video.\n- Maps: landmarks, symbols and labels can be turned (drag the round handle, or press R). Drag a bridge's end to turn and stretch it.\n- Corkboard: drag a card from anywhere on it, and drop it anywhere, gaps included.\n- New template section: hovering no longer changes your choice; click to choose.\n- Characters, Places and Items: right-click \u203a Edit the sheet to add fields like Class or Role. Unwip offers to add them to the entries you already have.\n\nsha256: 594f15c7288a0d3536bc005a07646c410e5249064985c95d8151165c12b8f736",
+  "tag_name": "v0.44.5",
+  "commit": "95415878744712344e09d37e5d4ec160ce038507",
+  "name": "Unwip Dev 0.44.5",
+  "body": "More fixes from beta testing (with everything in 0.44.4).\n- Writer mode: found the real cause of the screen jumping. Each time the page glided to keep your line in place, its very first step could go the wrong way, so the page flicked up and back as you typed. Fixed.\n- Typing two hyphens (--) now makes an em dash (\u2014), on every computer, phone and tablet. Undo straight after gives the hyphens back. Turn it off in Settings if you'd rather not.\n- Track changes: pressing Enter while tracking no longer stacks marks inside each other or leaves the line's ending inside one, which made later typing on those lines jump to a line of its own or stay marked as a suggestion.\n- The \"Not recording\" reminder is now hard to miss: the window gets a glowing red edge (amber while paused), and the sign pulses and says which book you're writing in. Click it to start or resume. New command (Ctrl/Cmd+K): \"Screen video: pause or resume\".\n\nsha256: bf6f3891df9debd56dbf2f526dbfa416d52c20b03fd4fce2efdfc7f74729bc49",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.4.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.4.zip"
+      "name": "unwip-dev-app-0.44.5.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.5.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.4.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.4.zip.sha256"
+      "name": "unwip-dev-app-0.44.5.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.5.zip.sha256"
     }
   ]
 }
