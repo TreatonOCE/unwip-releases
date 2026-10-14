@@ -1,0 +1,2 @@
+- Unwip now says Beta: next to the logo on the main screen, and in the window title ("… — Unwip Beta").
+- Settings › Licence: a place to enter a licence key. During the beta nothing needs a key, and nothing changes without one; keys are checked on your device and nothing is sent anywhere.
