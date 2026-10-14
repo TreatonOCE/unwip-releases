@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.10",
-  "commit": "cbd54da9a04d921986ca8c0c090c638760f885b6",
-  "name": "Unwip Dev 0.44.10",
-  "body": "Fixed: underline wouldn't turn off on a new line.\n- After pressing Enter at the end of underlined words, Cmd+U (Ctrl+U on Windows) or the underline button now turns underline off straight away, before you type anything.\n\nsha256: f67bbac41d740c16d5985090e4426be60db462c9ea4db1b497cc8c69391a07f1",
+  "tag_name": "v0.44.11",
+  "commit": "1bf1213d8be817e20a9fd97903dc915215d64448",
+  "name": "Unwip Dev 0.44.11",
+  "body": "- Coats of arms: stars, crowns and other symbols always fit inside the shield. On a diamond, round, kite or banner shield they move in from the edges and shrink a little instead of being cut off.\n\nsha256: 833f6dc431de4939edd14e3ec19d9de6205344bb3b6f9148aaf258dc0d692807",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.10.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.10.zip"
+      "name": "unwip-dev-app-0.44.11.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.11.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.10.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.10.zip.sha256"
+      "name": "unwip-dev-app-0.44.11.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.11.zip.sha256"
     }
   ]
 }

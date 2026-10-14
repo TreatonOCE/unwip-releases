@@ -1,0 +1,1 @@
+- Coats of arms: stars, crowns and other symbols always fit inside the shield. On a diamond, round, kite or banner shield they move in from the edges and shrink a little instead of being cut off.
