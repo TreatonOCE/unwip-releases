@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.13",
-  "commit": "6aa099942f2612b377e8338d3f39569b74381f7a",
-  "name": "Unwip Dev 0.44.13",
-  "body": "- Typing effects: the animations now show in the \"Try it here\" box (before, you only saw a pause). Each effect is clearly different now, and there are three new ones: Glow, Spin and Scatter.\n\nsha256: d5a8edfe79e4abd9596ec13b1f26a94a453f65a69214f76f9932a892a9d3a328",
+  "tag_name": "v0.44.14",
+  "commit": "a5692378483676c05ed6a9489581d123f83d8bbe",
+  "name": "Unwip Dev 0.44.14",
+  "body": "- Build from inside a book: a new Build button at the top (and Build on phones, and in Ctrl/Cmd+K) opens your maps, magic systems, runes, sigils and coats of arms without leaving the chapter, or starts a new one. \"Back to the book\" returns you to the same place. On a PC or Mac, \u29c9 opens a piece in its own window to keep beside your chapter.\n- Adding a Build piece to the book you have open now updates its binder straight away.\n\nsha256: b659c0bfe719af92f62da33dc201fe512770e5bc2bcfaee44240edfcabc9f075",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.13.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.13.zip"
+      "name": "unwip-dev-app-0.44.14.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.14.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.13.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.13.zip.sha256"
+      "name": "unwip-dev-app-0.44.14.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.14.zip.sha256"
     }
   ]
 }

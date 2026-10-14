@@ -1,0 +1,2 @@
+- Build from inside a book: a new Build button at the top (and Build on phones, and in Ctrl/Cmd+K) opens your maps, magic systems, runes, sigils and coats of arms without leaving the chapter, or starts a new one. "Back to the book" returns you to the same place. On a PC or Mac, ⧉ opens a piece in its own window to keep beside your chapter.
+- Adding a Build piece to the book you have open now updates its binder straight away.
