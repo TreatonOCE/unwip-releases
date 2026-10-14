@@ -1,0 +1,6 @@
+- Record is now in the main menu, Build (maps included) and Play, so you can start a screen video from anywhere. A screen video keeps recording as you move between books, Build and Play; the button shows the timer, and clicking it pauses or stops. (Replay, which records the writing in one book, is still switched on inside that book.)
+- Turning on Revise closes the split view, so your chapter isn't squeezed into a thin strip (a chapter popped out into its own window stays open). Other side panels close the split view only if the chapter would get too narrow. Open it again with the split button or Ctrl+\.
+- Maps: move things in front of or behind each other. Select something and use the bar at the top of the map (Front, Forward, Backward, Back, or delete), right-click it, or press ] and [ (with Shift for all the way).
+- Maps: landmarks, symbols (towers, towns, castles…) and labels can be made bigger or smaller: select one and drag the square handle at its corner, or press + and −.
+- Maps: painting water where it's already sea now says so, and explains that 🌊 makes lakes, bays and rivers by painting over land. The same for painting land on land.
+- Town maps: parks, fields, squares and graveyards painted in several strokes join into one shape, with one outline round the outside and trees spread evenly over it.
