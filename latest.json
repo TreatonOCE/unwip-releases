@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.44.1",
-  "name": "Unwip 0.44.1",
-  "body": "Build:\n- Magic systems now use a scroll icon instead of sparkles.\n- If the same piece is changed on two devices before they sync, both versions are kept in Build (\"\u2026 (iPad\u2019s version)\") instead of one being tucked away out of sight. On the PC, Dropbox's own \"conflicted copy\" files show up as their own piece too.\n- A piece that's open on screen reloads when another device changes it, so an older copy is never saved over the newer one.\n- Coat of arms: long mottos go on two lines and always fit the ribbon.\n- Rune writing: a very long word wraps instead of shrinking the whole picture.\n- Phones: tidier magic system rows and spells, the coat of arms title is no longer covered, bigger buttons to tap.\n\nPrivacy (Report a problem):\n- Reports now remove file paths entirely (they can name you, your computer and your books), keeping only Unwip's own file names, plus email addresses and any bit of writing an error message happens to quote.\n- Errors are cleaned when they're noted, so nothing personal is kept on the device either, and Dropbox problems no longer log the name of the file.\n\nEverywhere:\n- A very long book title no longer stretches every book card off the side of a phone.\n- iPad and iPhone: no more hover bubbles popping up after a tap, the map's \u2715 no longer covers its toolbar, the main screen header keeps clear of the notch, and the \"blank map\" hint goes away when you leave the map.\n- Play: the stats wrap on small phones instead of being cut off.\n\nsha256: 38428c812efe7edcbd06ffec782c87b4daf108388a6036001724c7a6310c8646",
+  "tag_name": "v0.44.2",
+  "name": "Unwip 0.44.2",
+  "body": "Opening a book, the safe way (like Scrivener):\n- Phone and iPad: a book another device has changed shows \"\u26a0 Changed on another device\" on the main screen. Opening it brings those changes in first (there's an \"Open without waiting\" button if you're in a hurry), so you never start writing in an old copy.\n- No internet (airplane mode, no signal): opening a book in Dropbox warns that changes from your other devices may not be here yet, with Open anyway or Cancel. It asks once per book until you're back online.\n- PC and Mac: the same warning when the computer is offline, or when the Dropbox or OneDrive app isn't running (since that app is what keeps the book in step there).\n- If the sync before opening can't finish, Unwip says so and lets you choose, rather than opening quietly.\n\nsha256: 29c659ae1953f315073a5dda71fe3f68a5b0772c400c4b16e05550b06b9a9a64",
   "assets": [
     {
-      "name": "unwip-app-0.44.1.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.1.zip"
+      "name": "unwip-app-0.44.2.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.2.zip"
     },
     {
-      "name": "unwip-app-0.44.1.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.1.zip.sha256"
+      "name": "unwip-app-0.44.2.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.2.zip.sha256"
     }
   ]
 }
