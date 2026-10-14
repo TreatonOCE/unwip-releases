@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.8",
-  "commit": "2df1a8bc149c0167fedc1c233b1d968892148af4",
-  "name": "Unwip Dev 0.44.8",
-  "body": "Safer updates.\n- The PC and Mac apps now only take updates from Unwip's own places (unwip.app and the UnwipOfficial account on GitHub), and refuse an update package from anywhere else.\n\nsha256: a1d8de4a20244fcfb32fcd37f504551da5e774a00e6d90d6c7c2086c0fdee8ae",
+  "tag_name": "v0.44.9",
+  "commit": "e2e60736db58a6566d42dc2ff3f22dd5cff45929",
+  "name": "Unwip Dev 0.44.9",
+  "body": "Fixed: books made on a Mac or PC not showing on the phone or iPad.\n- Dropbox only lets the phone and iPad use the folder Dropbox \u203a Apps \u203a Unwip. If your computer keeps its books in Dropbox \u203a Unwip instead, Unwip now says so when it opens and offers to move them, in one click (nothing is deleted).\n- Settings \u203a Where your projects live now shows the folder your books are really in, with the button to move them to the shared folder.\n- On the phone and iPad, Settings says \"connected\" instead of \"syncing\", and explains where to look if Dropbox has no books yet.\n\nsha256: 5037714648a1f976bc7840cc31d85a20efa9c3230dab577c507e731d920c729b",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.8.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.8.zip"
+      "name": "unwip-dev-app-0.44.9.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.9.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.8.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.8.zip.sha256"
+      "name": "unwip-dev-app-0.44.9.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.9.zip.sha256"
     }
   ]
 }
