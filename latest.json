@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.35",
-  "name": "Unwip 0.43.35",
-  "body": "Getting started:\n- Picking \"Distraction-free\" in the welcome setup now actually opens the page in Writer mode, instead of just mentioning it.\n- The \"Pick a look\" step says what it changes: colours everywhere, and the font and paragraph style for new books and the example. Books you already have keep their own look.\n- The tour closes properly if you go back to all your books part-way through, instead of leaving its highlight on the main screen.\n\nsha256: a0c865e0a70877a3c4114fe4ab657a9ac71d8745817fe7bf5f51d78008772e7f",
+  "tag_name": "v0.43.36",
+  "name": "Unwip 0.43.36",
+  "body": "Getting started:\n- If you pick \"Distraction-free\" in the welcome setup and then take the tour, Unwip now switches to Writer mode when the tour ends, so you land in the layout you chose.\n\nsha256: f44860c8903a7b2904286e8543cae72b1216cdd93d365440fa9d0594946dac66",
   "assets": [
     {
-      "name": "unwip-app-0.43.35.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.35.zip"
+      "name": "unwip-app-0.43.36.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.36.zip"
     },
     {
-      "name": "unwip-app-0.43.35.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.35.zip.sha256"
+      "name": "unwip-app-0.43.36.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.36.zip.sha256"
     }
   ]
 }
