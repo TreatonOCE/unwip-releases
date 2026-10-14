@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.5",
-  "commit": "95415878744712344e09d37e5d4ec160ce038507",
-  "name": "Unwip Dev 0.44.5",
-  "body": "More fixes from beta testing (with everything in 0.44.4).\n- Writer mode: found the real cause of the screen jumping. Each time the page glided to keep your line in place, its very first step could go the wrong way, so the page flicked up and back as you typed. Fixed.\n- Typing two hyphens (--) now makes an em dash (\u2014), on every computer, phone and tablet. Undo straight after gives the hyphens back. Turn it off in Settings if you'd rather not.\n- Track changes: pressing Enter while tracking no longer stacks marks inside each other or leaves the line's ending inside one, which made later typing on those lines jump to a line of its own or stay marked as a suggestion.\n- The \"Not recording\" reminder is now hard to miss: the window gets a glowing red edge (amber while paused), and the sign pulses and says which book you're writing in. Click it to start or resume. New command (Ctrl/Cmd+K): \"Screen video: pause or resume\".\n\nsha256: bf6f3891df9debd56dbf2f526dbfa416d52c20b03fd4fce2efdfc7f74729bc49",
+  "tag_name": "v0.44.6",
+  "commit": "85473da7a8dade48eb64514217107273593a0eeb",
+  "name": "Unwip Dev 0.44.6",
+  "body": "Unwip has a new home: unwip.app.\n- The web version (iPhone, iPad and browsers) now lives at unwip.app. The old address keeps working for now, with a \"Move my books\" button at the top of the library that brings every book and setting across in a moment. Nothing at the old address is deleted.\n- Using Unwip from your Home Screen? Save a moving file at the old address, add unwip.app to your Home Screen, then choose \"Bring books from the old Unwip\" there.\n- The PC and Mac apps aren't affected.\n\nsha256: 8952c679d5c72820d2a0792b378285dda04bec68c83312fc57e002441943ab04",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.5.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.5.zip"
+      "name": "unwip-dev-app-0.44.6.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.6.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.5.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.5.zip.sha256"
+      "name": "unwip-dev-app-0.44.6.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.6.zip.sha256"
     }
   ]
 }
