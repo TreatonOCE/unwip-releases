@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.32",
-  "name": "Unwip 0.43.32",
-  "body": "Fixes:\n- Saving into a Dropbox or OneDrive folder on Windows: if the sync app is reading a file at the moment Unwip saves, Unwip now waits a moment and tries again instead of showing an error.\n- Report a problem: opening it from the main screen no longer puts \"[object PointerEvent]\" in the box.\n- Report a problem: error details no longer include your folder or book names. File paths are shortened to just the file's name (for example \"\u2026\\project.json\").\n\nsha256: 98695ad49a0e748cdba12d907f933596685c1010ce6aa13fe76b6a8cdef0ea95",
+  "tag_name": "v0.43.33",
+  "name": "Unwip 0.43.33",
+  "body": "Polish:\n- \"Two versions found\": the choices are proper buttons now (\"Compare and bring in\" stands out, \"Not needed\" beside it), and the note under them explains the button you actually see.\n\nsha256: 94e09dabe3fbceb2b5d9737dd256d86d09e0e51ef7be1e8349dfd04eb43c16ab",
   "assets": [
     {
-      "name": "unwip-app-0.43.32.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.32.zip"
+      "name": "unwip-app-0.43.33.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.33.zip"
     },
     {
-      "name": "unwip-app-0.43.32.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.32.zip.sha256"
+      "name": "unwip-app-0.43.33.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.33.zip.sha256"
     }
   ]
 }
