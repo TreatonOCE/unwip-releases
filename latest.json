@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.44.6",
-  "name": "Unwip 0.44.6",
-  "body": "Unwip has a new home: unwip.app.\n- The web version (iPhone, iPad and browsers) now lives at unwip.app. The old address keeps working for now, with a \"Move my books\" button at the top of the library that brings every book and setting across in a moment. Nothing at the old address is deleted.\n- Using Unwip from your Home Screen? Save a moving file at the old address, add unwip.app to your Home Screen, then choose \"Bring books from the old Unwip\" there.\n- The PC and Mac apps aren't affected.\n\nsha256: eb7947604b8bfcba8429c1110b1bab8c4b67808b715ff45cbb19aaad3a343e20",
+  "tag_name": "v0.44.7",
+  "name": "Unwip 0.44.7",
+  "body": "Behind the scenes: Unwip's home on GitHub is now called UnwipOfficial.\n- The PC and Mac apps now look for updates at unwip.app first, with GitHub as a backup, so they keep updating whatever happens to the GitHub account.\n- Download links point to the new GitHub name, and the old web address forwards to unwip.app.\n\nsha256: 43116002ca618cd29706f18d6200088863916b86ab4e896738128b8143b9c727",
   "assets": [
     {
-      "name": "unwip-app-0.44.6.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.6.zip"
+      "name": "unwip-app-0.44.7.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.7.zip"
     },
     {
-      "name": "unwip-app-0.44.6.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.6.zip.sha256"
+      "name": "unwip-app-0.44.7.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/packages/unwip-app-0.44.7.zip.sha256"
     }
   ]
 }
