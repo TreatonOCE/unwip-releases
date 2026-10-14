@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.42",
-  "name": "Unwip 0.43.42",
-  "body": "Polish and speed:\n- The Record button no longer has a red dot while it isn't recording: it shows an empty ring, so it can't be mistaken for recording. While Replay or a screen video is on, it's solid red with a pulsing dot, as before.\n- Phone and iPad: Dropbox sync sends and fetches several files at once instead of one by one, so a big book syncs roughly two to three times faster.\n\nsha256: 14e7cc32dc2d1c8dc7b185b06b900c0c1a6fc902e488af31402d0e801bc36448",
+  "tag_name": "v0.43.43",
+  "name": "Unwip 0.43.43",
+  "body": "Main screen:\n- Unwip opens on the main screen on every device instead of jumping straight into your last book. \"Continue\" takes you back to where you left off.\n- Phone and iPad: a book with changes that aren't in Dropbox yet shows \"\u25cf Not synced yet\" on its card until you sync.\n\nsha256: 3e715db3da82342b9323958f3793c45ad3e19a40df90f86e8e85a32d72140da9",
   "assets": [
     {
-      "name": "unwip-app-0.43.42.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.42.zip"
+      "name": "unwip-app-0.43.43.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.43.zip"
     },
     {
-      "name": "unwip-app-0.43.42.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.42.zip.sha256"
+      "name": "unwip-app-0.43.43.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.43.zip.sha256"
     }
   ]
 }
