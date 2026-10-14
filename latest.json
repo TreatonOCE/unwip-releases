@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.22",
-  "name": "Unwip 0.43.22",
-  "body": "Small fix:\n- Typing feel: picking a new effect, cursor or sound now starts the \"Try it here\" sample fresh, instead of adding another \"Hello there.\" each time.\n\nsha256: 41e1017a1d0375cd91cb0cc1af507ea18f5f00b0a63731692106ecfb3b0f7287",
+  "tag_name": "v0.43.23",
+  "name": "Unwip 0.43.23",
+  "body": "New icon:\n- One Unwip icon everywhere, matching the logo: three coral dots (an empty ring, a half and a full dot) on soft blue. It replaces the dark navy icon, and the small version whose first dot looked white.\n- Every size is drawn for its size, so it stays crisp from the taskbar to the Home Screen.\n- Windows may take a little while (or a restart) to show the new icon on shortcuts, because it keeps old icons in a cache.\n\nsha256: 819af6ba3543a2ad083a0bc759c30f9b2c68c12c039ba0530dbeee0d66369878",
   "assets": [
     {
-      "name": "unwip-app-0.43.22.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.22.zip"
+      "name": "unwip-app-0.43.23.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.23.zip"
     },
     {
-      "name": "unwip-app-0.43.22.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.22.zip.sha256"
+      "name": "unwip-app-0.43.23.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.23.zip.sha256"
     }
   ]
 }
