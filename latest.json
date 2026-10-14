@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.17",
-  "name": "Unwip 0.43.17",
-  "body": "Bringing in an Obsidian vault (or any folder of folders):\n- Import \u203a \"A folder of chapter files\u2026\" now reads the sub-folders too, and keeps them as folders in the binder: Book \u203a Part 1 \u203a chapters, Characters, and so on. There is a tick box to bring everything in as one flat list instead. Files are kept in order, with chapter 2 before chapter 10.\n- Obsidian's own folders (.obsidian, .trash) and Excalidraw drawings are left out.\n- Obsidian notes come in clean: the properties block at the top, %%hidden comments%%, embedded pictures (![[\u2026]]) and callout labels ([!note]) are removed, ==highlights== keep their words, and [[links]] become plain words.\n- The import screen says \"As a new book\" (it said \"project\").\n\nsha256: 37021bf6d3b0f16d5897a55b45f8c046591b2c0c75634c476de4e4fc5ee5ec69",
+  "tag_name": "v0.43.18",
+  "name": "Unwip 0.43.18",
+  "body": "Getting ready for Unwip on Mac:\n- Unwip now knows when it's running on a Mac: a proper Mac menu bar (so Cmd+C, Cmd+V, Cmd+Z and Cmd+Q work), shortcuts shown as \u2318K instead of Ctrl+K, \"This Mac\" instead of \"This PC\", \"Show in Finder\", and Dropbox, OneDrive and iCloud Drive found where a Mac keeps them.\n- A few shortcuts now also answer to Cmd (paste as plain text, dialogue colours, the comment and footnote shortcuts).\n- Nothing changes on Windows, iPhone or iPad.\n\nsha256: 473cc26d30cb661c8e60011a09d09d690c84a19e4b3828825a27df42d963a062",
   "assets": [
     {
-      "name": "unwip-app-0.43.17.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.17.zip"
+      "name": "unwip-app-0.43.18.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.18.zip"
     },
     {
-      "name": "unwip-app-0.43.17.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.17.zip.sha256"
+      "name": "unwip-app-0.43.18.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.18.zip.sha256"
     }
   ]
 }
