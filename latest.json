@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.44.2",
-  "name": "Unwip 0.44.2",
-  "body": "Opening a book, the safe way (like Scrivener):\n- Phone and iPad: a book another device has changed shows \"\u26a0 Changed on another device\" on the main screen. Opening it brings those changes in first (there's an \"Open without waiting\" button if you're in a hurry), so you never start writing in an old copy.\n- No internet (airplane mode, no signal): opening a book in Dropbox warns that changes from your other devices may not be here yet, with Open anyway or Cancel. It asks once per book until you're back online.\n- PC and Mac: the same warning when the computer is offline, or when the Dropbox or OneDrive app isn't running (since that app is what keeps the book in step there).\n- If the sync before opening can't finish, Unwip says so and lets you choose, rather than opening quietly.\n\nsha256: 29c659ae1953f315073a5dda71fe3f68a5b0772c400c4b16e05550b06b9a9a64",
+  "tag_name": "v0.44.5",
+  "name": "Unwip 0.44.5",
+  "body": "More fixes from beta testing (with everything in 0.44.4).\n- Writer mode: found the real cause of the screen jumping. Each time the page glided to keep your line in place, its very first step could go the wrong way, so the page flicked up and back as you typed. Fixed.\n- Typing two hyphens (--) now makes an em dash (\u2014), on every computer, phone and tablet. Undo straight after gives the hyphens back. Turn it off in Settings if you'd rather not.\n- Track changes: pressing Enter while tracking no longer stacks marks inside each other or leaves the line's ending inside one, which made later typing on those lines jump to a line of its own or stay marked as a suggestion.\n- The \"Not recording\" reminder is now hard to miss: the window gets a glowing red edge (amber while paused), and the sign pulses and says which book you're writing in. Click it to start or resume. New command (Ctrl/Cmd+K): \"Screen video: pause or resume\".\n\nsha256: 876aa938ceaa25dc674f06c329e9b3f4f60b29b2ccdcad07c48bc14ed4d87c3b",
   "assets": [
     {
-      "name": "unwip-app-0.44.2.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.2.zip"
+      "name": "unwip-app-0.44.5.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.5.zip"
     },
     {
-      "name": "unwip-app-0.44.2.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.2.zip.sha256"
+      "name": "unwip-app-0.44.5.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.44.5.zip.sha256"
     }
   ]
 }
