@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.39",
-  "name": "Unwip 0.43.39",
-  "body": "Phone and iPad:\n- \"Keep your writing safe\" now mentions that the Home Screen app keeps its own storage, so books written in a Safari tab don't move into it by themselves (Dropbox carries them across).\n\nsha256: c18b55bc1683667cd247be71d5fe72290d36b385806e930e474c86e0706654ce",
+  "tag_name": "v0.43.40",
+  "name": "Unwip 0.43.40",
+  "body": "Phone and iPad:\n- New books and imports go to Dropbox by default whenever Dropbox is connected. Before, choosing \"This iPad only\" once made it the default for every book after, so later books quietly stopped syncing.\n- If a Scrivener import is kept on the device only, the import report says so, and how to move it into Dropbox.\n\nsha256: 499af2c9859ff560fd6df01bba685e25c7737eff4410153cf4b5ae5614b02605",
   "assets": [
     {
-      "name": "unwip-app-0.43.39.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.39.zip"
+      "name": "unwip-app-0.43.40.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.40.zip"
     },
     {
-      "name": "unwip-app-0.43.39.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.39.zip.sha256"
+      "name": "unwip-app-0.43.40.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.40.zip.sha256"
     }
   ]
 }
