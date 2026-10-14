@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.9",
-  "commit": "e2e60736db58a6566d42dc2ff3f22dd5cff45929",
-  "name": "Unwip Dev 0.44.9",
-  "body": "Fixed: books made on a Mac or PC not showing on the phone or iPad.\n- Dropbox only lets the phone and iPad use the folder Dropbox \u203a Apps \u203a Unwip. If your computer keeps its books in Dropbox \u203a Unwip instead, Unwip now says so when it opens and offers to move them, in one click (nothing is deleted).\n- Settings \u203a Where your projects live now shows the folder your books are really in, with the button to move them to the shared folder.\n- On the phone and iPad, Settings says \"connected\" instead of \"syncing\", and explains where to look if Dropbox has no books yet.\n\nsha256: 5037714648a1f976bc7840cc31d85a20efa9c3230dab577c507e731d920c729b",
+  "tag_name": "v0.44.10",
+  "commit": "cbd54da9a04d921986ca8c0c090c638760f885b6",
+  "name": "Unwip Dev 0.44.10",
+  "body": "Fixed: underline wouldn't turn off on a new line.\n- After pressing Enter at the end of underlined words, Cmd+U (Ctrl+U on Windows) or the underline button now turns underline off straight away, before you type anything.\n\nsha256: f67bbac41d740c16d5985090e4426be60db462c9ea4db1b497cc8c69391a07f1",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.9.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.9.zip"
+      "name": "unwip-dev-app-0.44.10.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.10.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.9.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.9.zip.sha256"
+      "name": "unwip-dev-app-0.44.10.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.10.zip.sha256"
     }
   ]
 }
