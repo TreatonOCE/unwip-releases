@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.6",
-  "commit": "85473da7a8dade48eb64514217107273593a0eeb",
-  "name": "Unwip Dev 0.44.6",
-  "body": "Unwip has a new home: unwip.app.\n- The web version (iPhone, iPad and browsers) now lives at unwip.app. The old address keeps working for now, with a \"Move my books\" button at the top of the library that brings every book and setting across in a moment. Nothing at the old address is deleted.\n- Using Unwip from your Home Screen? Save a moving file at the old address, add unwip.app to your Home Screen, then choose \"Bring books from the old Unwip\" there.\n- The PC and Mac apps aren't affected.\n\nsha256: 8952c679d5c72820d2a0792b378285dda04bec68c83312fc57e002441943ab04",
+  "tag_name": "v0.44.7",
+  "commit": "f1dc889b5fa01ba8caa41859ab3c12ee4201dc62",
+  "name": "Unwip Dev 0.44.7",
+  "body": "Behind the scenes: Unwip's home on GitHub is now called UnwipOfficial.\n- The PC and Mac apps now look for updates at unwip.app first, with GitHub as a backup, so they keep updating whatever happens to the GitHub account.\n- Download links point to the new GitHub name, and the old web address forwards to unwip.app.\n\nsha256: 2230ae7cbf48d5c6c3cd1065b378dce7d7728216135a0af038757e50cf1a1c6e",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.6.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.6.zip"
+      "name": "unwip-dev-app-0.44.7.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.7.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.6.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/dev/packages/unwip-dev-app-0.44.6.zip.sha256"
+      "name": "unwip-dev-app-0.44.7.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.7.zip.sha256"
     }
   ]
 }
