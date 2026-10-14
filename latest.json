@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.38",
-  "name": "Unwip 0.43.38",
-  "body": "Getting started:\n- A \"Getting started\" card on the main screen with five things that make Unwip feel like home: write your first words, keep your books safe, try Detailed, take a snapshot, export your book. Each ticks itself off when you've done it. Click \u00d7 to hide it whenever you like; it goes away by itself once everything's ticked.\n- After bringing a book in (Word, Markdown, Obsidian, text or a pasted book), a \"Your book is in\" summary: how many chapters and words arrived, the formatting that came with them (italics, bold, footnotes, pictures\u2026), a reminder that your original files weren't changed, and anything that was left out, such as Obsidian embedded notes. The Scrivener import report now shows words and formatting too.\n- On a phone or iPad, Unwip asks once to keep your writing safe: add it to the Home Screen (so Safari never clears it) and connect Dropbox. Until Dropbox is connected, a small reminder sits on the main screen; \u00d7 hides it for two weeks.\n\nsha256: a1423ee2d79fad7a43c558006b04042392a73597f1575d2783b26e8f3e0eb7bb",
+  "tag_name": "v0.43.39",
+  "name": "Unwip 0.43.39",
+  "body": "Phone and iPad:\n- \"Keep your writing safe\" now mentions that the Home Screen app keeps its own storage, so books written in a Safari tab don't move into it by themselves (Dropbox carries them across).\n\nsha256: c18b55bc1683667cd247be71d5fe72290d36b385806e930e474c86e0706654ce",
   "assets": [
     {
-      "name": "unwip-app-0.43.38.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.38.zip"
+      "name": "unwip-app-0.43.39.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.39.zip"
     },
     {
-      "name": "unwip-app-0.43.38.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.38.zip.sha256"
+      "name": "unwip-app-0.43.39.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.39.zip.sha256"
     }
   ]
 }
