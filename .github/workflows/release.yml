@@ -18,5 +18,7 @@ jobs:
           TAG=$(jq -r .tag_name latest.json)
           VER=${TAG#v}
           if gh release view "$TAG" >/dev/null 2>&1; then echo "already released"; exit 0; fi
+          # a test (Unwip Dev) package must never become a public release: older copies of Unwip would install it
+          if unzip -p "packages/unwip-app-$VER.zip" package.json | jq -e '.flavor == "dev"' >/dev/null; then echo "::error::refusing to publish a Dev package"; exit 1; fi
           jq -r .body latest.json > notes.md
           gh release create "$TAG" "packages/unwip-app-$VER.zip" "packages/unwip-app-$VER.zip.sha256" --title "Unwip $VER" --notes-file notes.md
