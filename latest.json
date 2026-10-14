@@ -1,15 +1,15 @@
 {
-  "tag_name": "v0.43.44",
-  "name": "Unwip 0.43.44",
-  "body": "Deleting books across devices:\n- PC and Mac: if a book is deleted on another device while it's open here, Unwip now notices within a few seconds, saves your latest changes into its copy in Deleted books, closes it, and tells you. Before, it kept saving into the old place, which could bring the book back, half-empty, on every device.\n\nsha256: 88dc0e3893191a03d00f80ee64a9f702166a07ebb5eff003f385205cd53f83f5",
+  "tag_name": "v0.43.45",
+  "name": "Unwip 0.43.45",
+  "body": "Maps:\n- iPad and touch screens: pinch with two fingers to zoom, and drag with two fingers to move around. A stroke the first finger had started is taken back, so pinching never leaves a stray mark. Safari's own page zoom no longer gets in the way.\n- Town and city maps: areas (park, market square, fields, graveyard) are now painted with the brush, like water, and fill in as you paint. \"Draw around\" is still there next to it if you prefer tracing an outline.\n- Town and city maps: a new Land brush paints ground over water, for a coast, a riverbank or an island town. \"Flood the map with water\" starts you from open sea, and \"Clear all water\" goes back to dry land.\n- A new map goes where a new document goes: into the folder you've picked, or, with nothing picked, at the bottom of the binder under \"New \u2014 drag into place\". Before, it went into Places.\n\nsha256: 93601ca66537bb4ce08116cc4ee326ae35be9d12aa1dfbed384f50d617ab79d0",
   "assets": [
     {
-      "name": "unwip-app-0.43.44.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.44.zip"
+      "name": "unwip-app-0.43.45.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.45.zip"
     },
     {
-      "name": "unwip-app-0.43.44.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.44.zip.sha256"
+      "name": "unwip-app-0.43.45.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/TreatonOCE/unwip-releases/main/packages/unwip-app-0.43.45.zip.sha256"
     }
   ]
 }
