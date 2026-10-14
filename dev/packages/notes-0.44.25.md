@@ -1,0 +1,1 @@
+- Proof of writing: save any replay as a video at real speed (1×), or 2×, 4× or 16×, as well as the squeezed timelapse. Each session in the Replays list has its own 🎬 Video button, and the dialog shows how long each video will be. Long pauses are cut to 3 seconds, as in the player. For long videos you can stop part-way and keep what's made so far.

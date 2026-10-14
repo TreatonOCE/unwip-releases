@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.24",
-  "commit": "4230189690f0b6a38ca3e5417445ca1c72fab1e9",
-  "name": "Unwip Dev 0.44.24",
-  "body": "- Runes: many more dot grids to draw on, from 2 \u00d7 4 up to 7 \u00d7 7 (49 dots), plus \"Other size\u2026\" for anything up to 9 \u00d7 9. Making the grid bigger keeps every rune as it is; \ud83c\udfb2 Random makes busier runes on big grids.\n- Build: the \"Saving\u2026\" label no longer slides under the Record button.\n\nsha256: e4dfa86306abf16286b1308201719bb7195b9ac143365d32b46fda0dcb7e7873",
+  "tag_name": "v0.44.25",
+  "commit": "45022360e01ea0fe8eddfb2815df31702c3f904f",
+  "name": "Unwip Dev 0.44.25",
+  "body": "- Proof of writing: save any replay as a video at real speed (1\u00d7), or 2\u00d7, 4\u00d7 or 16\u00d7, as well as the squeezed timelapse. Each session in the Replays list has its own \ud83c\udfac Video button, and the dialog shows how long each video will be. Long pauses are cut to 3 seconds, as in the player. For long videos you can stop part-way and keep what's made so far.\n\nsha256: d81658619c6abc60219fd29171bc9bec093983d831baaa12d0b8927d78a62ab6",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.24.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.24.zip"
+      "name": "unwip-dev-app-0.44.25.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.25.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.24.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.24.zip.sha256"
+      "name": "unwip-dev-app-0.44.25.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.25.zip.sha256"
     }
   ]
 }
