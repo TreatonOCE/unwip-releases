@@ -1,0 +1,1 @@
+- Build's LitRPG "Character sheet" (stats, how they grow each level, the XP curve) is now called Stat system, so it isn't mixed up with the character sheets at the Lore level. Nothing you've made changes.

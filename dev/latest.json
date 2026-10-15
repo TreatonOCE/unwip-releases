@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.63",
-  "commit": "bd91df4f2af7c6c85cff76ccae4934977370b97f",
-  "name": "Unwip Dev 0.44.63",
-  "body": "- Fixed: at Focus the main screen lost its Write tab. Write now shows at every level.\n- Lore adds a fourth tab on the main screen, Open World: magic systems, rune alphabets, sigils and insignia live there. Build keeps maps, coats of arms and character sheets. Below Lore, anything you've already made in Open World shows in Build, so nothing goes missing. Phones go up to Detail, so they keep Write, Play and Build.\n- The main screen's top bar fits on smaller windows: the switch and tabs move to a second row instead of pushing Record and Settings off the edge.\n- Getting started now points to Export at the top of a book (it still mentioned the old arrow next to Copy for Docs).\n\nsha256: dfe9379d65202c7f82ef11c9f0a9583702e61d2194535d71e42493e866e1e429",
+  "tag_name": "v0.44.64",
+  "commit": "7f6fb450cf48718535d8cfceca472df1a0b17acd",
+  "name": "Unwip Dev 0.44.64",
+  "body": "- Build's LitRPG \"Character sheet\" (stats, how they grow each level, the XP curve) is now called Stat system, so it isn't mixed up with the character sheets at the Lore level. Nothing you've made changes.\n\nsha256: a1db5204226cfd34cc7f29a470f2efadc42983a0e71d57d222b56a36828de2f4",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.63.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.63.zip"
+      "name": "unwip-dev-app-0.44.64.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.64.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.63.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.63.zip.sha256"
+      "name": "unwip-dev-app-0.44.64.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.64.zip.sha256"
     }
   ]
 }
