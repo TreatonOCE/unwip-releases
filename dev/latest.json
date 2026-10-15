@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.28",
-  "commit": "3fbd84be6a6adb470629a0e97140c68ce2b21305",
-  "name": "Unwip Dev 0.44.28",
-  "body": "- Lists: bulleted and numbered lists. Type \"- \" or \"1. \" at the start of a line, or use the new list buttons in the toolbar (Ctrl+Shift+8 / Ctrl+Shift+7, Cmd on a Mac). Enter carries the list on and empty Enter ends it; numbers after a new item move up by one. Lists go into every export as they look, and Markdown and Obsidian imports keep their bullets and numbers.\n- Sprints: run several sprints in a row with breaks between them (2 to 15 minutes), with a chime and a notification when each break is over, or start a break timer on its own. The Sprint button shows the break's time left.\n- Sprints: \"How did it go?\" when a sprint finishes: what you worked on (planning, drafting from an outline, discovery writing, revising\u2026), how you felt, and a note. It's saved with the sprint and shown in All sprints.\n- Characters, places and items: an \"Edit character fields\u2026\" button at the top of every sheet, to add fields like Class or Role to the sheet (before, this was only on the folder's right-click menu).\n\nsha256: 9526855460d15437b5e5212ac790e6a9a0fa943e2ae4b7ded90538c15289bc2f",
+  "tag_name": "v0.44.29",
+  "commit": "9e1fe9ca12744ef21c8d9633eb1d67223713b00a",
+  "name": "Unwip Dev 0.44.29",
+  "body": "- Continuity pass (Revise panel, or Ctrl+K \u203a Continuity pass): list what changed after a rewrite, what it was and what it is now (a level, a distance, a name). Unwip counts every place the old version appears, then takes you to each one in turn: Change it (Enter), Leave it (Tab), Change all here, or Next chapter. Leave \"It's now\" empty for changes that need rewriting by hand and it still takes you to each place. The list is kept with the book, and you can start from any chapter.\n- LitRPG and GameLit tools (Settings \u203a LitRPG and text shortcuts): brackets close themselves ([ ] and { }), [system messages] show as boxes while you write (the book keeps plain brackets, the way LitRPG is published), and text shortcuts: ;lvl, ;skill, ;quest, ;item, ;status and more, or make your own for any genre.\n- Magic systems: a new \"The picture\" section with a preview (tap it to see it bigger), five styles (Parchment, Clean, Night, Arcane, Blood), three borders, and what to show (summary, costs, kinds of magic, number of spells). Copy picture, Save PNG and Add to book use it.\n\nsha256: b3ec2923b83032e172043213524b27dd4e057f5d7a5e88dbb8cb1df78c39cf84",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.28.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.28.zip"
+      "name": "unwip-dev-app-0.44.29.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.29.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.28.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.28.zip.sha256"
+      "name": "unwip-dev-app-0.44.29.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.29.zip.sha256"
     }
   ]
 }
