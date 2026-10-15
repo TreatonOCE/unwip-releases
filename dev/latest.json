@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.51",
-  "commit": "c43bfe308789bf1d739ed2090e6cd4b07cf8e0cf",
-  "name": "Unwip Dev 0.44.51",
-  "body": "- Your rights: Help \u203a About \u203a Your rights says plainly what you can do with what you make. It's yours, and you can use it anywhere, including in work you sell. Unwip's built-in artwork can be part of it, remixed however you like. What you can't do is sell or give away the built-in artwork on its own (as a symbol pack, brushes, clip art and so on). It's also in Help, in a LICENSES.txt file that comes with Unwip, and on the website.\n- Symbol credits: the animal and object symbols from game-icons.net are free to use, even commercially, but their artists ask for a short credit. Any Build piece that uses one now shows the exact credit line with a Copy credit button, for example \"Symbols by Lorc, game-icons.net, CC BY 3.0\", to put with the picture or on your book's copyright page. The symbol picker says so too.\n- Build pictures and maps now only use fonts that come with Unwip (Bookhaven, Oswald, and the new IBM Plex Mono for system-style text), carried inside each picture. A picture looks the same on every device and never depends on the computer's own fonts.\n- The writers' quotes on the main screen now come only from writers whose words are free for anyone to use (Austen, Carroll, Twain, Wilde, Thoreau, Johnson, Chesterton, Cather and others).\n- Open-source licences lists IBM Plex Mono and the small libraries inside the Windows setup program.\n- Build: on a computer, the piece's name has room again instead of being cut to a few letters.\n\nsha256: f32e61865799da33406bc150d231a96876a7dc5d2133893a92321fa146bdad7e",
+  "tag_name": "v0.44.52",
+  "commit": "510dfa2fae814fd4f8b6fc06b65eaa99672513a1",
+  "name": "Unwip Dev 0.44.52",
+  "body": "- More writers' quotes on the main screen: 116 lines from 54 writers whose words are free for anyone to use, including Trollope on writing a little every day, Mary Shelley on where invention comes from, Twain's \"Use the right word, not its second cousin\", Woolf, Conrad, Henry James, Poe, Kipling, Austen, the Bront\u00ebs, Keats, Coleridge and Bierce's Devil's Dictionary. Each one was checked against its original book, letter or speech.\n\nsha256: 7d065303f02a1a2009f04717124b62ca85e23f3fd0a745e5d30bf2154beb8a5e",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.51.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.51.zip"
+      "name": "unwip-dev-app-0.44.52.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.52.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.51.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.51.zip.sha256"
+      "name": "unwip-dev-app-0.44.52.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.52.zip.sha256"
     }
   ]
 }
