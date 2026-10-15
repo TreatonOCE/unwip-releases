@@ -1,0 +1,6 @@
+- Pasting text with pictures from another app (like the iPhone's Notes) now brings the pictures in too, in the right places.
+- Pictures that Build adds to a chapter (a rune chart, a coat of arms…) no longer make the chapter scroll sideways on a phone.
+- Maps: Grid now works on every kind of map. It's a hex grid on world and town maps, and on a dungeon floor it turns the square floor grid on and off.
+- Maps: you can zoom out much further, far enough to see the whole map on a phone.
+- Maps on a phone: the buttons along the top are one row you swipe along, so the map gets most of the screen.
+- Maps: the brush size slider no longer looks switched off when the tool you're using doesn't paint.
