@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.37",
-  "commit": "e74184f3460368e6655ebc87fee4a3bece64e2a2",
-  "name": "Unwip Dev 0.44.37",
-  "body": "- iPhone and iPad: tapping a \"?\" now shows what that setting means, instead of ticking or picking the setting next to it. Tap it again, or anywhere else, to close it.\n- iPhone and iPad: long dialogs (like Typewriter & animations) scroll all the way to the last setting, instead of stopping just short of it.\n\nsha256: 7c57638d712bb68fc1eeedb28bd73a2e8de917e36d915b686220f6190e5d9cc2",
+  "tag_name": "v0.44.38",
+  "commit": "275cb9a694b86282fb125886e28685099d7591be",
+  "name": "Unwip Dev 0.44.38",
+  "body": "iPhone fixes from testing:\n- Help: the sections are a strip along the top you can swipe and tap, so you don't have to scroll through everything. Nothing runs off the right edge any more.\n- Revise (and Comments, Snapshots and the rest of that panel) opens as a sheet over the bottom of the screen, so the chapter and its highlights stay in view above it.\n- Typing into a box no longer zooms the page in, and dialogs move up above the keyboard so the box you're typing in isn't hidden behind the keyboard's bar.\n- New template section: the preview of each template now shows under the list.\n- Bringing in chapter files on an iPhone or iPad: you now pick the files themselves (tap Select at the top, choose them, then Open). iPhones can't hand a whole folder to a web app, which is why everything was greyed out.\n- Outline: the box that showed \"\u2013\" now says POV (point of view: the character the chapter is told through).\n- Long dialogs that stopped short of the last setting now scroll all the way (from 0.44.37).\n\nsha256: 1049b80a2979eb30b4efd949f459d09473ea67963299969287f60fed8571fa99",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.37.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.37.zip"
+      "name": "unwip-dev-app-0.44.38.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.38.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.37.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.37.zip.sha256"
+      "name": "unwip-dev-app-0.44.38.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.38.zip.sha256"
     }
   ]
 }
