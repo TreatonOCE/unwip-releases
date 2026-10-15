@@ -1,0 +1,1 @@
+- Website: screen video on the Mac marked as tested, and the Mac app's tested list updated (installing and screen video on an M1 Mac).
