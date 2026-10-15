@@ -1,0 +1,2 @@
+- The tour is updated. It now covers Build in the book's toolbar, then carries on to the main screen for Your books, Play, Build and Dropbox sync (Back takes you to the book again). Settings › Help, or "Take a tour" on the main screen, runs it.
+- The example book's "Start here" note suggests trying Build: a map of the road to the Borgo Pass, or a rune alphabet.

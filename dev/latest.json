@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.43",
-  "commit": "5feba7f1e090db9cbda659569d882e8a0dd0130a",
-  "name": "Unwip Dev 0.44.43",
-  "body": "- Two new themes: Witch (plum and candlelight) and Infernal (black and red), each with a soft glow round the page and a faint star in its corner. Settings \u203a Look.\n- Sigils: a Star option draws a pentagram, hexagram, heptagram or octagram through the circle, touching the innermost ring. New Blood and Witch backgrounds, with ink that shows up on them.\n- Maps: a long sea name on a random map no longer runs off the left edge.\n- Maps: the \"empty map\" tip goes away once you roll or draw something, instead of sitting over the map.\n- Importing: a chapter heading that ends in a question mark or exclamation mark (\"Are you talking to me?\") is now used as the chapter title, instead of the chapter coming in as \"Opening\".\n- The unwip.app website is new: a click-through demo of Focused and Detailed, short clips of maps, runes and sigils being made, a live replay, and a side-by-side comparison with Scrivener, Word and Google Docs.\n\nsha256: cd29409170c3f358989c8fb196d65bd613e7c80825817eed007ec76a6a5f9fb2",
+  "tag_name": "v0.44.44",
+  "commit": "8d0906394d194477fe8a12f49853931a9cfd158d",
+  "name": "Unwip Dev 0.44.44",
+  "body": "- The tour is updated. It now covers Build in the book's toolbar, then carries on to the main screen for Your books, Play, Build and Dropbox sync (Back takes you to the book again). Settings \u203a Help, or \"Take a tour\" on the main screen, runs it.\n- The example book's \"Start here\" note suggests trying Build: a map of the road to the Borgo Pass, or a rune alphabet.\n\nsha256: c4a6c3cbfbc3822b6ceb028e72e75e825f2279707755da4b9bae37046f866c91",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.43.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.43.zip"
+      "name": "unwip-dev-app-0.44.44.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.44.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.43.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.43.zip.sha256"
+      "name": "unwip-dev-app-0.44.44.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.44.zip.sha256"
     }
   ]
 }
