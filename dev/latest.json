@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.54",
-  "commit": "d0c7402f89bbcb9e246b806bfd8c5b4b33d33b16",
-  "name": "Unwip Dev 0.44.54",
-  "body": "- Edith Lessmore's glitter line now makes sense.\n\nsha256: 8d011a6d046fe7f29ef5ef263f3bb838eb18b0b0111c17aa14548572bdd5b0ea",
+  "tag_name": "v0.44.55",
+  "commit": "300154b138f6d461527ff8d6e6aa78825f7df367",
+  "name": "Unwip Dev 0.44.55",
+  "body": "- Swapped one of Ima Novelist's lines for a better one.\n\nsha256: a885fccdd428d56366477e040caf3183c8389952581b9b4e624e1935a0ab4012",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.54.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.54.zip"
+      "name": "unwip-dev-app-0.44.55.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.55.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.54.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.54.zip.sha256"
+      "name": "unwip-dev-app-0.44.55.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.55.zip.sha256"
     }
   ]
 }
