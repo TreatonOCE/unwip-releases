@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.67",
-  "commit": "36fc4fdd80fd14bc2dd719ee3e066518f1092764",
-  "name": "Unwip Dev 0.44.67",
-  "body": "- Character sheets can follow a Stat system from Build: pick it at the bottom of the sheet, and the Stats tab checks the numbers in your chapters against how the character should grow. At the character\u2019s level it lists anything that doesn\u2019t match, like \u201cStrength: chapters say 11, the system says 12\u201d. A stat that wasn\u2019t given again since the last level-up isn\u2019t checked, so you aren\u2019t told off for numbers you haven\u2019t written yet.\n- The Character sheets list (Lore) now says how many items each character has equipped, not how many changes their sheet has had.\n- Fixed: Compare and bring in could stop with an error if a character sheet\u2019s saved data was damaged. Damaged parts are now skipped.\n\nsha256: 81ada0a2512e4509cdee496b79dd4a11205d7cc1e736df45abde368c25076bad",
+  "tag_name": "v0.44.68",
+  "commit": "b06c266ccbaa449eb849bad33ce41def079d6b94",
+  "name": "Unwip Dev 0.44.68",
+  "body": "- Fixed: a screen video left recording (or still recording when Unwip closed) could come out as a file Windows' Media Player wouldn't open. Screen videos are now saved as MP4 where the computer can make them, which every player opens, and a recording cut off part-way still plays up to that point. If Unwip closes mid-recording, the video is finished on the way out, or the next time Unwip starts.\n- New character sheet: make one from the Open World tab on the main screen (pick the book), from Open World inside a book, or from the Character sheets list. Name a new character, or pick one who's already in the book, and their sheet opens.\n- The world calendar window is redone: the year shows as a strip with each month at its real length, the seasons in colour under it and the full moons as dots. Months have \u2212 and + for their length, arrows to reorder and \"Set all to\". Week days are chips (type one and press Enter, \u00d7 to remove). The start date reads as a sentence, and the month your story starts in shows as a calendar page with Day 1 marked.\n- Fixed: opening a page from the Corkboard, Moodboard, Timeline or the Insights charts (for example with \"Open this one in the main editor\" in split view) hid the toolbar until you switched Focus, Detail or Lore.\n- Your settings carry over between versions: a new check changes every option in the last public version, opens this one on top, and makes sure nothing was reset.\n\nsha256: 427761a33dcc13d5d9399a58c676e955fec57643102678833eef43d60f1ceb26",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.67.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.67.zip"
+      "name": "unwip-dev-app-0.44.68.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.68.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.67.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.67.zip.sha256"
+      "name": "unwip-dev-app-0.44.68.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.68.zip.sha256"
     }
   ]
 }
