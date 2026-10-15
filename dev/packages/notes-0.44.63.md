@@ -1,0 +1,4 @@
+- Fixed: at Focus the main screen lost its Write tab. Write now shows at every level.
+- Lore adds a fourth tab on the main screen, Open World: magic systems, rune alphabets, sigils and insignia live there. Build keeps maps, coats of arms and character sheets. Below Lore, anything you've already made in Open World shows in Build, so nothing goes missing. Phones go up to Detail, so they keep Write, Play and Build.
+- The main screen's top bar fits on smaller windows: the switch and tabs move to a second row instead of pushing Record and Settings off the edge.
+- Getting started now points to Export at the top of a book (it still mentioned the old arrow next to Copy for Docs).
