@@ -1,0 +1,7 @@
+- Maps: dungeon floors. Pick "Dungeon floor" for a new map or a new section: drag out rooms, carve corridors (narrow or wide), fill back to rock, and drop in stairs, doors, secret doors, chests, traps, a boss, an altar, pillars, a pool or bones. 🎲 Random floor rolls rooms joined by corridors with an entrance, stairs down, a boss room, loot, traps, doors and room numbers (fixed rules and random numbers, no AI). Each floor is its own section, so a whole dungeon sits in one map.
+- Maps: a Holo map style, like a game's map screen: dark glass, glowing lines, a grid and plain lettering. Works on world, town and dungeon maps.
+- Maps: markers for LitRPG and game maps (waypoint, quest, dungeon, safe zone, boss, shop, respawn), on every kind of map.
+- Maps: fog of war. Cover what hasn't been explored yet and reveal it again as the story goes, with a brush, or Cover all / Clear all fog, and a switch to show or hide it.
+- Build › Insignia: emblems for corporations, gangs, units and guilds. A hard frame (hexagon, chevron, roundel, badge, diamond, notched ring), one of 28 simple line symbols, flat colour sets (Neon, Corporate, Military, Toxic, Blood, Chrome, Ice) or your own, and a name, designation and code underneath. 🎲 Random rolls a combination to start from.
+- Build › Rune alphabets: "System (circuit traces)" ends, where strokes run like traces on a circuit board with a ring where each one ends, and a dark panel background that glows.
+- Fixed: closing a Character sheet in Build and opening another kind could show an error.
