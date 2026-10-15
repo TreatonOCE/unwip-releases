@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.66",
-  "commit": "ff0f4a43f8f7b6b063f3c91760a84134ed385c05",
-  "name": "Unwip Dev 0.44.66",
-  "body": "- Character sheets on a phone, view only: if a character's sheet has gear (put in on an iPad or computer), their page shows the Character sheet button. It opens the same timeline, stats, inventory and skills, with the gear as a list (slot, item, rarity, note). Nothing can be changed there, and new sheets are still made on a bigger screen.\n- Fixed: on a phone, the buttons at the top of a character's page (Name ideas, Edit character fields, Character sheet) covered the character's name. They now sit above it.\n- On a phone the character sheet's timeline keeps \u2039 and \u203a on the same row as the chapter dots.\n\nsha256: e0d09e0cba769d62d8376b557fb38e6770d141de06c23f64c3cbc8fddcd246d1",
+  "tag_name": "v0.44.67",
+  "commit": "36fc4fdd80fd14bc2dd719ee3e066518f1092764",
+  "name": "Unwip Dev 0.44.67",
+  "body": "- Character sheets can follow a Stat system from Build: pick it at the bottom of the sheet, and the Stats tab checks the numbers in your chapters against how the character should grow. At the character\u2019s level it lists anything that doesn\u2019t match, like \u201cStrength: chapters say 11, the system says 12\u201d. A stat that wasn\u2019t given again since the last level-up isn\u2019t checked, so you aren\u2019t told off for numbers you haven\u2019t written yet.\n- The Character sheets list (Lore) now says how many items each character has equipped, not how many changes their sheet has had.\n- Fixed: Compare and bring in could stop with an error if a character sheet\u2019s saved data was damaged. Damaged parts are now skipped.\n\nsha256: 81ada0a2512e4509cdee496b79dd4a11205d7cc1e736df45abde368c25076bad",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.66.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.66.zip"
+      "name": "unwip-dev-app-0.44.67.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.67.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.66.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.66.zip.sha256"
+      "name": "unwip-dev-app-0.44.67.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.67.zip.sha256"
     }
   ]
 }

@@ -1,0 +1,3 @@
+- Character sheets can follow a Stat system from Build: pick it at the bottom of the sheet, and the Stats tab checks the numbers in your chapters against how the character should grow. At the character’s level it lists anything that doesn’t match, like “Strength: chapters say 11, the system says 12”. A stat that wasn’t given again since the last level-up isn’t checked, so you aren’t told off for numbers you haven’t written yet.
+- The Character sheets list (Lore) now says how many items each character has equipped, not how many changes their sheet has had.
+- Fixed: Compare and bring in could stop with an error if a character sheet’s saved data was damaged. Damaged parts are now skipped.
