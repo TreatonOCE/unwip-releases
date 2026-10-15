@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.32",
-  "commit": "b2182c304409f296d13977725217e4db837cb858",
-  "name": "Unwip Dev 0.44.32",
-  "body": "- Maps: dungeon floors. Pick \"Dungeon floor\" for a new map or a new section: drag out rooms, carve corridors (narrow or wide), fill back to rock, and drop in stairs, doors, secret doors, chests, traps, a boss, an altar, pillars, a pool or bones. \ud83c\udfb2 Random floor rolls rooms joined by corridors with an entrance, stairs down, a boss room, loot, traps, doors and room numbers (fixed rules and random numbers, no AI). Each floor is its own section, so a whole dungeon sits in one map.\n- Maps: a Holo map style, like a game's map screen: dark glass, glowing lines, a grid and plain lettering. Works on world, town and dungeon maps.\n- Maps: markers for LitRPG and game maps (waypoint, quest, dungeon, safe zone, boss, shop, respawn), on every kind of map.\n- Maps: fog of war. Cover what hasn't been explored yet and reveal it again as the story goes, with a brush, or Cover all / Clear all fog, and a switch to show or hide it.\n- Build \u203a Insignia: emblems for corporations, gangs, units and guilds. A hard frame (hexagon, chevron, roundel, badge, diamond, notched ring), one of 28 simple line symbols, flat colour sets (Neon, Corporate, Military, Toxic, Blood, Chrome, Ice) or your own, and a name, designation and code underneath. \ud83c\udfb2 Random rolls a combination to start from.\n- Build \u203a Rune alphabets: \"System (circuit traces)\" ends, where strokes run like traces on a circuit board with a ring where each one ends, and a dark panel background that glows.\n- Fixed: closing a Character sheet in Build and opening another kind could show an error.\n\nsha256: 9efe7aa2eb8765df7aa4ad10976a6b34aae1770261f58e46741adfa549beee44",
+  "tag_name": "v0.44.33",
+  "commit": "d47c64b706f969fe2d8a22b0c2a8b539b60e0e7a",
+  "name": "Unwip Dev 0.44.33",
+  "body": "- Phones: the top of the main screen (Synced, Record, Settings) and the Write / Play / Build tabs no longer run off the right edge. The sync button shortens with \"\u2026\" when there isn't room.\n- Phones: in Build \u203a Insignia the picture no longer stays pinned over the settings while you scroll.\n- The Build page and Ctrl+K now mention insignia and character sheets.\n\nsha256: 19fd592ac16c41b4b271a4990e1347ca07f0077e47649c05867690016422b488",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.32.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.32.zip"
+      "name": "unwip-dev-app-0.44.33.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.33.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.32.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.32.zip.sha256"
+      "name": "unwip-dev-app-0.44.33.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.33.zip.sha256"
     }
   ]
 }

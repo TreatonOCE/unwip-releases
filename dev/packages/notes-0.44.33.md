@@ -1,0 +1,3 @@
+- Phones: the top of the main screen (Synced, Record, Settings) and the Write / Play / Build tabs no longer run off the right edge. The sync button shortens with "…" when there isn't room.
+- Phones: in Build › Insignia the picture no longer stays pinned over the settings while you scroll.
+- The Build page and Ctrl+K now mention insignia and character sheets.
