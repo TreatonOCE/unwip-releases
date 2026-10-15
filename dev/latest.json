@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.42",
-  "commit": "ccc5f87260ed5f593225aaf440ae4e9f3e4f2ba6",
-  "name": "Unwip Dev 0.44.42",
-  "body": "- Maps: a long sea name on a random map no longer runs off the left edge.\n- Maps: the \"empty map\" tip goes away once you roll or draw something, instead of sitting over the map.\n- Importing: a chapter heading that ends in a question mark or exclamation mark (\"Are you talking to me?\") is now used as the chapter title, instead of the chapter coming in as \"Opening\".\n\nsha256: c86954fcfa394223e533a8d0d263ae0d21f61d4454f7295542ca85ee21413c23",
+  "tag_name": "v0.44.43",
+  "commit": "5feba7f1e090db9cbda659569d882e8a0dd0130a",
+  "name": "Unwip Dev 0.44.43",
+  "body": "- Two new themes: Witch (plum and candlelight) and Infernal (black and red), each with a soft glow round the page and a faint star in its corner. Settings \u203a Look.\n- Sigils: a Star option draws a pentagram, hexagram, heptagram or octagram through the circle, touching the innermost ring. New Blood and Witch backgrounds, with ink that shows up on them.\n- Maps: a long sea name on a random map no longer runs off the left edge.\n- Maps: the \"empty map\" tip goes away once you roll or draw something, instead of sitting over the map.\n- Importing: a chapter heading that ends in a question mark or exclamation mark (\"Are you talking to me?\") is now used as the chapter title, instead of the chapter coming in as \"Opening\".\n- The unwip.app website is new: a click-through demo of Focused and Detailed, short clips of maps, runes and sigils being made, a live replay, and a side-by-side comparison with Scrivener, Word and Google Docs.\n\nsha256: cd29409170c3f358989c8fb196d65bd613e7c80825817eed007ec76a6a5f9fb2",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.42.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.42.zip"
+      "name": "unwip-dev-app-0.44.43.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.43.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.42.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.42.zip.sha256"
+      "name": "unwip-dev-app-0.44.43.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.43.zip.sha256"
     }
   ]
 }

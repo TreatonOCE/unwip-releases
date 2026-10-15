@@ -1,0 +1,6 @@
+- Two new themes: Witch (plum and candlelight) and Infernal (black and red), each with a soft glow round the page and a faint star in its corner. Settings › Look.
+- Sigils: a Star option draws a pentagram, hexagram, heptagram or octagram through the circle, touching the innermost ring. New Blood and Witch backgrounds, with ink that shows up on them.
+- Maps: a long sea name on a random map no longer runs off the left edge.
+- Maps: the "empty map" tip goes away once you roll or draw something, instead of sitting over the map.
+- Importing: a chapter heading that ends in a question mark or exclamation mark ("Are you talking to me?") is now used as the chapter title, instead of the chapter coming in as "Opening".
+- The unwip.app website is new: a click-through demo of Focused and Detailed, short clips of maps, runes and sigils being made, a live replay, and a side-by-side comparison with Scrivener, Word and Google Docs.
