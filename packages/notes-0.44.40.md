@@ -1,0 +1,19 @@
+- Pasting text with pictures from another app (like the iPhone's Notes) now brings the pictures in too, in the right places.
+- Pictures that Build adds to a chapter (a rune chart, a coat of arms…) no longer make the chapter scroll sideways on a phone.
+- Maps: Grid now works on every kind of map. It's a hex grid on world and town maps, and on a dungeon floor it turns the square floor grid on and off.
+- Maps: you can zoom out much further, far enough to see the whole map on a phone.
+- Maps on a phone: the buttons along the top are one row you swipe along, so the map gets most of the screen.
+- Maps: the brush size slider no longer looks switched off when the tool you're using doesn't paint.
+- Play: exercises, warm-ups, story starters and story dice now fit a phone. The top bar is two tidy rows (nothing overlaps, and Record no longer sits on the back button), an exercise's checklist is a strip at the top, and the page to write on fills the rest.
+- Build › Insignia: the picture no longer covers the settings below it.
+- Build › Character sheet: fits the screen, with no sideways scrolling (only the level table scrolls, inside its own box).
+- Build › Rune alphabets: drawing on a phone no longer fights with scrolling, and the dots are easier to hit with a finger.
+- Build › Rune alphabets: two new options for writing in runes: Spacing (how far apart runes and words sit) and Direction (left to right, right to left, or top to bottom in columns). They show in the preview, Copy picture and Save PNG.
+- Help: the sections are a strip along the top you can swipe and tap, so you don't have to scroll through everything. Nothing runs off the right edge any more.
+- Revise (and Comments, Snapshots and the rest of that panel) opens as a sheet over the bottom of the screen, so the chapter and its highlights stay in view above it.
+- Typing into a box no longer zooms the page in, and dialogs move up above the keyboard so the box you're typing in isn't hidden behind the keyboard's bar.
+- New template section: the preview of each template now shows under the list.
+- Bringing in chapter files on an iPhone or iPad: you now pick the files themselves (tap Select at the top, choose them, then Open). iPhones can't hand a whole folder to a web app, which is why everything was greyed out.
+- Outline: the box that showed "–" now says POV (point of view: the character the chapter is told through).
+- iPhone and iPad: tapping a "?" now shows what that setting means, instead of ticking or picking the setting next to it. Tap it again, or anywhere else, to close it.
+- iPhone and iPad: long dialogs (like Typewriter & animations) scroll all the way to the last setting, instead of stopping just short of it.
