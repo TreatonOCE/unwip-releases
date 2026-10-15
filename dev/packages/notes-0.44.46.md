@@ -1,0 +1,3 @@
+- Settings now follow you between devices through Dropbox: themes and colours, typewriter and animation settings, LitRPG tools and text shortcuts, the default manuscript style, author name, daily goal, quotes, your own templates, favourite fonts, Spark tracking, and which books record a replay. Change one on the PC and the phone has it after its next sync, and the other way round.
+- If two devices change settings at about the same time, each setting keeps its newest change, so changing the theme on one and the shortcuts on the other keeps both.
+- Things that belong to one device stay put: screen size, window places, library and backup folders, sign-ins, read-aloud voices, spellcheck and automatic updates.
