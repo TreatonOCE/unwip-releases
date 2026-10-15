@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.64",
-  "commit": "25c4d7dd9c0416222b9e417c5580379db29382c5",
-  "name": "Unwip Dev 0.44.64",
-  "body": "- Build's LitRPG \"Character sheet\" (stats, how they grow each level, the XP curve) is now called Stat system, so it isn't mixed up with the character sheets at the Lore level. Nothing you've made changes.\n- Lore now adds something you can see inside a book: a Lore group on the left, under Timeline, with Character sheets (every character in the book, how much gear each carries, one click to their sheet) and Open World (magic systems, rune alphabets, sigils and insignia, opened over your chapter). At Lore, Build in the top bar keeps to maps, coats of arms and stat systems.\n- Phones stop at Detail everywhere: no Lore group, no character sheet button, and Lore doesn't come up in search (Ctrl+K). Anything made on a bigger screen is still there when you go back to it.\n\nsha256: 915885e35c9d2fdd6c0ec66a7929934d2aabab4b2493f08e1ef812ccfdf86c46",
+  "tag_name": "v0.44.65",
+  "commit": "6a6f4925b1a690790dfae48bae16ef3f5d0dbf19",
+  "name": "Unwip Dev 0.44.65",
+  "body": "- On a phone, Open World pieces (magic systems, rune alphabets, sigils and insignia) made on an iPad or computer show in Build marked View only. Tap one to see its picture (and Copy picture if you want it); changing it stays on the bigger screens. New ones are made there too.\n\nsha256: 1e2188c8810354c1e6c35779f9eeeba65ae6941472aa11b6cd68cf68d2d1cac0",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.64.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.64.zip"
+      "name": "unwip-dev-app-0.44.65.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.65.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.64.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.64.zip.sha256"
+      "name": "unwip-dev-app-0.44.65.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.65.zip.sha256"
     }
   ]
 }

@@ -1,0 +1,1 @@
+- On a phone, Open World pieces (magic systems, rune alphabets, sigils and insignia) made on an iPad or computer show in Build marked View only. Tap one to see its picture (and Copy picture if you want it); changing it stays on the bigger screens. New ones are made there too.
