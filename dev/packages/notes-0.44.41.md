@@ -1,0 +1,2 @@
+- Two new themes: Witch (plum and candlelight) and Infernal (black and red), each with a soft glow round the page and a faint star in its corner. Settings › Look.
+- Sigils: a Star option draws a pentagram, hexagram, heptagram or octagram through the circle, touching the innermost ring. New Blood and Witch backgrounds, with ink that shows up on them.

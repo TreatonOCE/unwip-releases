@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.40",
-  "commit": "d9ffaed46538a398abd661aea44c7202d9fb1fb8",
-  "name": "Unwip Dev 0.44.40",
-  "body": "- Pasting text with pictures from another app (like the iPhone's Notes) now brings the pictures in too, in the right places.\n- Pictures that Build adds to a chapter (a rune chart, a coat of arms\u2026) no longer make the chapter scroll sideways on a phone.\n- Maps: Grid now works on every kind of map. It's a hex grid on world and town maps, and on a dungeon floor it turns the square floor grid on and off.\n- Maps: you can zoom out much further, far enough to see the whole map on a phone.\n- Maps on a phone: the buttons along the top are one row you swipe along, so the map gets most of the screen.\n- Maps: the brush size slider no longer looks switched off when the tool you're using doesn't paint.\n\nsha256: eb11ed94e97a6ba7610e53e1c9fbd2e6ad5dbe0465345827c2487a436eb13a06",
+  "tag_name": "v0.44.41",
+  "commit": "39887d39d588b8fc44f948cb0b83dc9fbb50134d",
+  "name": "Unwip Dev 0.44.41",
+  "body": "- Two new themes: Witch (plum and candlelight) and Infernal (black and red), each with a soft glow round the page and a faint star in its corner. Settings \u203a Look.\n- Sigils: a Star option draws a pentagram, hexagram, heptagram or octagram through the circle, touching the innermost ring. New Blood and Witch backgrounds, with ink that shows up on them.\n\nsha256: 48fec1954c3a24cdffd396b4465103ffae05d5b2d0a646af168f78f8a1b3d143",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.40.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.40.zip"
+      "name": "unwip-dev-app-0.44.41.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.41.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.40.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.40.zip.sha256"
+      "name": "unwip-dev-app-0.44.41.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.41.zip.sha256"
     }
   ]
 }
