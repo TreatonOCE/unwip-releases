@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.41",
-  "commit": "39887d39d588b8fc44f948cb0b83dc9fbb50134d",
-  "name": "Unwip Dev 0.44.41",
-  "body": "- Two new themes: Witch (plum and candlelight) and Infernal (black and red), each with a soft glow round the page and a faint star in its corner. Settings \u203a Look.\n- Sigils: a Star option draws a pentagram, hexagram, heptagram or octagram through the circle, touching the innermost ring. New Blood and Witch backgrounds, with ink that shows up on them.\n\nsha256: 48fec1954c3a24cdffd396b4465103ffae05d5b2d0a646af168f78f8a1b3d143",
+  "tag_name": "v0.44.42",
+  "commit": "ccc5f87260ed5f593225aaf440ae4e9f3e4f2ba6",
+  "name": "Unwip Dev 0.44.42",
+  "body": "- Maps: a long sea name on a random map no longer runs off the left edge.\n- Maps: the \"empty map\" tip goes away once you roll or draw something, instead of sitting over the map.\n- Importing: a chapter heading that ends in a question mark or exclamation mark (\"Are you talking to me?\") is now used as the chapter title, instead of the chapter coming in as \"Opening\".\n\nsha256: c86954fcfa394223e533a8d0d263ae0d21f61d4454f7295542ca85ee21413c23",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.41.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.41.zip"
+      "name": "unwip-dev-app-0.44.42.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.42.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.41.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.41.zip.sha256"
+      "name": "unwip-dev-app-0.44.42.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.42.zip.sha256"
     }
   ]
 }

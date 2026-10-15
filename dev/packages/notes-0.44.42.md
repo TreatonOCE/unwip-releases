@@ -1,0 +1,3 @@
+- Maps: a long sea name on a random map no longer runs off the left edge.
+- Maps: the "empty map" tip goes away once you roll or draw something, instead of sitting over the map.
+- Importing: a chapter heading that ends in a question mark or exclamation mark ("Are you talking to me?") is now used as the chapter title, instead of the chapter coming in as "Opening".
