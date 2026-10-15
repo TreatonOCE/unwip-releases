@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.35",
-  "commit": "0667dc608451f13663827e67ff7bac995e4d0f78",
-  "name": "Unwip Dev 0.44.35",
-  "body": "- Dropbox on web and phone: syncing by itself is back to being your choice. New connections start with the Sync button, and \"Sync by itself while I write\" (Settings \u203a Where your projects live) turns it on.\n\nsha256: cc612eab21784ebd3dc71e0f03b5a6271bb5b77b054ca7fef4477ea431f911cb",
+  "tag_name": "v0.44.36",
+  "commit": "10a4bf5cfd6dff42b7c25b4a458c47edccc3ec78",
+  "name": "Unwip Dev 0.44.36",
+  "body": "- iPhone: Settings fit the screen again (the LitRPG section pushed everything sideways).\n- iPhone and iPad: Proof of writing now has a way to start recording. On the main screen, Record lists your books with a Replay switch for each. Inside a book, there's a Record button in the bar under the chapter list. (Phones and iPads don't let web apps record the screen itself, so use the built-in Screen Recording for a video.)\n\nsha256: 59f8887a2633c711092291e97b979ee051f51f98c7c62e46410bf95a63e8bbd8",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.35.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.35.zip"
+      "name": "unwip-dev-app-0.44.36.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.36.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.35.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.35.zip.sha256"
+      "name": "unwip-dev-app-0.44.36.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.36.zip.sha256"
     }
   ]
 }

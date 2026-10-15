@@ -1,0 +1,2 @@
+- iPhone: Settings fit the screen again (the LitRPG section pushed everything sideways).
+- iPhone and iPad: Proof of writing now has a way to start recording. On the main screen, Record lists your books with a Replay switch for each. Inside a book, there's a Record button in the bar under the chapter list. (Phones and iPads don't let web apps record the screen itself, so use the built-in Screen Recording for a video.)
