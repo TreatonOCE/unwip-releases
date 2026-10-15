@@ -1,0 +1,7 @@
+- Lists: bulleted and numbered lists. Type "- " or "1. " at the start of a line, or use the new list buttons in the toolbar (Ctrl+Shift+8 / Ctrl+Shift+7, Cmd on a Mac). Enter carries the list on and an empty Enter ends it; numbers after a new item move up by one. Lists go into every export as they look, and Markdown and Obsidian imports keep their bullets and numbers.
+- Sprints: run several sprints in a row with breaks between them (2 to 15 minutes), with a chime and a notification when each break is over, or start a break timer on its own. The Sprint button shows the break's time left.
+- Sprints: "How did it go?" when a sprint finishes: what you worked on (planning, drafting from an outline, discovery writing, revising…), how you felt, and a note. It's saved with the sprint and shown in All sprints.
+- Characters, places and items: an "Edit character fields…" button at the top of every sheet, to add fields like Class or Role.
+- Unwip now says Beta: next to the logo on the main screen, and in the window title.
+- Settings › Licence: a place to enter a licence key. During the beta nothing needs a key and nothing changes without one; keys are checked on your device and nothing is sent anywhere.
+- Website: the Mac's screen video marked as tested, and the Mac's tested list updated.
