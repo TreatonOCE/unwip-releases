@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.53",
-  "commit": "fa30477c7477c0c950fff055af4282e0855eb222",
-  "name": "Unwip Dev 0.44.53",
-  "body": "- Meet Unwip's own made-up writers: Penny Draft, Doug Deadline, Edith Lessmore, Mortimer Plotwell, Ima Novelist and Bea Layte. Fifty lines from them now turn up among the quotes on the main screen, on first drafts, deadlines, adverbs, dragons' grandmothers and the fridge.\n\nsha256: 638a5183b7d1f57adc3aa38103509512805904f41581d3913ba1698e393fe90d",
+  "tag_name": "v0.44.54",
+  "commit": "d0c7402f89bbcb9e246b806bfd8c5b4b33d33b16",
+  "name": "Unwip Dev 0.44.54",
+  "body": "- Edith Lessmore's glitter line now makes sense.\n\nsha256: 8d011a6d046fe7f29ef5ef263f3bb838eb18b0b0111c17aa14548572bdd5b0ea",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.53.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.53.zip"
+      "name": "unwip-dev-app-0.44.54.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.54.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.53.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.53.zip.sha256"
+      "name": "unwip-dev-app-0.44.54.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.54.zip.sha256"
     }
   ]
 }

@@ -1,0 +1,1 @@
+- Edith Lessmore's glitter line now makes sense.
