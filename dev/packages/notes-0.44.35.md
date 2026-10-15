@@ -1,0 +1,1 @@
+- Dropbox on web and phone: syncing by itself is back to being your choice. New connections start with the Sync button, and "Sync by itself while I write" (Settings › Where your projects live) turns it on.

@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.34",
-  "commit": "21f784f4a3bcd60fe6202e30fe019338e7b6adf8",
-  "name": "Unwip Dev 0.44.34",
-  "body": "Writing safety: a review of everywhere Unwip saves and syncs, with these fixes.\n- Web, iPhone and iPad: a book can only be open in one tab or window at a time. Opening it in a second one asks first (\"Close it there and open here\"), because two tabs could each save over the other's writing.\n- If saving fails (a full disk, a locked or read-only folder) and you go to another chapter and back, your unsaved words come back instead of the older saved copy, and are saved as soon as saving works again. The split view and chapter windows now keep and retry failed saves the same way, instead of dropping them.\n- Two devices: if another device's version of a chapter or the binder arrives just as this one saves, the other version is kept (as a conflicted copy or in Snapshots) instead of being saved over. The timeline, continuity notes and links are now included when both devices changed the book.\n- Web and phone: Unwip checks whether the browser agreed to keep its storage. Without Dropbox, the main screen now says your books are only in the browser, with a \"Save a backup file\" button (a stronger warning if the browser hasn't agreed to keep the storage). This now shows in every browser, not just on phones.\n- Dropbox on web and phone: new connections now sync by themselves, so Dropbox doesn't fall days behind. Existing connections keep the setting they have.\n- Web and phone: \"Update now\" waits until any writing that couldn't be saved is saved. A full phone now gets a message that makes sense (\"out of room\"), not a number.\n- The optional extra daily backup no longer mixes up books with similar names (\"Book\" and \"Book 2\") when tidying old copies.\n- Report a problem: Dropbox paths and the names of your books, chapters and sheets are now hidden too, along with file paths and email addresses.\n- Phones: the top of the main screen no longer runs off the right edge, and the Insignia picture no longer covers its settings while you scroll.\n\nsha256: 04668585ff973daad4e554f981d8a413ca3eb760bc179fc6e96e90913f7ae97b",
+  "tag_name": "v0.44.35",
+  "commit": "0667dc608451f13663827e67ff7bac995e4d0f78",
+  "name": "Unwip Dev 0.44.35",
+  "body": "- Dropbox on web and phone: syncing by itself is back to being your choice. New connections start with the Sync button, and \"Sync by itself while I write\" (Settings \u203a Where your projects live) turns it on.\n\nsha256: cc612eab21784ebd3dc71e0f03b5a6271bb5b77b054ca7fef4477ea431f911cb",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.34.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.34.zip"
+      "name": "unwip-dev-app-0.44.35.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.35.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.34.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.34.zip.sha256"
+      "name": "unwip-dev-app-0.44.35.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.35.zip.sha256"
     }
   ]
 }
