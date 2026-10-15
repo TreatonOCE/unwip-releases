@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.48",
-  "commit": "bc43eb6e1863e93b2145d6c641aec88521092e44",
-  "name": "Unwip Dev 0.44.48",
-  "body": "- A tidy-up behind the scenes: an old preview page on the website is gone. Nothing changes in the app.\n\nsha256: 0556da1763f6b73bdaff2989d71458219a02c17a80624a07c2ee59755caed27c",
+  "tag_name": "v0.44.49",
+  "commit": "35c7ac9ac562ab91d64f5680d47f204342ca4cde",
+  "name": "Unwip Dev 0.44.49",
+  "body": "- Build symbols are now one library, sorted into sections: Shapes, Beasts, Birds, Dragons & monsters, Creatures, Plants, Sun moon & stars, Weapons & tools, Places & things, Death & dark, and Roman numerals I to XX. There are 70 new animal and object symbols: lion, wolf, bear, boar, stag, horse, unicorn, fox, crow and raven, eagle, owl, dove, griffin, dragon, wyvern, sea serpent, hydra, snake, spider, scorpion, bat, rose, oak, crossed swords, anchor, castle, crown, skull and more. Type in the search box to find one (\"crow\", \"skull\", \"IV\").\n- Coats of arms: \"All\u2026\" opens the whole library for the main charge. \"More symbols\" adds as many extra symbols as you like (not only 3). Each has its own colour and size, and you drag it into place on the shield.\n- Sigils: \"+ Symbol\" puts any library symbol on a sigil. The Move tool drags symbols around, like on coats of arms. Each symbol can repeat around the circle with the sigil's copies, and has its own size. Rub out removes symbols too, and Undo brings them back.\n- Insignia: the line symbols are grouped (Tech & system, Combat, Nature & body, Shapes & signs), and \"More\u2026\" opens the animal and object library.\n- Play has Word games, with no timer:\n  - Word guess: find the five-letter word in six tries. Green is the right letter in the right place, gold is in the word but somewhere else. You can type on the keyboard or tap the letters, peek at the meaning as a hint, and see the meanings and other words for it at the end.\n  - Which word?: pick the word that matches a meaning, or switch it round and pick the meaning. It counts your streak.\n  - Thesaurus: look up any word and see its meanings and other words for each, grouped by noun, verb and so on. Tap any of them to look that one up. \"Running\" finds \"run\", \"wolves\" finds \"wolf\".\n  - My words: save any word with \u2606 to learn it. The list follows you between devices. \"Practise these\" quizzes you on them, and \"Write a scene using some\" opens a practice page that ticks each word off as you use it.\n- Word meanings come from WordNet, a free English dictionary from Princeton University (rude words and names left out). It downloads the first time you open a word game, then works offline.\n- Play: a background sync no longer sends you back to Play's main page while you're in a game or the story dice.\n\nsha256: e8a20d94752c207abbf764d52015bc109650159e5ed02281717cabba6b0b4e28",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.48.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.48.zip"
+      "name": "unwip-dev-app-0.44.49.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.49.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.48.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.48.zip.sha256"
+      "name": "unwip-dev-app-0.44.49.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.49.zip.sha256"
     }
   ]
 }

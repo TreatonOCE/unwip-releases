@@ -1,0 +1,11 @@
+- Build symbols are now one library, sorted into sections: Shapes, Beasts, Birds, Dragons & monsters, Creatures, Plants, Sun moon & stars, Weapons & tools, Places & things, Death & dark, and Roman numerals I to XX. There are 70 new animal and object symbols: lion, wolf, bear, boar, stag, horse, unicorn, fox, crow and raven, eagle, owl, dove, griffin, dragon, wyvern, sea serpent, hydra, snake, spider, scorpion, bat, rose, oak, crossed swords, anchor, castle, crown, skull and more. Type in the search box to find one ("crow", "skull", "IV").
+- Coats of arms: "All…" opens the whole library for the main charge. "More symbols" adds as many extra symbols as you like (not only 3). Each has its own colour and size, and you drag it into place on the shield.
+- Sigils: "+ Symbol" puts any library symbol on a sigil. The Move tool drags symbols around, like on coats of arms. Each symbol can repeat around the circle with the sigil's copies, and has its own size. Rub out removes symbols too, and Undo brings them back.
+- Insignia: the line symbols are grouped (Tech & system, Combat, Nature & body, Shapes & signs), and "More…" opens the animal and object library.
+- Play has Word games, with no timer:
+  - Word guess: find the five-letter word in six tries. Green is the right letter in the right place, gold is in the word but somewhere else. You can type on the keyboard or tap the letters, peek at the meaning as a hint, and see the meanings and other words for it at the end.
+  - Which word?: pick the word that matches a meaning, or switch it round and pick the meaning. It counts your streak.
+  - Thesaurus: look up any word and see its meanings and other words for each, grouped by noun, verb and so on. Tap any of them to look that one up. "Running" finds "run", "wolves" finds "wolf".
+  - My words: save any word with ☆ to learn it. The list follows you between devices. "Practise these" quizzes you on them, and "Write a scene using some" opens a practice page that ticks each word off as you use it.
+- Word meanings come from WordNet, a free English dictionary from Princeton University (rude words and names left out). It downloads the first time you open a word game, then works offline.
+- Play: a background sync no longer sends you back to Play's main page while you're in a game or the story dice.
