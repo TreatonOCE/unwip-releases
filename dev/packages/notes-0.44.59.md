@@ -1,0 +1,3 @@
+- Page size: make just the writing page bigger, without changing the toolbars or your manuscript's font size. Use the − and + at the bottom right of a book, Ctrl+Alt+= and Ctrl+Alt+− (⌘⌥ on a Mac), Ctrl+Alt+0 for 100%, or Themes & colours. It goes from 80% to 200%, works in writer mode too, and each device keeps its own (a laptop and a big monitor can differ).
+- Lists: an empty bullet no longer jumps to the middle of the page until you type (Unwip mistook "• " for a scene break).
+- Numbered lists renumber themselves when you delete an item or take an item's number away, as well as when you add one (1, 2, 3, 4 with 2 deleted becomes 1, 2, 3).

@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.58",
-  "commit": "c67833bb1251491f76eefa2965f6f331f5d031b3",
-  "name": "Unwip Dev 0.44.58",
-  "body": "- Sigils and rune alphabets: drawing takes one finger at a time. A second finger used to start its own line and run wild, and made drawing lag; now it cancels the line in progress, and nothing draws until your fingers lift. Drawing is smoother too.\n- On a phone, sigils, insignia and rune alphabets keep their size when you scroll (coats of arms still shrink a little, as before). The explanation text under those three is gone; Help has it.\n- Rune alphabets on a phone: the list of your runes now sits under the rune you're drawing, not above it.\n- Magic systems: Copy text in a spell's window works on Mac (it said \"Couldn't copy here\"). The same fix covers Copy report, Copy credit, copying name ideas and a character sheet's lines, and Copy for Royal Road, which now copy right away and keep their window open.\n- After you go back to the main screen, another device no longer thinks the book is still open on this one. A sync that was mid-way could make it look open for a couple of minutes, so opening it on your phone made you wait.\n\nsha256: 1110809f6db3855dd1d52e8c54f8a023532d36055061c473761602540824f31d",
+  "tag_name": "v0.44.59",
+  "commit": "9556e3b0c3621917804418be90816ebbb181f3ad",
+  "name": "Unwip Dev 0.44.59",
+  "body": "- Page size: make just the writing page bigger, without changing the toolbars or your manuscript's font size. Use the \u2212 and + at the bottom right of a book, Ctrl+Alt+= and Ctrl+Alt+\u2212 (\u2318\u2325 on a Mac), Ctrl+Alt+0 for 100%, or Themes & colours. It goes from 80% to 200%, works in writer mode too, and each device keeps its own (a laptop and a big monitor can differ).\n- Lists: an empty bullet no longer jumps to the middle of the page until you type (Unwip mistook \"\u2022 \" for a scene break).\n- Numbered lists renumber themselves when you delete an item or take an item's number away, as well as when you add one (1, 2, 3, 4 with 2 deleted becomes 1, 2, 3).\n\nsha256: e15f6a9fd0bf71bafbe31e8f2d6666351d797b34bf4c03103f49737b9c26b5e4",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.58.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.58.zip"
+      "name": "unwip-dev-app-0.44.59.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.59.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.58.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.58.zip.sha256"
+      "name": "unwip-dev-app-0.44.59.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.59.zip.sha256"
     }
   ]
 }
