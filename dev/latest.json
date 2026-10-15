@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.68",
-  "commit": "b06c266ccbaa449eb849bad33ce41def079d6b94",
-  "name": "Unwip Dev 0.44.68",
-  "body": "- Fixed: a screen video left recording (or still recording when Unwip closed) could come out as a file Windows' Media Player wouldn't open. Screen videos are now saved as MP4 where the computer can make them, which every player opens, and a recording cut off part-way still plays up to that point. If Unwip closes mid-recording, the video is finished on the way out, or the next time Unwip starts.\n- New character sheet: make one from the Open World tab on the main screen (pick the book), from Open World inside a book, or from the Character sheets list. Name a new character, or pick one who's already in the book, and their sheet opens.\n- The world calendar window is redone: the year shows as a strip with each month at its real length, the seasons in colour under it and the full moons as dots. Months have \u2212 and + for their length, arrows to reorder and \"Set all to\". Week days are chips (type one and press Enter, \u00d7 to remove). The start date reads as a sentence, and the month your story starts in shows as a calendar page with Day 1 marked.\n- Fixed: opening a page from the Corkboard, Moodboard, Timeline or the Insights charts (for example with \"Open this one in the main editor\" in split view) hid the toolbar until you switched Focus, Detail or Lore.\n- Your settings carry over between versions: a new check changes every option in the last public version, opens this one on top, and makes sure nothing was reset.\n\nsha256: 427761a33dcc13d5d9399a58c676e955fec57643102678833eef43d60f1ceb26",
+  "tag_name": "v0.44.69",
+  "commit": "fe60de66fec371017bf23ffd0767d5ce35dd3563",
+  "name": "Unwip Dev 0.44.69",
+  "body": "- The character sheet's \"Stats from\" picker is now \"Show stats of\", with clearer choices: a character's name, \"Status blocks with no name\", or \"Don't show stats, just gear\" (this used to be \"Nobody\").\n\nsha256: 5ab4cb81c508cda87373d834e65225ea79e95c1eab786f2445fb3cd0c2af4dd0",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.68.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.68.zip"
+      "name": "unwip-dev-app-0.44.69.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.69.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.68.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.68.zip.sha256"
+      "name": "unwip-dev-app-0.44.69.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.69.zip.sha256"
     }
   ]
 }

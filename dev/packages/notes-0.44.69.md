@@ -1,0 +1,1 @@
+- The character sheet's "Stats from" picker is now "Show stats of", with clearer choices: a character's name, "Status blocks with no name", or "Don't show stats, just gear" (this used to be "Nobody").
