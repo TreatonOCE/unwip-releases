@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.65",
-  "commit": "6a6f4925b1a690790dfae48bae16ef3f5d0dbf19",
-  "name": "Unwip Dev 0.44.65",
-  "body": "- On a phone, Open World pieces (magic systems, rune alphabets, sigils and insignia) made on an iPad or computer show in Build marked View only. Tap one to see its picture (and Copy picture if you want it); changing it stays on the bigger screens. New ones are made there too.\n\nsha256: 1e2188c8810354c1e6c35779f9eeeba65ae6941472aa11b6cd68cf68d2d1cac0",
+  "tag_name": "v0.44.66",
+  "commit": "ff0f4a43f8f7b6b063f3c91760a84134ed385c05",
+  "name": "Unwip Dev 0.44.66",
+  "body": "- Character sheets on a phone, view only: if a character's sheet has gear (put in on an iPad or computer), their page shows the Character sheet button. It opens the same timeline, stats, inventory and skills, with the gear as a list (slot, item, rarity, note). Nothing can be changed there, and new sheets are still made on a bigger screen.\n- Fixed: on a phone, the buttons at the top of a character's page (Name ideas, Edit character fields, Character sheet) covered the character's name. They now sit above it.\n- On a phone the character sheet's timeline keeps \u2039 and \u203a on the same row as the chapter dots.\n\nsha256: e0d09e0cba769d62d8376b557fb38e6770d141de06c23f64c3cbc8fddcd246d1",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.65.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.65.zip"
+      "name": "unwip-dev-app-0.44.66.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.66.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.65.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.65.zip.sha256"
+      "name": "unwip-dev-app-0.44.66.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.66.zip.sha256"
     }
   ]
 }

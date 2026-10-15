@@ -1,0 +1,3 @@
+- Character sheets on a phone, view only: if a character's sheet has gear (put in on an iPad or computer), their page shows the Character sheet button. It opens the same timeline, stats, inventory and skills, with the gear as a list (slot, item, rarity, note). Nothing can be changed there, and new sheets are still made on a bigger screen.
+- Fixed: on a phone, the buttons at the top of a character's page (Name ideas, Edit character fields, Character sheet) covered the character's name. They now sit above it.
+- On a phone the character sheet's timeline keeps ‹ and › on the same row as the chapter dots.
