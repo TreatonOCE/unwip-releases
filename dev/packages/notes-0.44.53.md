@@ -1,0 +1,1 @@
+- Meet Unwip's own made-up writers: Penny Draft, Doug Deadline, Edith Lessmore, Mortimer Plotwell, Ima Novelist and Bea Layte. Fifty lines from them now turn up among the quotes on the main screen, on first drafts, deadlines, adverbs, dragons' grandmothers and the fridge.

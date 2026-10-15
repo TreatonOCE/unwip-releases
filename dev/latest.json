@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.52",
-  "commit": "510dfa2fae814fd4f8b6fc06b65eaa99672513a1",
-  "name": "Unwip Dev 0.44.52",
-  "body": "- More writers' quotes on the main screen: 116 lines from 54 writers whose words are free for anyone to use, including Trollope on writing a little every day, Mary Shelley on where invention comes from, Twain's \"Use the right word, not its second cousin\", Woolf, Conrad, Henry James, Poe, Kipling, Austen, the Bront\u00ebs, Keats, Coleridge and Bierce's Devil's Dictionary. Each one was checked against its original book, letter or speech.\n\nsha256: 7d065303f02a1a2009f04717124b62ca85e23f3fd0a745e5d30bf2154beb8a5e",
+  "tag_name": "v0.44.53",
+  "commit": "fa30477c7477c0c950fff055af4282e0855eb222",
+  "name": "Unwip Dev 0.44.53",
+  "body": "- Meet Unwip's own made-up writers: Penny Draft, Doug Deadline, Edith Lessmore, Mortimer Plotwell, Ima Novelist and Bea Layte. Fifty lines from them now turn up among the quotes on the main screen, on first drafts, deadlines, adverbs, dragons' grandmothers and the fridge.\n\nsha256: 638a5183b7d1f57adc3aa38103509512805904f41581d3913ba1698e393fe90d",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.52.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.52.zip"
+      "name": "unwip-dev-app-0.44.53.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.53.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.52.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.52.zip.sha256"
+      "name": "unwip-dev-app-0.44.53.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.53.zip.sha256"
     }
   ]
 }
