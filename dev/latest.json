@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.57",
-  "commit": "17a2731983c9958b5c10c9461c828b5987172502",
-  "name": "Unwip Dev 0.44.57",
-  "body": "- Build on a phone: the picture now stays pinned at the top while you scroll through its options, for coats of arms, insignia, character sheets, rune alphabets and sigils (for runes and sigils, the drawing area and its tools stay put). Scroll down and it shrinks to leave room; on insignia and character sheets, tap it to see it full size again. While you type in a box it lets go, so the keyboard never hides what you're typing. Computers and iPads in landscape look the same as before.\n\nsha256: 208827705bb12d457815465d2abdf4bfe1c73136ba8194fa8f5bc27dda0578db",
+  "tag_name": "v0.44.58",
+  "commit": "c67833bb1251491f76eefa2965f6f331f5d031b3",
+  "name": "Unwip Dev 0.44.58",
+  "body": "- Sigils and rune alphabets: drawing takes one finger at a time. A second finger used to start its own line and run wild, and made drawing lag; now it cancels the line in progress, and nothing draws until your fingers lift. Drawing is smoother too.\n- On a phone, sigils, insignia and rune alphabets keep their size when you scroll (coats of arms still shrink a little, as before). The explanation text under those three is gone; Help has it.\n- Rune alphabets on a phone: the list of your runes now sits under the rune you're drawing, not above it.\n- Magic systems: Copy text in a spell's window works on Mac (it said \"Couldn't copy here\"). The same fix covers Copy report, Copy credit, copying name ideas and a character sheet's lines, and Copy for Royal Road, which now copy right away and keep their window open.\n- After you go back to the main screen, another device no longer thinks the book is still open on this one. A sync that was mid-way could make it look open for a couple of minutes, so opening it on your phone made you wait.\n\nsha256: 1110809f6db3855dd1d52e8c54f8a023532d36055061c473761602540824f31d",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.57.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.57.zip"
+      "name": "unwip-dev-app-0.44.58.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.58.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.57.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.57.zip.sha256"
+      "name": "unwip-dev-app-0.44.58.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.58.zip.sha256"
     }
   ]
 }

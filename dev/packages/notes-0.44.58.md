@@ -1,0 +1,5 @@
+- Sigils and rune alphabets: drawing takes one finger at a time. A second finger used to start its own line and run wild, and made drawing lag; now it cancels the line in progress, and nothing draws until your fingers lift. Drawing is smoother too.
+- On a phone, sigils, insignia and rune alphabets keep their size when you scroll (coats of arms still shrink a little, as before). The explanation text under those three is gone; Help has it.
+- Rune alphabets on a phone: the list of your runes now sits under the rune you're drawing, not above it.
+- Magic systems: Copy text in a spell's window works on Mac (it said "Couldn't copy here"). The same fix covers Copy report, Copy credit, copying name ideas and a character sheet's lines, and Copy for Royal Road, which now copy right away and keep their window open.
+- After you go back to the main screen, another device no longer thinks the book is still open on this one. A sync that was mid-way could make it look open for a couple of minutes, so opening it on your phone made you wait.
