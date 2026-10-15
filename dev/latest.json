@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.30",
-  "commit": "3b56505ed9e4b4d5b3886ddc3526fc9a31a20ba5",
-  "name": "Unwip Dev 0.44.30",
-  "body": "- LitRPG ledger (Revise panel or Ctrl+K, with LitRPG tools on): reads every [system message] in the book and follows each stat chapter by chapter, with a small graph each. It flags stats that go down with nothing to explain it, or up with no level-up or [+2 Strength] in between, and levels that skip. It also lists every skill, spell, item, title, class and quest with the chapter it first appears in (quests show when they're complete), and notes anything mentioned before it's acquired. Click any of it to jump there.\n- Build \u203a Character sheet: a LitRPG status screen. Stats and bars (HP, MP\u2026) with how much they grow each level, an XP curve (Steady, Climbing or Steep) with a level-by-level table, and a status screen at any level in four styles. Copy it into the book as [bracketed] lines the ledger can follow.\n- E-books: an option (Settings \u203a LitRPG tools) to make [system messages] real boxes in EPUB and Kindle. Word and print keep plain brackets.\n\nsha256: 8beeb4383d0de1fa393c99442dccc6e7e5f69b5a0a76bab901370bdd0263b3a9",
+  "tag_name": "v0.44.31",
+  "commit": "4e4004b0d3973ef884213df4ddd5a675de769407",
+  "name": "Unwip Dev 0.44.31",
+  "body": "- Themes for LitRPG and sci-fi: System (deep blue), Terminal (green on black), Neon (dark with a pink accent) and Status (a light, cool blue). The page gets a thin edge of light; nothing flashy.\n- Typing: three new letter effects (Decode, Scan in, Glitch), two new cursors (Underscore, like a command prompt, and Glow) and a quiet \"Interface blip\" key sound.\n- Name ideas (no AI): on every character sheet (\ud83c\udfb2 Name ideas\u2026), in Build \u203a Character sheet, and in Ctrl+K. Pick a style (old-world fantasy, invented fantasy, sci-fi, contemporary/LitRPG), lean feminine or masculine or neither, add a middle name or a LitRPG player handle, roll each part on its own, and see the whole name at the bottom. \"Use this name\" puts it on the sheet.\n- Character, place and item sheets: \"Edit \u2026 fields\" now has starting points for Fantasy, Sci-fi, LitRPG and Contemporary stories.\n- Random map names now sound like real places (Craneby, Rossingford) instead of stock fantasy names, and a few examples in the app were changed for the same reason.\n\nsha256: 180604ab724d5f728419b22015af4a1316b625d11a674b3d9b1979cefdafbf0b",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.30.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.30.zip"
+      "name": "unwip-dev-app-0.44.31.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.31.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.30.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.30.zip.sha256"
+      "name": "unwip-dev-app-0.44.31.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.31.zip.sha256"
     }
   ]
 }

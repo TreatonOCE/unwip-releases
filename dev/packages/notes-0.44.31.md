@@ -1,0 +1,5 @@
+- Themes for LitRPG and sci-fi: System (deep blue), Terminal (green on black), Neon (dark with a pink accent) and Status (a light, cool blue). The page gets a thin edge of light; nothing flashy.
+- Typing: three new letter effects (Decode, Scan in, Glitch), two new cursors (Underscore, like a command prompt, and Glow) and a quiet "Interface blip" key sound.
+- Name ideas (no AI): on every character sheet (🎲 Name ideas…), in Build › Character sheet, and in Ctrl+K. Pick a style (old-world fantasy, invented fantasy, sci-fi, contemporary/LitRPG), lean feminine or masculine or neither, add a middle name or a LitRPG player handle, roll each part on its own, and see the whole name at the bottom. "Use this name" puts it on the sheet.
+- Character, place and item sheets: "Edit … fields" now has starting points for Fantasy, Sci-fi, LitRPG and Contemporary stories.
+- Random map names now sound like real places (Craneby, Rossingford) instead of stock fantasy names, and a few examples in the app were changed for the same reason.
