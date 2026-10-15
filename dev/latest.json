@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.44",
-  "commit": "8d0906394d194477fe8a12f49853931a9cfd158d",
-  "name": "Unwip Dev 0.44.44",
-  "body": "- The tour is updated. It now covers Build in the book's toolbar, then carries on to the main screen for Your books, Play, Build and Dropbox sync (Back takes you to the book again). Settings \u203a Help, or \"Take a tour\" on the main screen, runs it.\n- The example book's \"Start here\" note suggests trying Build: a map of the road to the Borgo Pass, or a rune alphabet.\n\nsha256: c4a6c3cbfbc3822b6ceb028e72e75e825f2279707755da4b9bae37046f866c91",
+  "tag_name": "v0.44.45",
+  "commit": "bbbb892c60ab917855b6300c7817f3f4a4272813",
+  "name": "Unwip Dev 0.44.45",
+  "body": "- Sigils: a Smoothing slider for the Pen (like the streamline setting in drawing apps). The pen trails your hand a little and the finished line is rounded off, so wobbles don't show. 0 is off, 10 is smoothest.\n- Sigils: faint marks show where each copy of a dot or line will land before you click. A dot goes down when you let go, so you can slide it into place. Dots are bigger and grow with the Line setting. \"Snap to guides\" clicks points onto the centre, the slice lines and the guide circles (untick to place freely).\n- Sigils: a System background (game interface): glowing lines, a ring of ticks, corner brackets and a readout. The words around the edge now work without a rune alphabet, in plain letters (monospace in System).\n- Rune alphabets: a \"System window\" background frames the writing and the alphabet chart like a game's interface.\n- Magic systems: a System picture style drawn like a status window. Each spell has a \u25c6 Window button that shows it as a game's skill window (rank, school, cost bars), with Copy text giving the [bracketed] lines LitRPG books use. In the System style, Add to book puts spells in as [bracketed] system messages.\n- Insignia: seven new frames (octagon, tech shield, triangle, split hexagon, circuit ring, gear, HUD brackets), background patterns (grid, hex grid, circuit, scanlines, dot matrix, rays, node network, rings), extras (glow, nodes on the frame, side readouts, barcode, glitch, orbit ring, crosshair, rank chevrons), a symbol size slider, twelve new symbols (network, neural, lock, shield, hex core, radar, power, cursor, level up, target lock, data glyph) and five colour schemes (System, Terminal, Synthwave, Hazard, Void).\n- E-books: a chapter with no title of its own showed its number twice on Kindle (\"Chapter One\" and again underneath). The number line is now the heading, shown once.\n\nsha256: c76f876f32179cf10cf2fa1d2181131aa46e8ce100b9701270244b04e7c11772",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.44.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.44.zip"
+      "name": "unwip-dev-app-0.44.45.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.45.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.44.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.44.zip.sha256"
+      "name": "unwip-dev-app-0.44.45.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.45.zip.sha256"
     }
   ]
 }
