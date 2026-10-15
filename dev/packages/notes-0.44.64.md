@@ -1,1 +1,3 @@
 - Build's LitRPG "Character sheet" (stats, how they grow each level, the XP curve) is now called Stat system, so it isn't mixed up with the character sheets at the Lore level. Nothing you've made changes.
+- Lore now adds something you can see inside a book: a Lore group on the left, under Timeline, with Character sheets (every character in the book, how much gear each carries, one click to their sheet) and Open World (magic systems, rune alphabets, sigils and insignia, opened over your chapter). At Lore, Build in the top bar keeps to maps, coats of arms and stat systems.
+- Phones stop at Detail everywhere: no Lore group, no character sheet button, and Lore doesn't come up in search (Ctrl+K). Anything made on a bigger screen is still there when you go back to it.
