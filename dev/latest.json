@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.36",
-  "commit": "10a4bf5cfd6dff42b7c25b4a458c47edccc3ec78",
-  "name": "Unwip Dev 0.44.36",
-  "body": "- iPhone: Settings fit the screen again (the LitRPG section pushed everything sideways).\n- iPhone and iPad: Proof of writing now has a way to start recording. On the main screen, Record lists your books with a Replay switch for each. Inside a book, there's a Record button in the bar under the chapter list. (Phones and iPads don't let web apps record the screen itself, so use the built-in Screen Recording for a video.)\n\nsha256: 59f8887a2633c711092291e97b979ee051f51f98c7c62e46410bf95a63e8bbd8",
+  "tag_name": "v0.44.37",
+  "commit": "e74184f3460368e6655ebc87fee4a3bece64e2a2",
+  "name": "Unwip Dev 0.44.37",
+  "body": "- iPhone and iPad: tapping a \"?\" now shows what that setting means, instead of ticking or picking the setting next to it. Tap it again, or anywhere else, to close it.\n- iPhone and iPad: long dialogs (like Typewriter & animations) scroll all the way to the last setting, instead of stopping just short of it.\n\nsha256: 7c57638d712bb68fc1eeedb28bd73a2e8de917e36d915b686220f6190e5d9cc2",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.36.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.36.zip"
+      "name": "unwip-dev-app-0.44.37.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.37.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.36.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.36.zip.sha256"
+      "name": "unwip-dev-app-0.44.37.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.37.zip.sha256"
     }
   ]
 }

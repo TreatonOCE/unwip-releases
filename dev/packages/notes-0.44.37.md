@@ -1,0 +1,2 @@
+- iPhone and iPad: tapping a "?" now shows what that setting means, instead of ticking or picking the setting next to it. Tap it again, or anywhere else, to close it.
+- iPhone and iPad: long dialogs (like Typewriter & animations) scroll all the way to the last setting, instead of stopping just short of it.
