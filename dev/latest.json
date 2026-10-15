@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.59",
-  "commit": "9556e3b0c3621917804418be90816ebbb181f3ad",
-  "name": "Unwip Dev 0.44.59",
-  "body": "- Page size: make just the writing page bigger, without changing the toolbars or your manuscript's font size. Use the \u2212 and + at the bottom right of a book, Ctrl+Alt+= and Ctrl+Alt+\u2212 (\u2318\u2325 on a Mac), Ctrl+Alt+0 for 100%, or Themes & colours. It goes from 80% to 200%, works in writer mode too, and each device keeps its own (a laptop and a big monitor can differ).\n- Lists: an empty bullet no longer jumps to the middle of the page until you type (Unwip mistook \"\u2022 \" for a scene break).\n- Numbered lists renumber themselves when you delete an item or take an item's number away, as well as when you add one (1, 2, 3, 4 with 2 deleted becomes 1, 2, 3).\n\nsha256: e15f6a9fd0bf71bafbe31e8f2d6666351d797b34bf4c03103f49737b9c26b5e4",
+  "tag_name": "v0.44.60",
+  "commit": "a1fea7d8de9df635dcceb74c7369d1633063db17",
+  "name": "Unwip Dev 0.44.60",
+  "body": "- Writer mode has a strip at the bottom edge, like Scrivener's: move the mouse down to the bottom of the screen and it rises with your word counts, page size (\u2212 and +), Typewriter on or off, Fade (dims everything except the paragraph or sentence you're in) and Exit writer mode. It hides again when you start typing, and none of its buttons take the cursor off the page.\n- Writer mode now has the small formatting bar when you select words: bold, italic, underline, strikethrough, clear formatting and comment.\n- Sprints in writer mode no longer throw you out when the time's up. You hear a chime and the pill at the top turns green and says Sprint done, so you can finish your sentence. Click it, or leave writer mode, to see how it went. With several rounds, it still moves straight on to the break timer.\n- The sprint timer turns green when you reach your word goal (in the pill in writer mode, and on the Sprint button).\n- Cmd+Shift+V on a Mac, iPad or iPhone keyboard now pastes matching your manuscript style, like plain paste in Google Docs. In the Mac app it's also in the Edit menu. On the web your browser may ask once before letting Unwip read the clipboard.\n- Character interview is easier to find and can use your own questions. Press Ctrl+K (\u2318K) and type \"interview\" to start one, or pick \"Character interview questions\" to write your own list, one per line. Your questions follow you to your other devices. It's still in Spark too (Why am I stuck? \u203a I don't know what happens next), and there's a Help topic for it.\n\nsha256: ad68770b6284ff04ec84619859ed284482e0d55cc705d4d808df92f87359fe00",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.59.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.59.zip"
+      "name": "unwip-dev-app-0.44.60.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.60.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.59.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.59.zip.sha256"
+      "name": "unwip-dev-app-0.44.60.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.60.zip.sha256"
     }
   ]
 }
