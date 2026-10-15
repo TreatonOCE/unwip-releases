@@ -1,0 +1,4 @@
+- Spark has a sixth tool, Interview a character. Pick who (from your Characters folder; it starts on the chapter's POV character if there is one) and a set of questions: Main character, Villain, Love interest, Side character or Backstory. You see the questions before you start. The interview is saved in Notes, named after the character, and opens beside your chapter.
+- Write my own questions… lets you write your own list, starting from one of the sets if you like. It shows up as My questions and follows you to your other devices. Unwip remembers the set you used last.
+- Ctrl+K (⌘K) and "interview" opens the same tool. It's still offered under Why am I stuck? › I don't know what happens next.
+- Calmer wording across the app: buttons, messages, hints and Help were reworded to be plainer and less pushy.

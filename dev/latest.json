@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.60",
-  "commit": "a1fea7d8de9df635dcceb74c7369d1633063db17",
-  "name": "Unwip Dev 0.44.60",
-  "body": "- Writer mode has a strip at the bottom edge, like Scrivener's: move the mouse down to the bottom of the screen and it rises with your word counts, page size (\u2212 and +), Typewriter on or off, Fade (dims everything except the paragraph or sentence you're in) and Exit writer mode. It hides again when you start typing, and none of its buttons take the cursor off the page.\n- Writer mode now has the small formatting bar when you select words: bold, italic, underline, strikethrough, clear formatting and comment.\n- Sprints in writer mode no longer throw you out when the time's up. You hear a chime and the pill at the top turns green and says Sprint done, so you can finish your sentence. Click it, or leave writer mode, to see how it went. With several rounds, it still moves straight on to the break timer.\n- The sprint timer turns green when you reach your word goal (in the pill in writer mode, and on the Sprint button).\n- Cmd+Shift+V on a Mac, iPad or iPhone keyboard now pastes matching your manuscript style, like plain paste in Google Docs. In the Mac app it's also in the Edit menu. On the web your browser may ask once before letting Unwip read the clipboard.\n- Character interview is easier to find and can use your own questions. Press Ctrl+K (\u2318K) and type \"interview\" to start one, or pick \"Character interview questions\" to write your own list, one per line. Your questions follow you to your other devices. It's still in Spark too (Why am I stuck? \u203a I don't know what happens next), and there's a Help topic for it.\n\nsha256: ad68770b6284ff04ec84619859ed284482e0d55cc705d4d808df92f87359fe00",
+  "tag_name": "v0.44.61",
+  "commit": "1979d7aa2c2fe1d56ba8721f655a40b5f805da3d",
+  "name": "Unwip Dev 0.44.61",
+  "body": "- Spark has a sixth tool, Interview a character. Pick who (from your Characters folder; it starts on the chapter's POV character if there is one) and a set of questions: Main character, Villain, Love interest, Side character or Backstory. You see the questions before you start. The interview is saved in Notes, named after the character, and opens beside your chapter.\n- Write my own questions\u2026 lets you write your own list, starting from one of the sets if you like. It shows up as My questions and follows you to your other devices. Unwip remembers the set you used last.\n- Ctrl+K (\u2318K) and \"interview\" opens the same tool. It's still offered under Why am I stuck? \u203a I don't know what happens next.\n- Calmer wording across the app: buttons, messages, hints and Help were reworded to be plainer and less pushy.\n\nsha256: 677d0a7648e3d93da5a010b3ac7dbeaecef26dff99c829a4fff356d648b01e77",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.60.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.60.zip"
+      "name": "unwip-dev-app-0.44.61.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.61.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.60.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.60.zip.sha256"
+      "name": "unwip-dev-app-0.44.61.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.61.zip.sha256"
     }
   ]
 }
