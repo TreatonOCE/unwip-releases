@@ -1,0 +1,7 @@
+- Story Bible: the ‹ › arrows next to a book's name move it earlier or later in the series. They now say so when you point at them, and a note tells you where the book went. Long titles stay on one line, so every book's pill is the same size.
+- Character sheet: "Don't show stats, just gear" now sticks.
+- Character sheet: when you're looking back, tap the chapter's name to open that chapter. "Back to latest" is its own button.
+- Character sheet: ‹ and › at the top step to the character before or after, without closing the sheet.
+- Fonts: Lora and Libre Baskerville are no longer listed as favourites, since Unwip has them as Larkspur and Bookhaven. If you change the font in Style and some text has a font of its own (from pasting, importing or the toolbar), Unwip tells you and offers Font for the whole book to bring it all into line.
+- The side panel button now opens your other tabs (Insights, Comments, Changes, Snapshots, Style). Revise has its own button.
+- Setup: the little layout pictures show properly again, and are easy to see in dark looks.
