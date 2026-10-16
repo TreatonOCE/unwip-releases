@@ -1,0 +1,14 @@
+- New: the Story Bible (main screen › Open World, Lore level). One for each series, or for a book on its own:
+  - People, Places and Things from every book, with where each one appears (by name, first name, surname or an "Aliases" line), who they're often with and their gear.
+  - Make a person, place or thing right there and tick the books they're in. The page is shared, so a change in one book reaches the others. "Add to another book" does the same for someone who's already there. The "New character sheet" card works this way too.
+  - In a chapter, select words and choose Add to bible (on the little bar, right-click on a PC, or Ctrl+K) to pin them as a fact, a plot thread or a glossary word. A fact with a topic, like Hair, replaces the earlier one from its chapter on.
+  - "As of" shows the bible up to any chapter, with nothing from later on.
+  - Threads lists what you've set up and how long it's been waiting for a pay-off.
+  - Glossary checks the spelling of your world's words and names in every chapter, and suggests words your chapters use that aren't in the dictionary.
+  - Export… saves the bible as Word or PDF, up to a chapter if you like, for a beta reader or an editor.
+  - Books in a series can be put in order (Book 1, Book 2…) from the bible.
+- Maps: frames and labels near the edge are no longer cut off, and pictures you save or copy grow to include anything placed past the edge. You can also zoom out further.
+- Town maps: Sparse, Normal and Dense block fill now look clearly different, from houses with gardens to packed streets.
+- Random town now adds a new town on top of your map instead of replacing it. It appears in the middle of the screen, selected, ready to drag into place. "Replace this map" still starts afresh, frames included.
+- New Select an area tool on maps: drag a box round things, then move or delete them together. Tapping to select is gentler on iPhone and iPad, so a tap no longer nudges things.
+- Fixed: Copy picture didn't work on the PC for maps and other Build pieces.

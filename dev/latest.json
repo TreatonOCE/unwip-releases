@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.69",
-  "commit": "fe60de66fec371017bf23ffd0767d5ce35dd3563",
-  "name": "Unwip Dev 0.44.69",
-  "body": "- The character sheet's \"Stats from\" picker is now \"Show stats of\", with clearer choices: a character's name, \"Status blocks with no name\", or \"Don't show stats, just gear\" (this used to be \"Nobody\").\n\nsha256: 5ab4cb81c508cda87373d834e65225ea79e95c1eab786f2445fb3cd0c2af4dd0",
+  "tag_name": "v0.44.70",
+  "commit": "76756b478945020b7502c4f2d55411bac8b97e73",
+  "name": "Unwip Dev 0.44.70",
+  "body": "- New: the Story Bible (main screen \u203a Open World, Lore level). One for each series, or for a book on its own:\n  - People, Places and Things from every book, with where each one appears (by name, first name, surname or an \"Aliases\" line), who they're often with and their gear.\n  - Make a person, place or thing right there and tick the books they're in. The page is shared, so a change in one book reaches the others. \"Add to another book\" does the same for someone who's already there. The \"New character sheet\" card works this way too.\n  - In a chapter, select words and choose Add to bible (on the little bar, right-click on a PC, or Ctrl+K) to pin them as a fact, a plot thread or a glossary word. A fact with a topic, like Hair, replaces the earlier one from its chapter on.\n  - \"As of\" shows the bible up to any chapter, with nothing from later on.\n  - Threads lists what you've set up and how long it's been waiting for a pay-off.\n  - Glossary checks the spelling of your world's words and names in every chapter, and suggests words your chapters use that aren't in the dictionary.\n  - Export\u2026 saves the bible as Word or PDF, up to a chapter if you like, for a beta reader or an editor.\n  - Books in a series can be put in order (Book 1, Book 2\u2026) from the bible.\n- Maps: frames and labels near the edge are no longer cut off, and pictures you save or copy grow to include anything placed past the edge. You can also zoom out further.\n- Town maps: Sparse, Normal and Dense block fill now look clearly different, from houses with gardens to packed streets.\n- Random town now adds a new town on top of your map instead of replacing it. It appears in the middle of the screen, selected, ready to drag into place. \"Replace this map\" still starts afresh, frames included.\n- New Select an area tool on maps: drag a box round things, then move or delete them together. Tapping to select is gentler on iPhone and iPad, so a tap no longer nudges things.\n- Fixed: Copy picture didn't work on the PC for maps and other Build pieces.\n\nsha256: 4b68bb897e22f1c9274ef0f2d6b778f9f1a97e0c9e252598d46f2bebba64cda1",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.69.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.69.zip"
+      "name": "unwip-dev-app-0.44.70.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.70.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.69.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.69.zip.sha256"
+      "name": "unwip-dev-app-0.44.70.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.70.zip.sha256"
     }
   ]
 }
