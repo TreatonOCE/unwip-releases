@@ -1,0 +1,6 @@
+- Turning a list into sheets: a list of abilities written as [system messages] now becomes one sheet per ability, not one per line. Lines next to each other belong together, and an empty line or a ——— line starts the next one. A [Note: …] on its own stays with the ability before it. Each sheet is named after the ability ("Sir Charge", "Show me the Money", or "Conversion" after a bare [Unique Skill]).
+- Story Bible:
+  - Each book has a ⋯ menu: open it, take it out of the series, or delete it.
+  - People, Places and Things can show All together or By book (by the book each one first turns up in).
+  - Relationships and the Connections at the top of a page are now one list: one made in either place shows in both.
+- Maps and pictures on a page: "+ Map or picture" above a character, place or thing page links a map, coat of arms or other Build piece to it, or makes a new map named after the place. They show as small pictures on the page and in the Story Bible. Right-click a page or use Ctrl+K too.

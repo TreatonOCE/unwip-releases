@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.74",
-  "commit": "6656b84d65ebd33c16ebb4b8f1bead01caf0ed7a",
-  "name": "Unwip Dev 0.44.74",
-  "body": "- Copy for Royal Road: more looks for system message boxes. Green terminal, arcane purple, golden notice, red warning, parchment note, steel panel and dashed outline, as well as the four from before.\n- New \"Matched to each message\" look: each box picks its look from its first message. Warnings go red, quests and rewards gold, skills and spells purple, level-ups green, items on parchment, and anything else blue.\n- Fixed: the page size \u2212 button could still look as if it sat on the percentage after you clicked it.\n\nsha256: 5c6267cab3171dcab543c49b1682e6705553b46e60ef1d8254d25a765bed9114",
+  "tag_name": "v0.44.75",
+  "commit": "a21d77f0fe9f030e38200cd78dc63664b3502ab5",
+  "name": "Unwip Dev 0.44.75",
+  "body": "- Turning a list into sheets: a list of abilities written as [system messages] now becomes one sheet per ability, not one per line. Lines next to each other belong together, and an empty line or a \u2014\u2014\u2014 line starts the next one. A [Note: \u2026] on its own stays with the ability before it. Each sheet is named after the ability (\"Sir Charge\", \"Show me the Money\", or \"Conversion\" after a bare [Unique Skill]).\n- Story Bible:\n  - Each book has a \u22ef menu: open it, take it out of the series, or delete it.\n  - People, Places and Things can show All together or By book (by the book each one first turns up in).\n  - Relationships and the Connections at the top of a page are now one list: one made in either place shows in both.\n- Maps and pictures on a page: \"+ Map or picture\" above a character, place or thing page links a map, coat of arms or other Build piece to it, or makes a new map named after the place. They show as small pictures on the page and in the Story Bible. Right-click a page or use Ctrl+K too.\n\nsha256: 2ef3a88b23f48e006c693e86e3c8241999a610c39f9f7cc2eb96e5432638559a",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.74.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.74.zip"
+      "name": "unwip-dev-app-0.44.75.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.75.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.74.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.74.zip.sha256"
+      "name": "unwip-dev-app-0.44.75.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.75.zip.sha256"
     }
   ]
 }
