@@ -1,0 +1,3 @@
+- Copy for Royal Road: more looks for system message boxes. Green terminal, arcane purple, golden notice, red warning, parchment note, steel panel and dashed outline, as well as the four from before.
+- New "Matched to each message" look: each box picks its look from its first message. Warnings go red, quests and rewards gold, skills and spells purple, level-ups green, items on parchment, and anything else blue.
+- Fixed: the page size − button could still look as if it sat on the percentage after you clicked it.
