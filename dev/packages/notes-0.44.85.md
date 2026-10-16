@@ -1,0 +1,2 @@
+- iPhone: the Build buttons no longer flash at the top of the screen and then drop below the Story Bible.
+- Unwip Dev on iPhone and iPad: the Dropbox button now says Off, and tapping it explains why. Dev is the test copy, so it never connects to Dropbox and can't touch your real books.

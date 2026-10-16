@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.84",
-  "commit": "e7f8481d663eb96a8fdf3c2f21104220d709161b",
-  "name": "Unwip Dev 0.44.84",
-  "body": "- Story Bible: the \u2039 \u203a arrows next to a book's name move it earlier or later in the series. They now say so when you point at them, and a note tells you where the book went. Long titles stay on one line, so every book's pill is the same size.\n- Character sheet: \"Don't show stats, just gear\" now sticks.\n- Character sheet: when you're looking back, tap the chapter's name to open that chapter. \"Back to latest\" is its own button.\n- Character sheet: \u2039 and \u203a at the top step to the character before or after, without closing the sheet.\n- Fonts: Lora and Libre Baskerville are no longer listed as favourites, since Unwip has them as Larkspur and Bookhaven. If you change the font in Style and some text has a font of its own (from pasting, importing or the toolbar), Unwip tells you and offers Font for the whole book to bring it all into line.\n- The side panel button now opens your other tabs (Insights, Comments, Changes, Snapshots, Style). Revise has its own button.\n- Setup: the little layout pictures show properly again, and are easy to see in dark looks.\n\nsha256: dfcb7f0ec6960defa2be1049bfb5f3fef8bc50bf50052960495910022eff5de8",
+  "tag_name": "v0.44.85",
+  "commit": "e935dbb82bf9276dc7073687f745c990af412c71",
+  "name": "Unwip Dev 0.44.85",
+  "body": "- iPhone: the Build buttons no longer flash at the top of the screen and then drop below the Story Bible.\n- Unwip Dev on iPhone and iPad: the Dropbox button now says Off, and tapping it explains why. Dev is the test copy, so it never connects to Dropbox and can't touch your real books.\n\nsha256: 9607b51410bae47519492fe220950f92d84fd2f0aadac052d6cbde88fa8c7b91",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.84.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.84.zip"
+      "name": "unwip-dev-app-0.44.85.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.85.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.84.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.84.zip.sha256"
+      "name": "unwip-dev-app-0.44.85.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.85.zip.sha256"
     }
   ]
 }
