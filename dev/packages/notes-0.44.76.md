@@ -1,0 +1,1 @@
+- The main screen's header stays on two rows (logo and buttons, then the level switch and tabs) at every level, so it no longer jumps when you switch between Focus, Detail and Lore.
