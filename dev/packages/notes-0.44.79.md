@@ -1,0 +1,13 @@
+- Book cards on the main screen show when each book was last changed, with the time, so two copies of a book are easy to tell apart.
+- Spark no longer glows while you're typing in the split window. Pages Spark makes (an interview, the scene you're excited about, your ideas note) go below Trash, under New, ready to drag into place.
+- Choosing an icon: type a word to find an emoji (trash, dragon, castle) without the Windows emoji keyboard. There's a trash can among the icons again.
+- Find (Ctrl+F) looks only in your chapter, not the buttons and binder. You can backspace and retype freely, and Enter goes to the next match.
+- Character sheet: clicking Looking back takes you to the latest chapter.
+- Character sheet stats: money and shop messages like [New Balance: 1,680] or [Cost: 10] aren't counted as stats any more, and a joke status like [Status: feeling smug] isn't taken for a character's name.
+- Story Bible: the ⋯ next to a book works again (open, take out of the series, delete), and End the series… splits a series back into books of their own.
+- Settings: scrolling down straight after opening doesn't jump back to the top.
+- LitRPG: the Kindle / EPUB preview now shows [system messages] as boxes when "boxes in e-books" is ticked. Before, the preview always showed plain brackets, even though the EPUB had the boxes.
+- LitRPG: new choice in Settings › LitRPG for a short message on its own, like [I am]: a full-width box (as before), a box that fits the words, or no box, just bold brackets. Several messages in a row, like a status screen, keep the full box. It applies while you write, in the preview, in the EPUB and in the Royal Road copy.
+- Maps: a selected label's box now fits its lettering exactly, at any size or angle.
+- Maps: the brush circle follows the mouse as you move it, not only while you press.
+- Maps: fields, parks and woods, and buildings on town maps can be turned and resized with the handles (or R, + and −), like market stalls.

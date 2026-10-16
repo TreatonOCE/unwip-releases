@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.78",
-  "commit": "f12a5da88a74df4099ed771f0aa4dfaefe719c6c",
-  "name": "Unwip Dev 0.44.78",
-  "body": "- Autocorrect as you type, with no AI. It fixes common typos (teh, adn, recieve, dont), \"i\" on its own and a missing capital at the start of a sentence. Turn it off, or change what it does, in Settings \u203a Autocorrect.\n- Your own corrections: on a PC or Mac, right-click a word with a red line and choose Always correct to. On any device, use Ctrl+K \u203a Always correct this word, or Settings \u203a Autocorrect \u203a Your corrections. A short one works as a shortcut too.\n- Optional: fix a word that's one letter off a real word. It's off until you tick it, and it leaves names, your book's characters and places, and words you've already written that way alone.\n- If it corrects something you meant, press Backspace or Ctrl+Z straight away and your word comes back. Do that twice for the same word and Unwip stops correcting it.\n- Nothing inside [system messages] or links is corrected.\n\nsha256: 6e42c35963c28f2469f8aac298d76c54300ed2d4b936471e4b2c2ca300834633",
+  "tag_name": "v0.44.79",
+  "commit": "b1842447c4f4f885dc46cee1aab4c3ba9e8b4386",
+  "name": "Unwip Dev 0.44.79",
+  "body": "- Book cards on the main screen show when each book was last changed, with the time, so two copies of a book are easy to tell apart.\n- Spark no longer glows while you're typing in the split window. Pages Spark makes (an interview, the scene you're excited about, your ideas note) go below Trash, under New, ready to drag into place.\n- Choosing an icon: type a word to find an emoji (trash, dragon, castle) without the Windows emoji keyboard. There's a trash can among the icons again.\n- Find (Ctrl+F) looks only in your chapter, not the buttons and binder. You can backspace and retype freely, and Enter goes to the next match.\n- Character sheet: clicking Looking back takes you to the latest chapter.\n- Character sheet stats: money and shop messages like [New Balance: 1,680] or [Cost: 10] aren't counted as stats any more, and a joke status like [Status: feeling smug] isn't taken for a character's name.\n- Story Bible: the \u22ef next to a book works again (open, take out of the series, delete), and End the series\u2026 splits a series back into books of their own.\n- Settings: scrolling down straight after opening doesn't jump back to the top.\n- LitRPG: the Kindle / EPUB preview now shows [system messages] as boxes when \"boxes in e-books\" is ticked. Before, the preview always showed plain brackets, even though the EPUB had the boxes.\n- LitRPG: new choice in Settings \u203a LitRPG for a short message on its own, like [I am]: a full-width box (as before), a box that fits the words, or no box, just bold brackets. Several messages in a row, like a status screen, keep the full box. It applies while you write, in the preview, in the EPUB and in the Royal Road copy.\n- Maps: a selected label's box now fits its lettering exactly, at any size or angle.\n- Maps: the brush circle follows the mouse as you move it, not only while you press.\n- Maps: fields, parks and woods, and buildings on town maps can be turned and resized with the handles (or R, + and \u2212), like market stalls.\n\nsha256: 479b561b015e3b85eef258527b0462f67252ca87d8c96c529fdedfe2b6de289e",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.78.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.78.zip"
+      "name": "unwip-dev-app-0.44.79.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.79.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.78.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.78.zip.sha256"
+      "name": "unwip-dev-app-0.44.79.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.79.zip.sha256"
     }
   ]
 }
