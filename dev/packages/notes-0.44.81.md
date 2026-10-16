@@ -1,0 +1,2 @@
+- Behind the scenes: a tidy-up of Unwip's code, with nothing you should notice. The Moodboard and Timeline have their own files now, leftovers from older versions are gone, and [system messages] are spotted by one shared rule on the page, in e-books and in the Royal Road copy. Every check passed before and after, and 39 screens were compared pixel by pixel.
+- Maps on a phone: tapping a small building selects it again, instead of sometimes resizing it a little (from the new turn and resize handles).
