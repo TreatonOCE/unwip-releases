@@ -1,0 +1,19 @@
+- New: **Add to…** on words you pick in a chapter, at Detail and Lore (the little bar, right-click › Add to on a PC, or Ctrl+K). Put the words on a character, place or thing page, under the heading you choose, or start a timeline event linked to the chapter with the characters named in it. Lore also offers a character sheet's gear and the Story Bible.
+- Story Bible:
+  - Relationships on every page (+ Relationship): family, love, allies, enemies, where someone lives, what they carry. Each can start and stop at a chapter, so As of shows who was what to whom at that point.
+  - The new Web tab draws everyone's relationships as a map. Click a name to open their page.
+  - New person, place or thing: pick the books with a search instead of a list of every book. From the main screen nothing is ticked until you choose.
+  - On a phone the Story Bible is in Build and read only. iPads keep everything.
+- Build tools:
+  - Symbols come in categories with a dropdown (Recent first, then each kind, then All with a search), the same in coats of arms, sigils and insignia.
+  - One colour row everywhere: black, white, yellow, red, blue, green and a custom colour with a colour square, recent colours and "From picture" to take a colour from the picture.
+  - Size and turn handles on the picture, like on maps, for coat of arms symbols, sigil symbols and the insignia symbol. The sliders stay and follow the handles.
+  - Four ribbon shapes for the motto, with their own ribbon and letter colours.
+  - The magic system's Parchment style is now a proper scroll: rolled ends, a decorated first letter, costs written as a ledger, marks in the margin and a wax seal.
+- Settings › What's new shows the notes for recent versions. A new version now shows a bigger notice with what it brings.
+- The typewriter's margin bell sounds like a real struck bell.
+- Import › a folder on an Unwip book now brings it in as a book (it used to read the book's own files as chapters).
+- Fixed: picking Lore could push Record and Settings off the right edge of the main screen.
+- Fixed: the page size − and + overlapped the percentage in the status bar.
+- Fixed: opening a rune alphabet or other Lore piece from the Story Bible and closing it left you in Build. It now goes back to the Story Bible.
+- Fixed: on an iPad the Build top bar's Random button sat on top of Record.
