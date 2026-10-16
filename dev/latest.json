@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.76",
-  "commit": "62c418ee237b1fb4612e0fb2362ec717121e185a",
-  "name": "Unwip Dev 0.44.76",
-  "body": "- The main screen's header stays on two rows (logo and buttons, then the level switch and tabs) at every level, so it no longer jumps when you switch between Focus, Detail and Lore.\n\nsha256: f736d0b078a44c196f70d43e046b8710a420de249ebd9a62df9184f0ebe7bb7f",
+  "tag_name": "v0.44.77",
+  "commit": "c7cacbe785f883b79451d2f00f7b2fb4700ec6b5",
+  "name": "Unwip Dev 0.44.77",
+  "body": "- Settings \u203a What's new shows the latest three versions.\n\nsha256: c7d253fe17aa1e2f98c608d940c2931e0c84dab4d78e050c763e2e8ddd2a9b1f",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.76.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.76.zip"
+      "name": "unwip-dev-app-0.44.77.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.77.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.76.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.76.zip.sha256"
+      "name": "unwip-dev-app-0.44.77.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.77.zip.sha256"
     }
   ]
 }

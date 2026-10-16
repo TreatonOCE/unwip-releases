@@ -1,0 +1,1 @@
+- Settings › What's new shows the latest three versions.
