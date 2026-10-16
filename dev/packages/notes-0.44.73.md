@@ -1,0 +1,1 @@
+- Scrivener import: a deleted document in Scrivener's Trash with no text left is no longer shown as a warning. It's mentioned quietly and goes into Unwip's Trash like the rest of the Trash. A text file missing anywhere else is still flagged.

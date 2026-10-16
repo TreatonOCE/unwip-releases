@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.72",
-  "commit": "f6ca51a66b0d55cde09df6ea4f348602f3291ddb",
-  "name": "Unwip Dev 0.44.72",
-  "body": "- Updates on the PC and Mac are found sooner: Unwip looks for a new version every hour and whenever you come back to it after half an hour away, not just at start-up and every six hours.\n- Once an update is installed, a \"Restart to update\" button stays on the main screen and in the status bar until you restart. Your writing is saved first.\n- Settings \u203a Updates says when Unwip last checked, or why the last check failed.\n\nsha256: e9401351dcd9c38989005325188c795a2b84b9433bf4a3093040e4057c9a45e2",
+  "tag_name": "v0.44.73",
+  "commit": "88743c76d1a07a4abdc7c301d51aa5115ce4e7a9",
+  "name": "Unwip Dev 0.44.73",
+  "body": "- Scrivener import: a deleted document in Scrivener's Trash with no text left is no longer shown as a warning. It's mentioned quietly and goes into Unwip's Trash like the rest of the Trash. A text file missing anywhere else is still flagged.\n\nsha256: 136d4dcbfb4c7bb7b79e11e091950b0d3ceb53efa6a3f867f519e93a75ff9793",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.72.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.72.zip"
+      "name": "unwip-dev-app-0.44.73.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.73.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.72.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.72.zip.sha256"
+      "name": "unwip-dev-app-0.44.73.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.73.zip.sha256"
     }
   ]
 }
