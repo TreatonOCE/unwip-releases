@@ -1,0 +1,3 @@
+- Updates on the PC and Mac are found sooner: Unwip looks for a new version every hour and whenever you come back to it after half an hour away, not just at start-up and every six hours.
+- Once an update is installed, a "Restart to update" button stays on the main screen and in the status bar until you restart. Your writing is saved first.
+- Settings › Updates says when Unwip last checked, or why the last check failed.
