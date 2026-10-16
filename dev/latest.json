@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.82",
-  "commit": "353cfe4c83063daf01f5faaae552dcc60f448d9f",
-  "name": "Unwip Dev 0.44.82",
-  "body": "- Behind the scenes, with nothing you should notice: Dropbox sign-in for syncing and for importing from Scrivener now share one set of steps, and the corkboard has its own file. Both have new checks of their own first, and every check, 39 screens and 43 exported files were compared before and after.\n- Unwip Dev now runs every check before each update, not just the quick ones.\n\nsha256: 0b6d0ae66b90f1b6f7ab6233d3bdaf2eaf7bb0d9bcff3a86b5fb9571d9cb4d7c",
+  "tag_name": "v0.44.83",
+  "commit": "5e72d39caf781bff0c953c7f40d013bf1c3323ae",
+  "name": "Unwip Dev 0.44.83",
+  "body": "- Behind the scenes, with nothing you should notice: 33 older fixes that were only ever checked by hand now have an automatic check each, so a later change can't quietly undo them. They cover saving and sync, the editor, Build and maps, and phone layouts. Each check was tested by undoing its fix in a copy of the app and making sure the check complained.\n\nsha256: cb40874503bc529396f27182a4c45d1706a402c7a2d75773c86d3b5c7262d2f5",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.82.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.82.zip"
+      "name": "unwip-dev-app-0.44.83.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.83.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.82.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.82.zip.sha256"
+      "name": "unwip-dev-app-0.44.83.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.83.zip.sha256"
     }
   ]
 }

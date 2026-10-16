@@ -1,0 +1,1 @@
+- Behind the scenes, with nothing you should notice: 33 older fixes that were only ever checked by hand now have an automatic check each, so a later change can't quietly undo them. They cover saving and sync, the editor, Build and maps, and phone layouts. Each check was tested by undoing its fix in a copy of the app and making sure the check complained.
