@@ -1,0 +1,2 @@
+- Behind the scenes, with nothing you should notice: Dropbox sign-in for syncing and for importing from Scrivener now share one set of steps, and the corkboard has its own file. Both have new checks of their own first, and every check, 39 screens and 43 exported files were compared before and after.
+- Unwip Dev now runs every check before each update, not just the quick ones.

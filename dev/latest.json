@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.81",
-  "commit": "2b05acebb6ca32faac7cfd80c71c7f412e33aa17",
-  "name": "Unwip Dev 0.44.81",
-  "body": "- Behind the scenes: a tidy-up of Unwip's code, with nothing you should notice. The Moodboard and Timeline have their own files now, leftovers from older versions are gone, and [system messages] are spotted by one shared rule on the page, in e-books and in the Royal Road copy. Every check passed before and after, and 39 screens were compared pixel by pixel.\n- Maps on a phone: tapping a small building selects it again, instead of sometimes resizing it a little (from the new turn and resize handles).\n\nsha256: e39e9f108daeff5c453c38d8438c4ee952d12b27407f544e117040e24f5bd9b1",
+  "tag_name": "v0.44.82",
+  "commit": "353cfe4c83063daf01f5faaae552dcc60f448d9f",
+  "name": "Unwip Dev 0.44.82",
+  "body": "- Behind the scenes, with nothing you should notice: Dropbox sign-in for syncing and for importing from Scrivener now share one set of steps, and the corkboard has its own file. Both have new checks of their own first, and every check, 39 screens and 43 exported files were compared before and after.\n- Unwip Dev now runs every check before each update, not just the quick ones.\n\nsha256: 0b6d0ae66b90f1b6f7ab6233d3bdaf2eaf7bb0d9bcff3a86b5fb9571d9cb4d7c",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.81.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.81.zip"
+      "name": "unwip-dev-app-0.44.82.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.82.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.81.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.81.zip.sha256"
+      "name": "unwip-dev-app-0.44.82.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.82.zip.sha256"
     }
   ]
 }
