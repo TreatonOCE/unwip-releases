@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.87",
-  "commit": "cf182b905cc20da720c7909a4061935b753693da",
-  "name": "Unwip Dev 0.44.87",
-  "body": "- Characters of the world: make a character without picking a book (New character sheet, or New person in the Story Bible) and they wait in Open World, next to your magic systems and sigils. Add them to a book whenever you like with Add to book\u2026 at the top.\n- Chapters left out of the book now say \"left out\" next to their word count, so it's clear why they're faded, even on a touch screen.\n- Build at Focus and Detail: magic systems, rune alphabets, sigils and insignia now sit under their own \"From Open World\" heading, so it's clear why they show there and not at Lore.\n- iPhone: on a map, the Front, Forward, Backward, Back and bin buttons are a small row of icons on the left, clear of the screen's corner.\n- The website has new screenshots and clips from the current Unwip, and new wording. It goes live with the next public version.\n\nsha256: ecbe960bb8628901eec02cdcc44874de7c787e9937daa39ff0ade7dcba5ff3bf",
+  "tag_name": "v0.44.88",
+  "commit": "3bb2cb22f891dbdf5340387181488a945e9e84c2",
+  "name": "Unwip Dev 0.44.88",
+  "body": "- Website: LitRPG now has one section, under Lore.\n\nsha256: a53b87092b1ecc5f32b33734c70cd07cb7ab2672384c7134cb803da7375cece0",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.87.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.87.zip"
+      "name": "unwip-dev-app-0.44.88.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.88.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.87.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.87.zip.sha256"
+      "name": "unwip-dev-app-0.44.88.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.88.zip.sha256"
     }
   ]
 }
