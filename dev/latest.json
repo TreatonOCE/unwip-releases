@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.44.88",
-  "commit": "3bb2cb22f891dbdf5340387181488a945e9e84c2",
-  "name": "Unwip Dev 0.44.88",
-  "body": "- Website: LitRPG now has one section, under Lore.\n\nsha256: a53b87092b1ecc5f32b33734c70cd07cb7ab2672384c7134cb803da7375cece0",
+  "tag_name": "v0.44.89",
+  "commit": "8c624bd903f4c89ff7e1889f79c759664531f8b3",
+  "name": "Unwip Dev 0.44.89",
+  "body": "- Website: the logo at the top now reads Unwip\u2026 Write to finish, the same as in the app, on phones too.\n\nsha256: e7d9c958af6d39c3a0c70ec81875081da99a0d78ba0d3ab43e11c3ac627eb260",
   "assets": [
     {
-      "name": "unwip-dev-app-0.44.88.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.88.zip"
+      "name": "unwip-dev-app-0.44.89.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.89.zip"
     },
     {
-      "name": "unwip-dev-app-0.44.88.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.88.zip.sha256"
+      "name": "unwip-dev-app-0.44.89.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.44.89.zip.sha256"
     }
   ]
 }

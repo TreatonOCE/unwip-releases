@@ -1,0 +1,1 @@
+- Website: the logo at the top now reads Unwip… Write to finish, the same as in the app, on phones too.
