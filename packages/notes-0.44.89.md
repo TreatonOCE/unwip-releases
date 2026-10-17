@@ -1,0 +1,5 @@
+- Characters of the world: make a character without picking a book (New character sheet, or New person in the Story Bible) and they wait in Open World, next to your magic systems and sigils. Add them to a book whenever you like with Add to book… at the top.
+- Chapters left out of the book now say "left out" next to their word count, so it's clear why they're faded, even on a touch screen.
+- Build at Focus and Detail: magic systems, rune alphabets, sigils and insignia now sit under their own "From Open World" heading, so it's clear why they show there and not at Lore.
+- iPhone: on a map, the Front, Forward, Backward, Back and bin buttons are a small row of icons on the left, clear of the screen's corner.
+- The website has new screenshots and clips from the current Unwip, new wording, and the full logo at the top: Unwip… Write to finish, as in the app.
